@@ -1,32 +1,32 @@
-backing	company	type	year_public	valid_time_window	outcome	 peak_market_cap_within_1yr 
-VC	Teladoc Health	Challenger	2015	x		 $1.30 
-VC	Guardant Health	Challenger	2018	x		 $1.59 
-VC	Livongo	Challenger	2019	x		 $3.40 
-VC	GoodRx	Challenger	2020	x		 $19.40 
-VC	One Medical	Challenger	2020	x		 $2.00 
-VC	23andMe	Challenger	2021	x	Bankrupt	 $3.50 
-VC	Babylon	Challenger	2021	x	Bankrupt	 $7.90 
-VC	Better Therapeutics	Challenger	2021	x	Bankrupt	 $0.07 
-VC	Bright (Bright Health Group)	Challenger	2021	x	Bankrupt	 $13.40 
-VC	Pear Therapeutics	Challenger	2021	x	Bankrupt	 $1.60 
-VC	Clover Health	Challenger	2021	x		 $7.00 
-VC	DocGo	Challenger	2021	x		 $0.94 
-VC	Hims & Hers	Challenger	2021	x		 $1.33 
-VC	Oscar Health	Challenger	2021	x		 $7.70 
-VC	Talkspace	Challenger	2021	x		 $1.40 
-VC	Akili	Challenger	2022	x	Take Private	 $0.45 
-VC	Progyny	Enabler	2019	x		 $1.30 
-VC	Science 37	Enabler	2021	x	Take Private	 $1.30 
-VC	Sharecare	Enabler	2021	x	Take Private	 $3.90 
-VC	Veeva Systems	Enabler	2013	x		 $5.70 
-VC	Castlight Health	Enabler	2014	x	Take Private	 $3.90 
-VC	Evolent Health	Enabler	2015	x		 $1.10 
-VC	iRhythm Technologies	Enabler	2016	x		 $0.80 
-VC	Health Catalyst	Enabler	2019	x		 $1.50 
-VC	Phreesia	Enabler	2019	x		 $1.40 
-VC	Accolade	Enabler	2020	x	Take Private	 $1.20 
-VC	AmWell (American Well)	Enabler	2020	x		 $4.00 
-VC	Doximity	Enabler	2021	x		 $9.40 
-VC	Sema4 → GeneDx	Enabler	2021	x		 $2.00 
-VC	Allurion Technologies	Enabler	2023	x		 $0.50 
-VC	Tempus AI	Enabler	2024	x		 $6.10 
+company	type	year_public	outcome	 peak_market_cap_within_1yr 
+Veeva Systems	Enabler	2013		 $5.70 
+Castlight Health	Enabler	2014	Take Private	 $3.90 
+Teladoc Health	Challenger	2015		 $1.30 
+Evolent Health	Enabler	2015		 $1.10 
+iRhythm Technologies	Enabler	2016		 $0.80 
+Guardant Health	Enabler	2018		 $1.59 
+Livongo	Challenger	2019		 $3.40 
+Health Catalyst	Enabler	2019		 $1.50 
+Phreesia	Enabler	2019		 $1.40 
+Progyny	Enabler	2019		 $1.30 
+One Medical	Challenger	2020		 $2.00 
+Accolade	Enabler	2020	Take Private	 $1.20 
+AmWell (American Well)	Enabler	2020		 $4.00 
+GoodRx	Enabler	2020		 $19.40 
+Babylon	Challenger	2021	Bankrupt	 $7.90 
+Better Therapeutics	Challenger	2021	Bankrupt	 $0.07 
+Bright (Bright Health Group)	Challenger	2021	Bankrupt	 $13.40 
+Clover Health	Challenger	2021		 $7.00 
+DocGo	Challenger	2021		 $0.94 
+Hims & Hers	Challenger	2021		 $1.33 
+Oscar Health	Challenger	2021		 $7.70 
+Pear Therapeutics	Challenger	2021	Bankrupt	 $1.60 
+Talkspace	Challenger	2021		 $1.40 
+23andMe	Enabler	2021	Bankrupt	 $3.50 
+Doximity	Enabler	2021		 $9.40 
+Science 37	Enabler	2021	Take Private	 $1.30 
+Sema4 → GeneDx	Enabler	2021		 $2.00 
+Sharecare	Enabler	2021	Take Private	 $3.90 
+Akili	Challenger	2022	Take Private	 $0.45 
+Allurion Technologies	Enabler	2023		 $0.50 
+Tempus AI	Enabler	2024		 $6.10 

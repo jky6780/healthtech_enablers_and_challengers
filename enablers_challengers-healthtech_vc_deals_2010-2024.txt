@@ -1,311 +1,139 @@
 company	deal_year	company_type	amt_raised_millions
 Accolade (Managed Care)	2010	Enabler	16.94
-Aircare	2010	Enabler	6.50
 AirStrip Technologies	2010	Enabler	30.00
-Alere Analytics	2010	Enabler	5.00
-Allocade	2010	Enabler	5.07
 AltheaDx	2010	Enabler	6.00
 Ambra Health	2010	Enabler	11.88
-Apree Health	2010	Challenger	60.00
-Benchmark Revenue Management	2010	Enabler	5.00
-Bloom Health (US)	2010	Enabler	7.50
-Blue Health Intelligence	2010	Enabler	28.01
-Boston Heart Diagnostics	2010	Challenger	10.05
-BrainHQ	2010	Challenger	5.23
-Candescent Health	2010	Enabler	24.59
 CardioDx	2010	Challenger	35.00
 CareCloud Health	2010	Enabler	5.00
-Celula	2010	Challenger	15.00
-Change Healthcare (Acquired 2014)	2010	Enabler	5.50
-ClearCount Medical Solutions	2010	Enabler	5.00
-Command Health	2010	Enabler	7.53
-Consult A Doctor	2010	Enabler	7.00
-Emerald Cloud Lab	2010	Challenger	5.00
-Enli Health Intelligence	2010	Enabler	8.00
-Enli Health Intelligence	2010	Enabler	8.00
 Essence Healthcare	2010	Challenger	31.73
-Everyday Health	2010	Enabler	20.00
-gloStream	2010	Enabler	6.84
-Health Market Science	2010	Enabler	6.14
-Healthrageous (Other Healthcare Technology Systems)	2010	Enabler	6.06
-ikaSystems	2010	Enabler	120.00
-Ingenuity Systems	2010	Enabler	15.40
 InstaMed (Financial Software)	2010	Enabler	6.00
 InTouch Health	2010	Challenger	10.00
-IPG (Managed Care)	2010	Enabler	26.18
 Lineagen	2010	Enabler	6.11
-Linkwell Health	2010	Enabler	6.00
-MD Synergy Solutions	2010	Enabler	8.08
-Medley Health	2010	Enabler	7.50
-MedOp Services	2010	Enabler	
-MedSynergies	2010	Enabler	10.00
-MedSynergies	2010	Enabler	5.00
-MedVantx	2010	Enabler	13.00
-MedVentive	2010	Enabler	10.00
-Metamark Genetics	2010	Challenger	22.10
-Navigenics	2010	Challenger	18.00
 Notal Vision	2010	Enabler	12.90
-NuScriptRX	2010	Enabler	5.88
 One Medical (Clinics/Outpatient Services)	2010	Challenger	15.00
-OneHealth Solutions	2010	Enabler	7.00
-PathCentral	2010	Enabler	10.03
-PatientSafe Solutions	2010	Enabler	30.00
 PatientsLikeMe	2010	Enabler	8.62
 Phreesia (NYS: PHR)	2010	Enabler	19.78
-Phytel	2010	Enabler	14.24
-PinnacleCare	2010	Enabler	8.18
-Prognosis Innovation Healthcare	2010	Enabler	
-Qliance Management	2010	Challenger	6.00
-REACH Health	2010	Enabler	5.00
 Rheonix	2010	Challenger	12.60
-Shape Up	2010	Challenger	5.00
-Syft	2010	Enabler	7.00
-SynapDx	2010	Challenger	9.35
-Touchstone Health	2010	Challenger	27.50
 Verge Health	2010	Enabler	10.10
-Zeo	2010	Enabler	12.34
 Zocdoc	2010	Enabler	15.00
-23andMe (PINX: MEHCQ)	2011	Challenger	31.00
-Aircare	2011	Enabler	7.10
-Alliance Health	2011	Enabler	11.38
+23andMe (PINX: MEHCQ)	2011	Enabler	31.00
 Ambra Health	2011	Enabler	7.50
 Analyte Health	2011	Challenger	10.82
-Audax Health Solutions	2011	Enabler	16.50
 Aventura (Automation/Workflow Software)	2011	Enabler	10.60
-Boston Heart Diagnostics	2011	Challenger	6.60
-Brighter	2011	Enabler	5.00
-Brighter	2011	Enabler	7.90
 CardioDx	2011	Challenger	60.00
-Care Team Connect	2011	Enabler	5.52
 CareCloud Health	2011	Enabler	20.11
-Casenet	2011	Enabler	19.66
 Cleveland HeartLab	2011	Challenger	18.35
-Clinipace	2011	Challenger	14.80
-CoreLab Partners	2011	Challenger	7.00
-Digital Assent	2011	Enabler	7.50
-Doximity (NYS: DOCS)	2011	Enabler	10.76
 Essence Healthcare	2011	Challenger	70.00
-General Resonance	2011	Enabler	13.81
 Glytec	2011	Enabler	8.27
 goBalto	2011	Enabler	5.70
 Health Catalyst (NAS: HCAT)	2011	Enabler	14.35
 Healthmine	2011	Enabler	40.00
-HealthSense	2011	Enabler	7.50
 HealthTap	2011	Challenger	10.40
 HeartFlow	2011	Enabler	20.42
 Hicuity Health	2011	Challenger	8.00
-ikaSystems	2011	Enabler	30.00
 iLLUME Ai	2011	Enabler	6.40
 InstaMed (Financial Software)	2011	Enabler	5.50
-IntegenX	2011	Enabler	20.62
 Iora Health	2011	Challenger	6.25
-Keas	2011	Enabler	6.50
 Kyruus	2011	Enabler	5.50
-Laboratory Partners	2011	Challenger	5.00
 Life Image	2011	Enabler	19.85
 Lineagen	2011	Enabler	5.00
-Medley Health	2011	Enabler	20.00
-MedSynergies	2011	Enabler	25.05
-MedSynergies	2011	Enabler	10.00
-MedVentive	2011	Enabler	12.00
-Metabolon	2011	Enabler	13.15
-NeoVista	2011	Enabler	33.78
-Net.Orange	2011	Enabler	5.00
-NuScriptRX	2011	Enabler	6.60
 One Medical (Clinics/Outpatient Services)	2011	Challenger	20.00
 OneMedNet (NAS: ONMD)	2011	Enabler	8.00
-PatientKeeper	2011	Enabler	6.00
 Perminova	2011	Enabler	3.00
 Practice Fusion	2011	Enabler	23.82
 Prognos Health	2011	Enabler	7.73
 RedBrick Health	2011	Enabler	10.00
-Runkeeper	2011	Enabler	10.00
 Sapphire Digital	2011	Enabler	16.31
 Sapphire Digital	2011	Enabler	9.00
 Sapphire Digital	2011	Enabler	12.00
-Shareable Forms	2011	Enabler	6.04
 Sharecare	2011	Enabler	14.00
 Strava	2011	Enabler	12.60
 Tebra Technologies	2011	Enabler	10.00
-Teladoc Health (NYS: TDOC)	2011	Challenger	15.27
-Teladoc Health (NYS: TDOC)	2011	Challenger	19.60
-Trapelo Health	2011	Enabler	9.70
 Wellfount	2011	Enabler	6.00
-ZeOmega	2011	Enabler	5.00
 Zocdoc	2011	Enabler	75.00
-23andMe (PINX: MEHCQ)	2012	Challenger	57.95
-ABILITY Network	2012	Enabler	27.00
+23andMe (PINX: MEHCQ)	2012	Enabler	57.95
 ABOUT Healthcare	2012	Enabler	8.03
-Accelerated Vision	2012	Enabler	6.00
 Accolade (Managed Care)	2012	Enabler	7.00
-Aircare	2012	Enabler	9.55
 AirStrip Technologies	2012	Enabler	24.90
 AirStrip Technologies	2012	Enabler	10.00
 Akili Interactive	2012	Challenger	8.50
 Ambra Health	2012	Enabler	5.50
-Amplifire	2012	Enabler	5.00
 Analyte Health	2012	Challenger	8.00
 Annai Systems	2012	Enabler	6.86
 Apixio	2012	Enabler	5.79
-Apree Health	2012	Challenger	100.00
-Candescent Health	2012	Enabler	14.88
 CardioDx	2012	Challenger	88.00
-CareCentrix	2012	Enabler	
 Carena	2012	Enabler	14.00
 CareZone	2012	Enabler	12.97
-Change Healthcare (Acquired 2014)	2012	Enabler	9.32
-ChartWise	2012	Enabler	5.00
 Cleveland HeartLab	2012	Challenger	14.70
-Clinipace	2012	Challenger	6.00
-COMS Interactive	2012	Enabler	6.25
 ContinuumRX	2012	Enabler	7.00
-Coridea	2012	Enabler	5.00
-Doximity (NYS: DOCS)	2012	Enabler	17.05
 Evariant	2012	Enabler	7.94
 Experity	2012	Enabler	12.00
 Ginger	2012	Challenger	6.50
 goBalto	2012	Enabler	12.00
-Healthentic	2012	Enabler	16.25
-Healthrageous (Other Healthcare Technology Systems)	2012	Enabler	7.28
-HealthSense	2012	Enabler	7.00
-Humedica	2012	Enabler	33.10
-ikaSystems	2012	Enabler	18.00
 InstaMed (Financial Software)	2012	Enabler	14.00
-IntegenX	2012	Enabler	48.84
-Invitae	2012	Challenger	29.56
-Kinnser	2012	Enabler	39.91
-Kure (Other Healthcare Services)	2012	Enabler	
-Limeade	2012	Enabler	5.57
-Linkwell Health	2012	Enabler	8.26
-Lose It!	2012	Enabler	9.07
 MDLive	2012	Challenger	10.29
-Metamark Genetics	2012	Challenger	9.11
 Modernizing Medicine	2012	Enabler	6.60
-Mscripts	2012	Enabler	6.00
-MyDirectives Solutions	2012	Enabler	5.00
-NeoVista	2012	Enabler	5.19
-NuScriptRX	2012	Enabler	13.00
-PatientKeeper	2012	Enabler	6.25
 PerfectServe	2012	Enabler	11.00
 Practice Fusion	2012	Enabler	34.00
-Predilytics	2012	Enabler	6.07
-Prognosis Innovation Healthcare	2012	Enabler	5.08
 Progyny (NAS: PGNY)	2012	Enabler	20.00
-Quantia	2012	Enabler	12.00
 Radiology Partners	2012	Challenger	60.00
-Remedly	2012	Enabler	5.00
-Remita Health	2012	Challenger	51.19
-Retrofit ME Products	2012	Challenger	10.88
 Rheonix	2012	Challenger	6.00
-Ridge Diagnostics	2012	Challenger	6.61
-Rise Health.	2012	Challenger	9.93
-Shareable Forms	2012	Enabler	5.07
 Sharecare	2012	Enabler	68.00
 Simplee (Financial Software)	2012	Enabler	7.73
-Skylight Healthcare Systems	2012	Enabler	5.00
-Strand Diagnostics	2012	Challenger	30.00
-Talyst	2012	Enabler	10.00
-Tango Health	2012	Enabler	5.00
 TigerConnect	2012	Enabler	10.00
 Truveris	2012	Enabler	10.00
-Valence Health	2012	Enabler	30.00
 Voalte	2012	Enabler	6.00
-WellFX	2012	Enabler	5.00
-Within3	2012	Enabler	20.00
-Accelecare	2013	Challenger	70.00
 Accolade (Managed Care)	2013	Enabler	30.00
-Acupera	2013	Enabler	6.00
 AltheaDx	2013	Enabler	7.25
 Atentiv Health	2013	Enabler	8.06
 Aventura (Automation/Workflow Software)	2013	Enabler	6.80
-Axial Exchange	2013	Enabler	5.00
-Axion Health	2013	Enabler	6.45
-Bina Technologies	2013	Enabler	8.00
 Bluesight	2013	Enabler	5.37
-Breakthrough Behavioral	2013	Challenger	5.00
-Brighter	2013	Enabler	15.00
 CareCloud Health	2013	Enabler	30.00
 CellTrak	2013	Enabler	12.00
-Change Healthcare (Acquired 2014)	2013	Enabler	15.19
-Clarity Health Services	2013	Enabler	8.38
 ClearDATA	2013	Enabler	14.00
 Comprehend	2013	Enabler	8.50
 ConcertoHealth	2013	Challenger	20.50
 Conversio Health	2013	Enabler	14.83
-Covetrus	2013	Enabler	7.59
 Crossover Health	2013	Challenger	6.49
 Cureatr	2013	Enabler	5.78
-DermatologistOnCall	2013	Enabler	5.93
 eHealth Technologies	2013	Enabler	6.00
 Elucid	2013	Enabler	6.00
 Emids Technologies	2013	Enabler	13.30
-Evolent Health (NYS: EVH)	2013	Enabler	100.00
 Experity	2013	Enabler	11.90
 Fabric Genomics	2013	Enabler	6.80
 Flatiron	2013	Enabler	8.00
 Glooko	2013	Enabler	3.75
-Glow (Healthcare Technology Systems)	2013	Enabler	6.00
-Health Access Solutions	2013	Enabler	6.70
-Health Access Solutions	2013	Enabler	7.00
 Health Catalyst (NAS: HCAT)	2013	Enabler	41.00
-Health Integrated	2013	Enabler	2.00
 Healthmine	2013	Enabler	15.00
 HealthSpot	2013	Enabler	10.90
 HealthTap	2013	Challenger	24.00
 HNI Healthcare	2013	Enabler	9.80
 Included Health	2013	Enabler	10.00
 Independa	2013	Enabler	4.56
-Informatics Corporation of America	2013	Enabler	6.00
 InformedDNA	2013	Enabler	7.72
 InTouch Health	2013	Challenger	8.90
-Invitae	2013	Challenger	10.00
-Invitae	2013	Challenger	40.00
 Iora Health	2013	Challenger	14.03
-IPG (Managed Care)	2013	Enabler	10.00
-Keas	2013	Enabler	8.00
 Kyruus	2013	Enabler	11.00
 Life Image	2013	Enabler	36.58
-Lincata	2013	Enabler	9.50
 Lineagen	2013	Enabler	16.26
 Lineagen	2013	Enabler	3.88
-Maverix Biomics	2013	Enabler	7.99
 Maxwell Health	2013	Enabler	6.00
 MedCPU	2013	Enabler	8.18
-MedSynergies	2013	Enabler	65.00
-Metabolon	2013	Enabler	15.00
 Modernizing Medicine	2013	Enabler	14.00
-MyFitnessPal	2013	Enabler	18.00
-New Ocean Health Solutions	2013	Enabler	10.00
 Olive (Enterprise Systems)	2013	Enabler	5.00
 One Medical (Clinics/Outpatient Services)	2013	Challenger	30.00
-OneHealth Solutions	2013	Enabler	9.00
 Oscar Health (NYS: OSCR)	2013	Challenger	51.50
-PatientSafe Solutions	2013	Enabler	27.00
 PatientsLikeMe	2013	Enabler	12.00
 Phreesia (NYS: PHR)	2013	Enabler	10.00
-Phytel	2013	Enabler	5.00
 Prognos Health	2013	Enabler	15.00
-Qliance Management	2013	Challenger	14.15
-Quire	2013	Enabler	5.03
-RazorInsights	2013	Enabler	11.00
 RedBrick Health	2013	Enabler	14.00
-Retrofit ME Products	2013	Challenger	5.00
 Rheonix	2013	Challenger	12.00
 Sapphire Digital	2013	Enabler	22.00
-Shape Up	2013	Challenger	5.00
-Shareable Forms	2013	Enabler	10.81
 Simplee (Financial Software)	2013	Enabler	10.00
 Strava	2013	Enabler	19.70
-SynapDx	2013	Challenger	25.85
-Teladoc Health (NYS: TDOC)	2013	Challenger	15.00
 US HealthVest	2013	Challenger	36.00
-WellCentive	2013	Enabler	6.51
 Welltok	2013	Enabler	18.71
-xG Health Solutions	2013	Enabler	40.00
-YPrime	2013	Enabler	5.00
-ZeOmega	2013	Enabler	21.50
 AbleTo	2014	Challenger	6.00
-Advantasure	2014	Enabler	60.80
 AirStrip Technologies	2014	Enabler	25.00
 American Well (NYS: AMWL)	2014	Enabler	81.19
 Amino Health	2014	Enabler	7.00
@@ -313,134 +141,77 @@ Apixio	2014	Enabler	13.50
 ArborMetrix	2014	Enabler	7.77
 Aspire Health	2014	Challenger	5.50
 Atentiv Health	2014	Enabler	8.20
-Audax Health Solutions	2014	Enabler	28.00
 Augmedix	2014	Enabler	7.36
-AVIA	2014	Enabler	6.00
-Beam Benefits	2014	Enabler	5.00
-Better. (Social/Platform Software)	2014	Enabler	5.00
 BetterDoctor	2014	Enabler	10.00
 Binary Fountain	2014	Enabler	5.70
-Blue Health Intelligence	2014	Enabler	42.56
-Bravo Wellness	2014	Enabler	22.12
 CardioDx	2014	Challenger	35.00
 CareGuardian	2014	Challenger	5.06
 CareZone	2014	Enabler	30.00
-Celula	2014	Challenger	22.15
-Ceras Health	2014	Enabler	
-Change Healthcare (Acquired 2014)	2014	Enabler	5.00
 ClearCare	2014	Enabler	11.00
 Cleveland HeartLab	2014	Challenger	6.50
 Clinicient	2014	Enabler	15.00
-Clinipace	2014	Challenger	17.00
-Cohealo	2014	Enabler	8.96
 Comprehend	2014	Enabler	21.02
-Concert (Enterprise Systems (Healthcare))	2014	Enabler	5.18
-DaVincian Healthcare	2014	Enabler	50.00
 Doctor On Demand	2014	Challenger	21.00
-Doximity (NYS: DOCS)	2014	Enabler	53.99
-eCaring	2014	Enabler	5.00
-Emerald Cloud Lab	2014	Challenger	5.61
-Emerald Cloud Lab	2014	Challenger	13.50
 Enlace Health	2014	Enabler	8.50
 Evariant	2014	Enabler	18.30
 Fabric Genomics	2014	Enabler	
-First Opinion	2014	Enabler	6.00
 Flatiron	2014	Enabler	130.00
 Foodsmart	2014	Enabler	8.50
 GeneSight	2014	Challenger	12.50
 Ginger	2014	Challenger	20.00
 Glooko	2014	Enabler	7.00
-Glow (Healthcare Technology Systems)	2014	Enabler	16.73
 goBalto	2014	Enabler	5.00
 Health Catalyst (NAS: HCAT)	2014	Enabler	41.00
-Health Outcomes Sciences	2014	Enabler	7.00
-Healthcare BlueBook	2014	Enabler	7.00
 HealthCare.com	2014	Challenger	9.27
-HealthSense	2014	Enabler	10.00
 HealthSpot	2014	Enabler	18.32
 HeartFlow	2014	Enabler	104.70
-IHM Services	2014	Enabler	7.10
-ikaSystems	2014	Enabler	15.00
 Included Health	2014	Enabler	40.00
 InstaMed (Financial Software)	2014	Enabler	16.80
-Invitae	2014	Challenger	120.00
-Jumo Health	2014	Enabler	5.00
-Keas	2014	Enabler	7.42
-LifeMap Solutions	2014	Enabler	5.00
-LifeNexus	2014	Enabler	12.70
-Limeade	2014	Enabler	25.00
-Linkwell Health	2014	Enabler	8.99
-Lucina	2014	Enabler	6.00
 Lumeris	2014	Enabler	71.03
 Lumiata	2014	Enabler	6.00
 Mango Health (Application Software)	2014	Enabler	5.25
 Maxwell Health	2014	Enabler	26.37
 MD Revolution	2014	Enabler	9.00
 MDLive	2014	Challenger	23.60
-Medalogix	2014	Enabler	5.00
 MedCPU	2014	Enabler	9.30
-Medversant Technologies	2014	Enabler	
-My Health Coach	2014	Challenger	6.20
-MyHealthDirect	2014	Enabler	5.00
 Newtopia (TSX: NEWU)	2014	Enabler	5.00
 Noom	2014	Challenger	7.00
 Nuna	2014	Enabler	30.00
-NuScriptRX	2014	Enabler	11.03
 Omada (NAS: OMDA)	2014	Challenger	23.00
 OmeCare	2014	Challenger	36.00
 OmeCare	2014	Challenger	35.00
 One Medical (Clinics/Outpatient Services)	2014	Challenger	40.50
-OneFocus Vision	2014	Enabler	5.50
 OneStudyTeam	2014	Enabler	7.40
 OnShift	2014	Enabler	7.10
-openDoctor	2014	Enabler	5.00
-Oration	2014	Enabler	11.20
 Oscar Health (NYS: OSCR)	2014	Challenger	30.00
 Oscar Health (NYS: OSCR)	2014	Challenger	80.00
-Pascal Metrics	2014	Enabler	9.85
 Phreesia (NYS: PHR)	2014	Enabler	30.00
 PillPack	2014	Challenger	8.75
 PipelineRx	2014	Enabler	5.00
 Practice Fusion	2014	Enabler	87.95
-Predilytics	2014	Enabler	10.00
-QPID	2014	Enabler	12.31
-Quantapore	2014	Enabler	6.80
-Quantia	2014	Enabler	10.00
 RedBrick Health	2014	Enabler	7.50
 Reflexion Health	2014	Enabler	7.50
 Remedy Partners	2014	Enabler	35.20
-Respondwell	2014	Challenger	5.00
-RethinkFirst	2014	Challenger	10.00
-RightCare Solutions	2014	Enabler	9.00
-SA Ignite	2014	Enabler	5.37
-Sandlot Solutions	2014	Enabler	23.30
 Sharecare	2014	Enabler	42.28
 SHYFT Analytics	2014	Enabler	19.00
-SRG Technology	2014	Enabler	
 Strava	2014	Enabler	18.50
 Syapse	2014	Enabler	10.00
 Tebra Technologies	2014	Enabler	27.00
-Teladoc Health (NYS: TDOC)	2014	Challenger	57.14
 TigerConnect	2014	Enabler	21.00
-Touchstone Health	2014	Challenger	6.00
-TrialScope	2014	Enabler	10.20
 TriNetX	2014	Enabler	13.01
 Truveris	2014	Enabler	12.75
 Validic	2014	Enabler	5.03
 Vertava Health	2014	Challenger	6.00
 Vida	2014	Challenger	5.00
 Viewics	2014	Enabler	8.00
-VisiQuate	2014	Enabler	6.15
 VisitPay	2014	Enabler	5.00
 Voalte	2014	Enabler	36.00
-WebPT	2014	Enabler	42.99
-WellCentive	2014	Enabler	12.00
 Welldoc	2014	Challenger	20.00
 Wellfount	2014	Enabler	30.00
 Wellframe	2014	Enabler	8.50
 Welltok	2014	Enabler	22.09
 Zephyr Health	2014	Enabler	15.00
-23andMe (PINX: MEHCQ)	2015	Challenger	115.00
+23andMe (PINX: MEHCQ)	2015	Enabler	115.00
 AbleTo	2015	Challenger	12.00
 Accolade (Managed Care)	2015	Enabler	22.50
 Activate Care	2015	Enabler	8.40
@@ -453,16 +224,11 @@ Amino Health	2015	Enabler	12.92
 Angioinsight	2015	Challenger	
 Annai Systems	2015	Enabler	19.00
 Antidote	2015	Enabler	6.80
-AperiSys	2015	Challenger	5.48
 Apervita	2015	Enabler	17.92
 Arivale	2015	Enabler	36.00
-Asian Health Services	2015	Challenger	
 Aspire Health	2015	Challenger	15.00
-Audubon Ambulatory Surgery Center	2015	Challenger	5.28
 Augmedix	2015	Enabler	16.53
-AustinPx	2015	Enabler	10.00
 Aventura (Automation/Workflow Software)	2015	Enabler	14.00
-Bamboo Health (Acquired)	2015	Enabler	11.30
 Benchling	2015	Enabler	5.00
 Better Therapeutics	2015	Enabler	6.58
 Bluesight	2015	Enabler	12.00
@@ -471,7 +237,6 @@ Careforth	2015	Challenger	20.00
 CareLinx	2015	Challenger	5.24
 Carena	2015	Enabler	13.30
 CareSync	2015	Enabler	18.00
-CareWell Urgent Care	2015	Challenger	9.22
 Castle Biosciences (NAS: CSTL)	2015	Challenger	17.00
 Catapult Health	2015	Challenger	8.50
 Ceresti Health	2015	Challenger	7.00
@@ -483,11 +248,8 @@ CloudMine	2015	Enabler	7.22
 Clover Health Investments (NAS: CLOV)	2015	Challenger	35.00
 Clover Health Investments (NAS: CLOV)	2015	Challenger	13.00
 Collaborative Medical Technology	2015	Challenger	5.00
-CommuniCare Health Centers	2015	Challenger	
 ConcertoHealth	2015	Challenger	15.25
 ContinuumRX	2015	Enabler	13.50
-Covetrus	2015	Enabler	52.30
-Covetrus	2015	Enabler	5.20
 Crisis Text Line	2015	Challenger	7.00
 Crossover Health	2015	Challenger	15.00
 Cureatr	2015	Enabler	13.00
@@ -496,7 +258,6 @@ DiaCarta	2015	Challenger	8.00
 Discovery Health Partners	2015	Enabler	22.56
 Doctor On Demand	2015	Challenger	64.32
 Eligible	2015	Enabler	22.70
-Emerald Cloud Lab	2015	Challenger	20.00
 Enlace Health	2015	Enabler	13.60
 Enlitic (ASX: ENL)	2015	Enabler	13.00
 Epion Health	2015	Enabler	6.81
@@ -551,10 +312,8 @@ MD Revolution	2015	Enabler	23.49
 MDLive	2015	Challenger	50.00
 MDsave	2015	Enabler	14.14
 MedCPU	2015	Enabler	5.00
-MedGenome	2015	Challenger	14.37
 Medisafe	2015	Enabler	6.00
 Metabiota	2015	Enabler	31.20
-MHK (Enterprise Systems (Healthcare))	2015	Enabler	77.50
 Modernizing Medicine	2015	Enabler	48.00
 Modernizing Medicine	2015	Enabler	20.00
 MyHealthTeam	2015	Enabler	5.03
@@ -592,12 +351,9 @@ Rheonix	2015	Challenger	28.60
 RiverMend Health	2015	Challenger	60.00
 Roam Analytics	2015	Enabler	9.60
 Saama Analytics	2015	Enabler	35.75
-Sabino Recovery	2015	Challenger	5.00
 Sanguine	2015	Enabler	5.53
 Sapphire Digital	2015	Enabler	41.84
-Schweiger Dermatology Group	2015	Challenger	12.40
 Science 37 Holdings	2015	Enabler	6.50
-Sebacia	2015	Challenger	8.00
 Sentieon	2015	Enabler	20.00
 Sentrian	2015	Enabler	8.00
 Sharecare	2015	Enabler	33.12
@@ -605,7 +361,6 @@ Sherpaa	2015	Challenger	6.17
 sikka.ai	2015	Enabler	10.50
 sikka.ai	2015	Enabler	5.50
 SleepMed	2015	Challenger	7.01
-SpacePharma	2015	Challenger	
 Spiras Health	2015	Challenger	6.70
 Spruce Health	2015	Enabler	15.00
 Statera Spine	2015	Enabler	9.60
@@ -644,18 +399,15 @@ Zocdoc	2015	Enabler	130.00
 4G Clinical	2016	Enabler	5.00
 Aaptiv	2016	Challenger	14.00
 ABOUT Healthcare	2016	Enabler	5.89
-AbsoluteCARE	2016	Challenger	12.02
 Accolade (Managed Care)	2016	Enabler	71.10
 Accuity Delivery Systems	2016	Enabler	14.46
 Advantia Health	2016	Challenger	12.00
 Akili Interactive	2016	Challenger	42.50
-Akumin	2016	Challenger	5.59
 Aldera	2016	Enabler	5.13
 Aligned TeleHealth	2016	Enabler	12.00
 Alto Pharmacy	2016	Challenger	6.00
 AmberGen	2016	Enabler	
 Ambra Health	2016	Enabler	6.00
-AMES Technology	2016	Challenger	
 Ampersand Health (Other Healthcare Services)	2016	Challenger	5.15
 Analyte Health	2016	Challenger	6.50
 Antidote	2016	Enabler	6.41
@@ -664,31 +416,24 @@ AristaMD	2016	Enabler	9.67
 Arterys	2016	Enabler	12.00
 Aspire Health	2016	Challenger	31.35
 Augmedix	2016	Enabler	40.45
-AustinPx	2016	Enabler	12.00
-AVIA	2016	Enabler	7.17
 Avizia	2016	Enabler	17.00
 Azalea Health	2016	Enabler	10.61
 Babylon Health	2016	Challenger	25.00
-Bamboo Health (Acquired)	2016	Enabler	31.65
 Benchling	2016	Enabler	7.00
 Best Doctors	2016	Challenger	10.00
 Big Health	2016	Enabler	11.22
 BioIQ	2016	Challenger	7.00
 BioIQ	2016	Challenger	10.00
-Bionano Genomics (NAS: BNGO)	2016	Enabler	25.00
 Biotheranostics	2016	Challenger	32.00
 Blink Health	2016	Enabler	75.00
 Bluesight	2016	Enabler	15.00
 Call9	2016	Challenger	9.48
-Cambridge Therapeutic Technologies	2016	Challenger	6.00
-Canopy Health	2016	Challenger	34.50
 Caption Care	2016	Enabler	5.70
 CardioDx	2016	Challenger	6.65
 CareCloud Health	2016	Enabler	31.50
 CareGuardian	2016	Challenger	32.76
 Caremerge	2016	Enabler	11.86
 CareZone	2016	Enabler	62.00
-Catalytic Data Science	2016	Enabler	6.00
 Catapult Health	2016	Challenger	10.10
 CellMax Life	2016	Challenger	9.00
 Chiron Health	2016	Enabler	7.09
@@ -715,7 +460,6 @@ Edgewood Healthcare	2016	Challenger	5.98
 Elation Health	2016	Enabler	15.00
 Electronic Caregiver	2016	Enabler	
 Ella Health	2016	Challenger	6.94
-Emerald Cloud Lab	2016	Challenger	15.00
 Employers Health Network	2016	Challenger	6.25
 Enspire DBS Therapy	2016	Challenger	5.15
 ePatientFinder	2016	Enabler	8.20
@@ -732,7 +476,6 @@ Flatiron	2016	Enabler	190.00
 Foodsmart	2016	Enabler	18.00
 Forward (Clinics/Outpatient Services)	2016	Challenger	29.50
 Freenome	2016	Enabler	5.55
-Fresenius Medical Care Birmingham Home	2016	Challenger	39.00
 Glooko	2016	Enabler	24.50
 Glytec	2016	Enabler	5.00
 GoCheck Kids	2016	Enabler	10.60
@@ -747,7 +490,6 @@ Higi (Decision/Risk Analysis)	2016	Enabler	40.00
 HNI Healthcare	2016	Enabler	0.70
 Honor	2016	Challenger	42.00
 Hospital IQ	2016	Enabler	6.25
-HyGIeaCare	2016	Challenger	6.66
 i2i Population Health	2016	Enabler	5.60
 iLLUME Ai	2016	Enabler	15.30
 Imagen (Healthcare Technology Systems)	2016	Enabler	5.00
@@ -817,7 +559,6 @@ PillPack	2016	Challenger	55.50
 Pivot (Healthcare Technology Systems)	2016	Enabler	7.35
 PlushCare	2016	Challenger	8.00
 Practice Fusion	2016	Enabler	50.00
-Provision Healthcare	2016	Challenger	30.35
 Quartet Health	2016	Enabler	40.00
 Qventus	2016	Enabler	13.00
 Recovery Centers of America	2016	Challenger	331.50
@@ -829,11 +570,8 @@ Reveleer	2016	Enabler	9.13
 Roam Analytics	2016	Enabler	10.52
 SchoolCare	2016	Enabler	7.73
 Science 37 Holdings	2016	Enabler	31.00
-SEMMA Health	2016	Enabler	15.00
 Seven Bridges Genomics	2016	Enabler	45.00
 Sharecare	2016	Enabler	33.00
-Sightbox	2016	Challenger	10.00
-SightLife	2016	Challenger	10.00
 SilverCloud Health	2016	Enabler	7.87
 SilverVue	2016	Enabler	17.85
 Simplee (Financial Software)	2016	Enabler	20.00
@@ -866,7 +604,7 @@ Workpath	2016	Enabler	10.00
 YouScript	2016	Enabler	5.10
 Zipari	2016	Enabler	7.00
 Zipnosis	2016	Challenger	17.00
-23andMe (PINX: MEHCQ)	2017	Challenger	250.00
+23andMe (PINX: MEHCQ)	2017	Enabler	250.00
 8fit	2017	Enabler	7.00
 98point6	2017	Challenger	29.08
 Aaptiv	2017	Challenger	38.00
@@ -875,14 +613,11 @@ Accuity Delivery Systems	2017	Enabler	25.50
 Actify Neurotherapies	2017	Challenger	5.00
 ActX	2017	Challenger	5.61
 Advantia Health	2017	Challenger	12.39
-Aegis Living	2017	Challenger	9.55
 Aetion	2017	Enabler	11.20
 AiCure	2017	Enabler	15.00
-Akumin	2017	Challenger	35.00
 Aledade	2017	Enabler	40.25
 AllClear ID	2017	Enabler	6.50
 AllerGenis	2017	Challenger	15.00
-Alternative Medical Enterprises	2017	Challenger	10.50
 AltheaDx	2017	Enabler	27.00
 Alto Pharmacy	2017	Challenger	17.15
 Ambient Clinical Analytics	2017	Enabler	5.39
@@ -928,7 +663,6 @@ Cognoa	2017	Enabler	11.60
 Collective Medical	2017	Enabler	47.50
 Commure	2017	Enabler	10.00
 Conversa	2017	Enabler	9.00
-Covetrus	2017	Enabler	223.55
 DayTwo	2017	Enabler	12.00
 Deep 6 AI	2017	Enabler	5.00
 Devoted	2017	Challenger	62.00
@@ -966,7 +700,6 @@ Hawthorne Health	2017	Enabler	13.00
 Hazel Health	2017	Challenger	8.30
 Headspace	2017	Challenger	37.32
 Healthcare TTU	2017	Enabler	6.00
-HealthEdge	2017	Enabler	35.80
 Healthify	2017	Enabler	6.50
 HealthLoop	2017	Enabler	8.40
 Healthmap Solutions	2017	Challenger	5.60
@@ -1002,7 +735,6 @@ Madaket	2017	Enabler	5.00
 Mango Health (Application Software)	2017	Enabler	9.30
 Maven	2017	Challenger	10.18
 Medely	2017	Enabler	5.00
-MedGenome	2017	Challenger	26.70
 Medical Brain	2017	Enabler	20.45
 Medicom (Medical Records Systems)	2017	Enabler	5.23
 Medigate	2017	Enabler	5.35
@@ -1044,19 +776,16 @@ Precision Health Intelligence	2017	Enabler	20.00
 Predicine	2017	Enabler	10.00
 Prognos Health	2017	Enabler	20.50
 Progyny (NAS: PGNY)	2017	Enabler	73.30
-Promises Behavioral Health	2017	Challenger	56.81
 Protenus	2017	Enabler	7.00
 Pulsara	2017	Enabler	12.24
 Radiology Partners	2017	Challenger	200.02
 Redox	2017	Enabler	10.00
 Regroup	2017	Enabler	6.10
-RightEye	2017	Challenger	7.28
 Salucro	2017	Enabler	6.33
 Sansoro Health	2017	Enabler	5.25
 SchoolCare	2017	Enabler	16.00
 SchoolCare	2017	Enabler	6.40
 Science 37 Holdings	2017	Enabler	29.00
-Sebacia	2017	Challenger	23.00
 Sensely	2017	Enabler	8.00
 SHYFT Analytics	2017	Enabler	20.00
 SignalPath	2017	Enabler	5.00
@@ -1104,7 +833,7 @@ Xealth	2017	Enabler	8.63
 ZappRx	2017	Enabler	22.90
 180 Health Partners	2018	Challenger	8.00
 20/20 Onsite	2018	Challenger	7.00
-23andMe (PINX: MEHCQ)	2018	Challenger	300.00
+23andMe (PINX: MEHCQ)	2018	Enabler	300.00
 98point6	2018	Challenger	50.00
 Aaptiv	2018	Challenger	23.00
 Abacus Insights	2018	Enabler	5.90
@@ -1123,19 +852,14 @@ American Well (NYS: AMWL)	2018	Enabler	290.61
 Andros (Healthcare Technology Systems)	2018	Enabler	8.22
 Apixio	2018	Enabler	5.00
 Apostrophe (Life and Health Insurance)	2018	Challenger	5.25
-Apprentice	2018	Enabler	8.00
 Artera	2018	Enabler	10.32
 Aspen RxHealth	2018	Challenger	9.00
 Assured Allies	2018	Challenger	5.00
 AssuriCare	2018	Enabler	13.50
 Atentiv Health	2018	Enabler	11.00
 Augmedix	2018	Enabler	21.89
-AustinPx	2018	Enabler	27.00
-Avail Medsystems	2018	Enabler	12.93
 Avalon Healthcare Solutions	2018	Enabler	16.50
-AVIA	2018	Enabler	7.19
 b.well Connected Health	2018	Enabler	8.19
-Ballogy	2018	Enabler	5.20
 Bardavon	2018	Enabler	16.88
 Bayesian Health	2018	Enabler	15.00
 Beddr	2018	Challenger	5.60
@@ -1272,7 +996,6 @@ MyMeds	2018	Enabler	5.00
 NeueHealth (NYS: NEUE)	2018	Challenger	200.00
 Neurotrack	2018	Enabler	13.70
 NeuroVision	2018	Enabler	15.00
-Next Health	2018	Challenger	5.00
 Nimble (Medical Records Systems)	2018	Enabler	20.00
 nirvanaHealth	2018	Enabler	50.00
 Nomad Health	2018	Enabler	12.00
@@ -1320,7 +1043,6 @@ RealSelf	2018	Enabler	55.00
 RecoveryPlus.health	2018	Challenger	5.88
 Regroup	2018	Enabler	5.50
 Reveleer	2018	Enabler	5.00
-ReVIDA Recovery	2018	Challenger	6.00
 Rhyme (Healthcare Technology Systems)	2018	Enabler	10.50
 Rimidi	2018	Enabler	8.20
 Rise (Monitoring Equipment)	2018	Challenger	5.50
@@ -1349,7 +1071,6 @@ SmithRx	2018	Enabler	5.50
 SmithRx	2018	Enabler	9.00
 Solv.	2018	Challenger	16.80
 SonarMD	2018	Enabler	10.00
-SpacePharma	2018	Challenger	10.00
 Sparta Science	2018	Enabler	7.00
 Spring Health	2018	Challenger	8.13
 Springbuk	2018	Enabler	20.00
@@ -1370,8 +1091,6 @@ Tridiuum	2018	Enabler	7.43
 uBiome	2018	Challenger	83.00
 Unite Genomics	2018	Enabler	5.78
 Univfy	2018	Enabler	11.52
-Upgrade Labs	2018	Challenger	6.55
-Upgrade Labs	2018	Challenger	5.00
 Upperline Health	2018	Challenger	29.75
 Urgent Team	2018	Challenger	7.38
 Verana Health	2018	Enabler	30.00
@@ -1425,15 +1144,11 @@ Arrive Health	2019	Enabler	15.90
 Artemis Health	2019	Enabler	25.00
 Artera	2019	Enabler	12.00
 Ascend Medical	2019	Challenger	8.50
-Asian Health Services	2019	Challenger	
 Astarte Medical	2019	Enabler	5.00
 Augmedix	2019	Enabler	19.00
 Aural Analytics	2019	Enabler	5.30
-Autism in Motion Clinics	2019	Challenger	5.00
 Availity Clinical Solutions	2019	Enabler	9.60
 Avenda Health	2019	Enabler	8.38
-AVIA	2019	Enabler	22.00
-B Positive Plasma	2019	Challenger	7.50
 Babylon Health	2019	Challenger	450.00
 Backpack Health	2019	Enabler	8.43
 Belong.Life	2019	Enabler	14.00
@@ -1453,7 +1168,6 @@ Bridge Connector	2019	Enabler	10.00
 Brightline (Clinics/Outpatient Services)	2019	Challenger	5.00
 BurstIQ	2019	Enabler	5.50
 Cadence Health	2019	Enabler	13.60
-Cannalysis	2019	Challenger	22.60
 Canvas Medical	2019	Enabler	6.00
 Capital Rx	2019	Enabler	16.00
 Carbon Health	2019	Challenger	30.00
@@ -1480,7 +1194,6 @@ Clinicient	2019	Enabler	17.25
 Clinigence Health	2019	Enabler	18.81
 Clover Health Investments (NAS: CLOV)	2019	Challenger	311.87
 Cogitativo	2019	Enabler	18.00
-CommuniCare Health Centers	2019	Challenger	
 Commure	2019	Enabler	27.00
 Complion	2019	Enabler	7.00
 Comprehend	2019	Enabler	5.00
@@ -1496,11 +1209,9 @@ Deep 6 AI	2019	Enabler	17.00
 Deep Lens	2019	Enabler	13.70
 DispatchHealth	2019	Challenger	33.00
 Doc.ai	2019	Enabler	25.00
-E-hospital Services	2019	Challenger	28.00
 eHealth Technologies	2019	Enabler	42.90
 Eleanor Health	2019	Challenger	12.00
 Elligo Health Research	2019	Enabler	20.00
-Emerald Cloud Lab	2019	Challenger	42.00
 Emerging Therapy Solutions	2019	Enabler	6.30
 Endotronix	2019	Enabler	45.00
 Enlitic (ASX: ENL)	2019	Enabler	25.00
@@ -1554,7 +1265,6 @@ HeartFlow	2019	Enabler	65.00
 Helio Genomics	2019	Challenger	43.00
 Higi (Decision/Risk Analysis)	2019	Enabler	10.00
 Homethrive	2019	Challenger	6.00
-HyGIeaCare	2019	Challenger	15.50
 i2i Population Health	2019	Enabler	30.00
 Included Health	2019	Enabler	50.00
 InformedDNA	2019	Enabler	
@@ -1619,7 +1329,6 @@ ObjectiveHealth	2019	Enabler	6.62
 ObservSMART	2019	Enabler	9.99
 Octave	2019	Challenger	11.00
 OM1	2019	Enabler	50.00
-Omeza	2019	Challenger	7.00
 OncoHost	2019	Enabler	4.34
 One Drop	2019	Enabler	40.00
 OODA Health	2019	Enabler	14.50
@@ -1646,9 +1355,7 @@ Pill Club	2019	Challenger	51.00
 Pillo Health	2019	Enabler	11.00
 Prealize Health	2019	Enabler	22.00
 Prescryptive	2019	Enabler	8.00
-Prime Medicine (NAS: PRME)	2019	Challenger	115.00
 Protenus	2019	Enabler	17.00
-Pure Infusion Suites	2019	Challenger	40.00
 Quartet Health	2019	Enabler	67.50
 Radiology Partners	2019	Challenger	47.67
 RADLogics	2019	Enabler	5.00
@@ -1672,8 +1379,6 @@ SafeRide Health	2019	Enabler	11.60
 Savonix	2019	Enabler	14.70
 SchoolCare	2019	Enabler	24.34
 Science 37 Holdings	2019	Enabler	35.00
-Sebacia	2019	Challenger	10.00
-Secure Transfusion Solutions	2019	Challenger	7.90
 Seer (Decision/Risk Analysis) (NAS: SEER)	2019	Enabler	17.50
 Sensely	2019	Enabler	15.00
 Senseye	2019	Enabler	5.00
@@ -1688,11 +1393,9 @@ Somatus	2019	Challenger	10.44
 Somatus	2019	Challenger	12.58
 Sonde	2019	Enabler	15.80
 SpectraWAVE	2019	Enabler	16.40
-SPG Virtual Care	2019	Challenger	7.50
 Spring Hills	2019	Challenger	23.45
 Springbuk	2019	Enabler	17.00
 Stratasan	2019	Enabler	26.00
-Strateos	2019	Challenger	16.50
 Strive Health	2019	Challenger	80.00
 SubjectWell	2019	Enabler	10.00
 Subtle Medical	2019	Enabler	
@@ -1713,7 +1416,6 @@ Therapydia	2019	Challenger	10.50
 Third Eye Health	2019	Enabler	8.66
 Thrive Global	2019	Enabler	25.00
 TransformativeMed	2019	Enabler	5.75
-Trident Labs	2019	Challenger	14.00
 TriNetX	2019	Enabler	40.00
 Truepill	2019	Enabler	13.40
 Twill	2019	Challenger	20.21
@@ -1753,7 +1455,7 @@ ZERO.health	2019	Challenger	7.15
 Zipari	2019	Enabler	22.50
 Zipdrug	2019	Enabler	10.80
 1upHealth	2020	Enabler	8.00
-23andMe (PINX: MEHCQ)	2020	Challenger	82.50
+23andMe (PINX: MEHCQ)	2020	Enabler	82.50
 98point6	2020	Challenger	118.69
 98point6	2020	Challenger	43.00
 Abacus Insights	2020	Enabler	25.00
@@ -1777,10 +1479,7 @@ Angle Health	2020	Challenger	5.00
 Annexus Health	2020	Enabler	10.00
 Anomaly (Healthcare Technology Systems)	2020	Enabler	5.00
 Apostrophe (Life and Health Insurance)	2020	Challenger	9.58
-Apprentice	2020	Enabler	20.00
-Apprentice	2020	Enabler	7.50
 ArborMetrix	2020	Enabler	12.74
-ArchForm	2020	Enabler	7.84
 AristaMD	2020	Enabler	24.00
 Artera	2020	Enabler	45.00
 Arterys	2020	Enabler	28.00
@@ -1789,15 +1488,10 @@ Ascellus	2020	Challenger	8.00
 Ascend Medical	2020	Challenger	8.00
 Aspen RxHealth	2020	Challenger	27.00
 Assured Allies	2020	Challenger	18.30
-Astiva Health	2020	Challenger	15.80
-Avail Medsystems	2020	Enabler	100.00
-Avail Medsystems	2020	Enabler	13.73
 Availity Clinical Solutions	2020	Enabler	18.00
 b.well Connected Health	2020	Enabler	16.10
 Babson Diagnostics	2020	Challenger	13.70
 Babylon Health	2020	Challenger	100.00
-Ballogy	2020	Enabler	6.00
-Bamboo Health (Acquired)	2020	Enabler	59.50
 Benchling	2020	Enabler	50.00
 Better Life Partners	2020	Challenger	5.57
 Better Therapeutics	2020	Enabler	10.00
@@ -1826,14 +1520,12 @@ Caption Care	2020	Enabler
 Carbon Health	2020	Challenger	100.00
 Carbon Health	2020	Challenger	25.12
 CareBridge	2020	Challenger	36.75
-CarePoint	2020	Challenger	13.98
 CareRev	2020	Enabler	6.30
 CareSignal	2020	Enabler	7.00
 Cariloop	2020	Challenger	6.00
 Carrot Fertility	2020	Challenger	24.00
 Cecelia Health	2020	Challenger	10.44
 Cedar (Enterprise Systems (Healthcare))	2020	Enabler	77.00
-Center at Rock Creek	2020	Challenger	6.18
 Centivo	2020	Challenger	33.50
 Cerebral	2020	Challenger	35.00
 CHESS Health	2020	Enabler	
@@ -1849,7 +1541,6 @@ Cognoa	2020	Enabler	54.00
 Cohere Health	2020	Enabler	20.00
 Comprehensive Health Services	2020	Enabler	
 ConcertoCare	2020	Challenger	45.00
-Concure Oncology	2020	Challenger	9.75
 Connections Health Solutions	2020	Challenger	32.50
 ConsortiEX	2020	Enabler	7.30
 Cortechs.ai	2020	Enabler	5.88
@@ -1864,13 +1555,11 @@ Datavant	2020	Enabler	40.00
 DawnLight	2020	Enabler	38.00
 Decent (Healthcare Services)	2020	Challenger	10.00
 Devoted	2020	Challenger	450.00
-DirectDerm	2020	Challenger	8.00
 DispatchHealth	2020	Challenger	135.80
 DocASAP	2020	Enabler	18.00
 Doctor On Demand	2020	Challenger	75.00
 Dorsata	2020	Enabler	5.24
 dosist	2020	Challenger	
-DxTx Pain & Spine	2020	Challenger	11.58
 Eden Health	2020	Challenger	25.00
 Elation Health	2020	Enabler	40.00
 Elligo Health Research	2020	Enabler	36.90
@@ -1931,7 +1620,6 @@ Hone Health	2020	Challenger	5.06
 Honeybee Health	2020	Enabler	6.00
 Immertec	2020	Enabler	12.00
 Indy Health	2020	Enabler	15.74
-Infectious Disease Connect	2020	Challenger	8.22
 Innovaccer	2020	Enabler	70.00
 Insight Timer	2020	Challenger	27.41
 IntelyCare	2020	Enabler	36.42
@@ -1945,7 +1633,6 @@ K4Connect	2020	Enabler	7.70
 Kaden Health	2020	Challenger	19.08
 Kaia Health	2020	Enabler	25.85
 Kalderos	2020	Enabler	28.00
-Kaycha Group	2020	Challenger	5.00
 Kiio	2020	Challenger	
 Kindbody	2020	Challenger	30.00
 Klara (Enterprise Systems)	2020	Enabler	15.00
@@ -1975,7 +1662,6 @@ MDLive	2020	Challenger	50.00
 Medable	2020	Enabler	91.00
 MedArrive	2020	Challenger	6.90
 Medely	2020	Enabler	28.00
-MedGenome	2020	Challenger	47.79
 Medically Home	2020	Challenger	40.43
 Medici	2020	Challenger	23.00
 Medigate	2020	Enabler	30.00
@@ -1998,7 +1684,6 @@ Navina	2020	Enabler	5.32
 NeueHealth (NYS: NEUE)	2020	Challenger	500.00
 NeuroFlow	2020	Enabler	7.50
 NexHealth	2020	Enabler	15.00
-Next Level Urgent Care	2020	Challenger	6.01
 Nice Healthcare	2020	Challenger	5.00
 NOCD	2020	Challenger	12.00
 Noteworth	2020	Enabler	5.50
@@ -2061,8 +1746,6 @@ RapidAI	2020	Enabler	15.68
 ReadySet (Enterprise Systems (Healthcare))	2020	Enabler	6.15
 RealizedCare	2020	Enabler	7.20
 Reimagine Care	2020	Challenger	25.00
-Restore Hyper Wellness	2020	Challenger	5.00
-Restore Hyper Wellness	2020	Challenger	8.00
 Retrace	2020	Enabler	18.00
 Rhyme (Healthcare Technology Systems)	2020	Enabler	10.00
 Rhythmic Health	2020	Challenger	5.00
@@ -2081,9 +1764,7 @@ SchoolCare	2020	Enabler	25.00
 Science 37 Holdings	2020	Enabler	40.00
 Scripta Insights	2020	Enabler	5.00
 ScriptDrop	2020	Enabler	16.65
-Secure Transfusion Solutions	2020	Challenger	17.00
 Seer (Decision/Risk Analysis) (NAS: SEER)	2020	Enabler	55.00
-Sehteq	2020	Enabler	20.00
 SilverCloud Health	2020	Enabler	16.00
 Simple App	2020	Challenger	7.99
 Simplify ASC	2020	Enabler	7.00
@@ -2091,8 +1772,6 @@ Sirona	2020	Enabler	8.81
 Sirona	2020	Enabler	13.50
 SiteRx	2020	Enabler	6.10
 Sitka (Healthcare Technology Systems)	2020	Enabler	5.00
-SmartLabs	2020	Challenger	59.60
-SOAAK Technologies	2020	Enabler	2.00
 SocialClimb	2020	Enabler	12.00
 Socially Determined	2020	Enabler	11.10
 Solv.	2020	Challenger	27.00
@@ -2165,7 +1844,6 @@ Actium Health	2021	Enabler	25.00
 AcuityMD	2021	Enabler	7.00
 AdaptX	2021	Enabler	6.85
 Advise Insurance	2021	Challenger	100.00
-Aegis Living	2021	Challenger	40.87
 Aetion	2021	Enabler	110.00
 Affect (Clinics/Outpatient Services)	2021	Challenger	6.50
 AKASA	2021	Enabler	60.00
@@ -2178,7 +1856,6 @@ Alma (Clinics/Outpatient Services)	2021	Challenger	50.00
 Alpha	2021	Challenger	25.00
 Alterwood Advantage	2021	Enabler	10.45
 AmberGen	2021	Enabler	
-American Treatment Network	2021	Challenger	3.30
 AmplifyMD	2021	Enabler	6.00
 Andros (Healthcare Technology Systems)	2021	Enabler	11.93
 Anomaly (Healthcare Technology Systems)	2021	Enabler	17.12
@@ -2188,25 +1865,20 @@ Anumana	2021	Enabler	60.00
 Anumana	2021	Enabler	25.70
 Apella	2021	Enabler	21.25
 Aptihealth	2021	Challenger	57.00
-Arcadia Communities	2021	Challenger	6.80
 Arine	2021	Enabler	13.60
 Arrive Health	2021	Enabler	8.00
 Arrive Health	2021	Enabler	7.00
 Artera	2021	Enabler	22.10
 Ash	2021	Challenger	3.35
-Asian Health Services	2021	Challenger	
 Asimily	2021	Enabler	9.83
 AssuranceSD	2021	Challenger	31.60
 Astarte Medical	2021	Enabler	7.60
 Aural Analytics	2021	Enabler	15.00
-Aviv (Clinics/Outpatient Services)	2021	Challenger	40.00
 AvodahMed	2021	Enabler	7.00
-Awesome Woman	2021	Challenger	38.00
 Axuall	2021	Enabler	10.38
 b.well Connected Health	2021	Enabler	32.10
 Babson Diagnostics	2021	Challenger	31.00
 Babylon Health	2021	Challenger	200.00
-Ballogy	2021	Enabler	5.69
 Bamf Health	2021	Challenger	5.00
 Banjo Health	2021	Enabler	7.56
 Bardavon	2021	Enabler	106.70
@@ -2218,7 +1890,6 @@ Bend (Managed Care)	2021	Enabler	7.00
 Better Health	2021	Challenger	13.45
 BetterNight	2021	Challenger	9.00
 Bicycle Health	2021	Enabler	27.00
-Bioelectronica	2021	Enabler	14.50
 BioFluidica	2021	Enabler	5.98
 Blue Note Therapeutics	2021	Challenger	31.25
 BlueJay Mobile Health	2021	Challenger	7.50
@@ -2245,7 +1916,6 @@ Canvas Medical	2021	Enabler	11.00
 Capital Rx	2021	Enabler	50.00
 Carbon Health	2021	Challenger	350.00
 Care Daily	2021	Enabler	5.35
-CarePoint	2021	Challenger	18.00
 CareRev	2021	Enabler	50.00
 careviso	2021	Enabler	7.90
 Carevive	2021	Enabler	18.00
@@ -2254,7 +1924,6 @@ Carrot Fertility	2021	Challenger	60.00
 Carrum Health	2021	Enabler	40.00
 Carta Healthcare	2021	Enabler	17.30
 Caspar AI	2021	Enabler	12.00
-Catalytic Data Science	2021	Enabler	5.78
 Cecelia Health	2021	Challenger	
 Cedar (Enterprise Systems (Healthcare))	2021	Enabler	268.36
 Cedar (Enterprise Systems (Healthcare))	2021	Enabler	200.00
@@ -2267,7 +1936,6 @@ Chapter Medicare	2021	Challenger	17.00
 Chemical.AI	2021	Enabler	15.00
 CHESS Health	2021	Enabler	5.50
 Choosing Therapy	2021	Challenger	5.00
-ChronWell	2021	Challenger	6.00
 Cipherome	2021	Enabler	12.00
 Circadia Health	2021	Enabler	14.76
 CircleLink Health	2021	Challenger	3.00
@@ -2275,7 +1943,6 @@ Circles	2021	Enabler	8.00
 Circuit Clinical	2021	Challenger	7.50
 Circulo	2021	Challenger	50.00
 CirrusMD	2021	Challenger	20.00
-City Health Works	2021	Challenger	
 Cityblock	2021	Challenger	400.00
 Cityblock	2021	Challenger	352.00
 Clarify( Enterprise Systems (Healthcare))	2021	Enabler	115.00
@@ -2294,7 +1961,6 @@ Clip Health	2021	Enabler
 ClosedLoop	2021	Enabler	34.00
 Cognitive Leap	2021	Challenger	
 Commons Clinic	2021	Challenger	5.00
-CommuniCare Health Centers	2021	Challenger	
 Commure	2021	Enabler	362.55
 Comprehensive Health Services	2021	Enabler	
 Compwell (Clinics/Outpatient Services)	2021	Challenger	5.00
@@ -2326,7 +1992,6 @@ DignifiHealth	2021	Enabler	7.00
 Dina	2021	Enabler	7.00
 DispatchHealth	2021	Challenger	200.00
 DrChrono	2021	Enabler	30.00
-Drop Fitness	2021	Challenger	5.24
 Duos	2021	Challenger	6.10
 EasyHealth	2021	Challenger	35.00
 eBlu Solutions	2021	Enabler	11.40
@@ -2365,7 +2030,6 @@ Flume Health	2021	Enabler	6.00
 flyte (Clinics/Outpatient Services)	2021	Challenger	10.68
 Folia Health	2021	Enabler	6.50
 FOLX	2021	Challenger	25.00
-Food In-Depth	2021	Challenger	12.00
 ForeSee Medical	2021	Enabler	10.30
 Foresight (Clinics/Outpatient Services)	2021	Challenger	25.00
 Forward (Clinics/Outpatient Services)	2021	Challenger	216.55
@@ -2478,7 +2142,6 @@ Lyra Health	2021	Challenger	186.69
 Mahana	2021	Challenger	61.00
 Main Street Health	2021	Challenger	27.00
 Mammoth Biosciences	2021	Enabler	150.00
-MantraCare	2021	Challenger	5.00
 Marley Medical	2021	Challenger	9.00
 Maven	2021	Challenger	110.00
 Med Claims Compliance	2021	Enabler	5.70
@@ -2489,7 +2152,6 @@ Medallion	2021	Enabler	16.61
 MedArrive	2021	Challenger	32.84
 MedCare Partners	2021	Challenger	7.17
 Medchart	2021	Enabler	17.00
-MedGenome	2021	Challenger	16.40
 Medically Home	2021	Challenger	100.00
 Medici	2021	Challenger	28.50
 Medicom (Medical Records Systems)	2021	Enabler	21.84
@@ -2521,7 +2183,6 @@ Mymee	2021	Enabler	25.00
 Mytonomy	2021	Enabler	25.00
 Navina	2021	Enabler	15.00
 Navvis Health Care	2021	Enabler	105.00
-Network Eye	2021	Challenger	
 NeuCures	2021	Enabler	7.30
 NeuroFlow	2021	Enabler	20.00
 NexHealth	2021	Enabler	31.00
@@ -2538,10 +2199,8 @@ Novocardia	2021	Challenger	53.70
 Nym (Enterprise Systems (Healthcare))	2021	Enabler	23.09
 ObjectiveHealth	2021	Enabler	7.12
 ObvioHealth	2021	Enabler	17.00
-OFFOR Health	2021	Challenger	6.00
 Olive (Enterprise Systems)	2021	Enabler	400.00
 OM1	2021	Enabler	85.00
-Omeza	2021	Challenger	25.00
 OncoLens	2021	Enabler	7.21
 OneStudyTeam	2021	Enabler	220.00
 Opala	2021	Enabler	7.60
@@ -2595,15 +2254,12 @@ Plume (Clinics/Virtual care)	2021	Challenger	14.00
 Pomelo Care	2021	Challenger	7.96
 Post Acute Analytics	2021	Enabler	13.50
 PrimaHealth Credit	2021	Enabler	26.20
-Prime Medicine (NAS: PRME)	2021	Challenger	200.00
-Primrose (Elder and Disabled Care)	2021	Challenger	7.65
 Protenus	2021	Enabler	21.00
 Psych Hub	2021	Enabler	8.00
 Pulsara	2021	Enabler	21.62
 PulseData AI	2021	Enabler	16.55
 PursueCare	2021	Challenger	7.00
 Pyx Health	2021	Enabler	12.01
-QLER Telepsychiatry	2021	Challenger	7.40
 Qualio	2021	Enabler	50.00
 Quartet Health	2021	Enabler	81.00
 Quilted Health	2021	Challenger	7.50
@@ -2650,7 +2306,6 @@ ScienceIO	2021	Enabler	7.50
 Scitara	2021	Enabler	15.00
 Scitara	2021	Enabler	5.00
 Second Wave Delivery Systems	2021	Enabler	22.00
-Secure Transfusion Solutions	2021	Challenger	40.30
 Sempre Health	2021	Enabler	15.00
 Seniorly	2021	Challenger	4.00
 Sensi.AI	2021	Enabler	13.73
@@ -2666,8 +2321,6 @@ Sitka (Healthcare Technology Systems)	2021	Enabler	14.25
 Skedulo	2021	Enabler	75.00
 Skyler Health	2021	Challenger	16.00
 Slope (Healthcare Technology Systems)	2021	Enabler	20.00
-Small Door Veterinary	2021	Challenger	16.12
-SmartLabs	2021	Challenger	216.01
 SmartScripts	2021	Enabler	21.26
 Soda Health	2021	Enabler	6.00
 Sollis Health	2021	Challenger	35.10
@@ -2684,7 +2337,6 @@ Sprinter Health	2021	Challenger	33.00
 SteadyMD	2021	Challenger	28.00
 Stellar Health	2021	Enabler	60.60
 Stork Club	2021	Challenger	29.25
-Strateos	2021	Challenger	56.00
 Strive Health	2021	Challenger	140.00
 Suki	2021	Enabler	55.00
 Summus	2021	Challenger	21.00
@@ -2710,7 +2362,6 @@ Therapymatch	2021	Challenger	70.00
 Thirty Madison	2021	Challenger	140.00
 Thoughtful.ai	2021	Enabler	5.00
 ThoughtSphere	2021	Enabler	5.00
-thplasma	2021	Challenger	10.00
 Thrive Global	2021	Enabler	80.00
 Thyme Care	2021	Challenger	18.00
 Thyme Care	2021	Challenger	6.60
@@ -2727,7 +2378,6 @@ Tula Health	2021	Enabler	37.71
 Tula Health	2021	Enabler	24.10
 Turquoise Health	2021	Enabler	5.18
 Twill	2021	Challenger	73.00
-UCM Digital Health	2021	Enabler	5.50
 Udo	2021	Enabler	20.00
 Uniper	2021	Enabler	14.50
 Unite Us	2021	Enabler	185.00
@@ -2810,7 +2460,6 @@ Almond	2022	Challenger	7.20
 Alongside (Application Software)	2022	Enabler	5.50
 Alto Pharmacy	2022	Challenger	190.45
 Altoida	2022	Enabler	14.00
-Amada Senior Care	2022	Challenger	22.40
 AmberGen	2022	Enabler	
 AmberGen	2022	Enabler	5.00
 Ambience Healthcare	2022	Enabler	25.00
@@ -2820,12 +2469,10 @@ AngelEye Health	2022	Enabler	5.50
 Angle Health	2022	Challenger	58.00
 Annexus Health	2022	Enabler	36.00
 Antidote Health	2022	Challenger	22.00
-Apprentice	2022	Enabler	77.25
 ArborMetrix	2022	Enabler	6.30
 Arine	2022	Enabler	20.00
 Array Insights	2022	Enabler	7.91
 Array Insights	2022	Enabler	5.78
-Ascentist Healthcare	2022	Challenger	
 Asimily	2022	Enabler	5.80
 Assure Health	2022	Challenger	9.00
 Assured Allies	2022	Challenger	40.00
@@ -2903,10 +2550,8 @@ Cognoa	2022	Enabler	12.00
 Cohere Health	2022	Enabler	36.10
 Cometa (Software Development Applications)	2022	Enabler	5.20
 Commure	2022	Enabler	153.75
-Compass Beauty	2022	Challenger	6.00
 Compass Surgical Partners	2022	Challenger	10.00
 Concert Health	2022	Enabler	42.00
-Concure Oncology	2022	Challenger	7.14
 Condor Software	2022	Enabler	6.00
 COPE Health Solutions	2022	Challenger	8.50
 Cordata	2022	Enabler	5.40
@@ -2924,10 +2569,8 @@ Decisio Health	2022	Enabler	13.00
 DecisionRx	2022	Enabler	10.00
 DeepTek	2022	Enabler	10.00
 Delfina	2022	Enabler	6.14
-Dentulu	2022	Challenger	6.38
 DexCare	2022	Enabler	50.00
 Diadia Health	2022	Enabler	10.00
-Dialyze Direct	2022	Challenger	55.00
 Diana Health	2022	Challenger	10.67
 DigitalOwl	2022	Enabler	20.00
 DispatchHealth	2022	Challenger	
@@ -2946,10 +2589,8 @@ Elemeno Health	2022	Enabler	7.00
 Element5	2022	Enabler	30.00
 Eleos Health	2022	Enabler	20.00
 Embold Health	2022	Enabler	23.00
-Emerald Cloud Lab	2022	Challenger	50.00
 Empassion	2022	Challenger	6.93
 EmpowerHealth	2022	Enabler	7.31
-EmpowerMe Wellness	2022	Challenger	100.00
 Emvenio Research	2022	Challenger	9.17
 Enara Health	2022	Enabler	5.65
 EngagedMD	2022	Enabler	11.00
@@ -3030,7 +2671,6 @@ ianacare	2022	Enabler	12.13
 Imagine Pediatrics	2022	Challenger	5.00
 Immertec	2022	Enabler	20.68
 Inbound Health	2022	Enabler	18.00
-Infectious Disease Connect	2022	Challenger	5.45
 InHome Therapy	2022	Challenger	22.00
 InStride Health	2022	Challenger	25.96
 Intelligent Locations	2022	Enabler	6.25
@@ -3047,7 +2687,6 @@ K4Connect	2022	Enabler	12.00
 Kaizen Health	2022	Challenger	5.00
 Kalderos	2022	Enabler	20.00
 Kandu Health	2022	Challenger	43.00
-Kaycha Group	2022	Challenger	8.00
 KeyCare (Clinics/Outpatient Services)	2022	Challenger	28.00
 Kindbody	2022	Challenger	30.00
 Kinetik (Enterprise Systems (Healthcare))	2022	Enabler	11.97
@@ -3084,7 +2723,6 @@ MDisrupt	2022	Enabler	6.00
 Medallion	2022	Enabler	35.00
 Medcase	2022	Enabler	10.91
 Medely	2022	Enabler	90.00
-MedGenome	2022	Challenger	50.00
 Medically Home	2022	Challenger	110.00
 Medici	2022	Challenger	30.00
 MediGO (Healthcare Technology Systems)	2022	Enabler	5.10
@@ -3095,7 +2733,6 @@ Medvanta	2022	Enabler	9.55
 MedZed	2022	Challenger	5.98
 Memora Health	2022	Enabler	40.00
 Mendel	2022	Enabler	40.00
-Mental Health Partnership	2022	Challenger	
 Micronoma	2022	Enabler	
 Midi Health	2022	Challenger	9.00
 Mighty Health	2022	Challenger	7.60
@@ -3127,7 +2764,6 @@ NuvoAir Medical	2022	Challenger	25.00
 Oath Care	2022	Enabler	6.00
 ObjectiveHealth	2022	Enabler	7.54
 Octagos	2022	Enabler	8.89
-OFFOR Health	2022	Challenger	
 Olio (Business/Productivity Software)	2022	Enabler	13.20
 Omada (NAS: OMDA)	2022	Challenger	192.00
 Omada (NAS: OMDA)	2022	Challenger	73.00
@@ -3165,7 +2801,6 @@ Pine Park Health	2022	Challenger	43.30
 Plume (Clinics/Virtual care)	2022	Challenger	24.00
 Policybot	2022	Enabler	
 Porter (Enterprise Systems)	2022	Enabler	5.54
-Portrait	2022	Challenger	23.30
 Positive Development	2022	Challenger	37.26
 Posterity Health	2022	Challenger	9.68
 Power	2022	Enabler	6.95
@@ -3191,7 +2826,6 @@ ReferWell	2022	Enabler	5.45
 Reframe (Other Healthcare Services)	2022	Enabler	17.45
 Regard	2022	Enabler	15.30
 Renee	2022	Enabler	8.20
-Resilience Lab	2022	Challenger	15.00
 Reverence	2022	Enabler	9.26
 Revero	2022	Challenger	5.00
 Rhino (Medical Records Systems)	2022	Enabler	6.70
@@ -3227,31 +2861,23 @@ Sibly	2022	Challenger	10.10
 Sickbay	2022	Enabler	17.00
 SimX (Healthcare Devices and Supplies)	2022	Enabler	
 Slingshot AI	2022	Challenger	6.16
-Small Door Veterinary	2022	Challenger	40.00
 Smarter Technologies	2022	Enabler	5.97
 SmartStory	2022	Enabler	7.11
 SmithRx	2022	Enabler	27.16
-Soar Autism Center	2022	Challenger	15.91
 SocialClimb	2022	Enabler	3.40
 Socially Determined	2022	Enabler	26.00
 Soda Health	2022	Enabler	30.00
-SOL Mental Health	2022	Challenger	16.00
 Solera (Other Healthcare Services)	2022	Enabler	48.00
 Somatus	2022	Challenger	325.00
 Sonde	2022	Enabler	21.00
 Sparta Science	2022	Enabler	16.27
-Spaulding Clinical	2022	Challenger	8.80
 SpectrumAi	2022	Enabler	9.00
-SpinTech MRI	2022	Enabler	6.50
-Spry Therapeutics	2022	Enabler	7.00
 Stability Health	2022	Enabler	7.50
 Standard Practice	2022	Enabler	8.50
 SteadyMD	2022	Challenger	30.00
 Steer Health	2022	Enabler	6.50
 Stellar Health	2022	Enabler	80.50
 Story Health	2022	Enabler	22.63
-Strateos	2022	Challenger	22.90
-Structural Elements	2022	Challenger	10.95
 SubjectWell	2022	Enabler	35.00
 Subtle Medical	2022	Enabler	25.00
 Summer Health	2022	Challenger	7.50
@@ -3265,7 +2891,6 @@ Syntrillo	2022	Enabler	10.00
 Talkiatry	2022	Challenger	57.00
 TapestryHealth	2022	Challenger	11.00
 TaskHuman	2022	Enabler	19.27
-TCARE	2022	Challenger	17.00
 Tegria	2022	Enabler	
 Tembo Health	2022	Challenger	8.91
 TempoPay	2022	Enabler	7.75
@@ -3333,12 +2958,10 @@ Abridge	2023	Enabler	30.00
 Abridge	2023	Enabler	6.40
 AdaptX	2023	Enabler	10.00
 Advanced Telepsych	2023	Challenger	5.20
-Aegis Living	2023	Challenger	28.30
 Affect (Clinics/Outpatient Services)	2023	Challenger	18.07
 Ahara	2023	Challenger	10.02
 Aiberry	2023	Challenger	8.00
 Aledade	2023	Enabler	260.00
-Aletheia BioTherapeutics	2023	Challenger	6.00
 Allara Health	2023	Challenger	16.29
 Amalgam	2023	Challenger	17.36
 Ambience Healthcare	2023	Enabler	70.00
@@ -3347,12 +2970,10 @@ Ample (Clinics/Outpatient Services)	2023	Challenger	7.75
 AngioWave Imaging	2023	Enabler	7.50
 AnswersNow	2023	Challenger	11.00
 Antidote Health	2023	Challenger	18.20
-Apprentice	2023	Enabler	62.71
 Aptihealth	2023	Challenger	10.80
 AristaMD	2023	Enabler	27.32
 Arrive Health	2023	Enabler	6.00
 Artera (Decision/Risk Analysis)	2023	Enabler	90.00
-Artis Senior Living	2023	Challenger	40.00
 Arya.Fyi	2023	Challenger	6.40
 AtlasXomics	2023	Enabler	10.10
 Atropos Health	2023	Enabler	5.92
@@ -3364,7 +2985,6 @@ Banjo Health	2023	Enabler	13.00
 Batelle	2023	Challenger	11.75
 BeeKeeperAI	2023	Enabler	12.10
 BEKHealth	2023	Enabler	5.47
-BellaLift	2023	Enabler	10.25
 Bend Health	2023	Challenger	31.16
 Bento (Social/Platform Software)	2023	Enabler	7.17
 Better Life Partners	2023	Challenger	26.53
@@ -3418,7 +3038,6 @@ CuraFi	2023	Enabler	7.25
 Cureatr	2023	Enabler	
 CureMetrix	2023	Enabler	6.00
 Cylinder	2023	Challenger	31.00
-D-Nav	2023	Challenger	22.00
 Datacubed Health	2023	Enabler	6.11
 Daybreak Health	2023	Challenger	13.00
 Delorean AI	2023	Enabler	7.55
@@ -3429,7 +3048,6 @@ Doceree	2023	Enabler	22.84
 Dock Health	2023	Enabler	5.00
 DocStation	2023	Enabler	6.50
 Duos	2023	Challenger	10.00
-DxTx Pain & Spine	2023	Challenger	10.13
 Elaborate	2023	Enabler	9.88
 Electronic Caregiver	2023	Enabler	95.00
 Elemeno Health	2023	Enabler	6.03
@@ -3464,7 +3082,6 @@ Forward (Clinics/Outpatient Services)	2023	Challenger	100.00
 Frame	2023	Challenger	5.33
 Free Market Health	2023	Enabler	20.00
 Frontera	2023	Enabler	22.00
-Frontier Psychiatry	2023	Challenger	7.60
 Fuse Oncology	2023	Enabler	8.86
 FuturHealth	2023	Challenger	5.00
 GenHealth.ai	2023	Enabler	13.00
@@ -3516,9 +3133,7 @@ InsideTracker	2023	Enabler	15.00
 Inspire ( Healthcare Services)	2023	Enabler	20.00
 Integral (Business/Productivity Software)	2023	Enabler	6.77
 INTERlink AI	2023	Enabler	6.00
-Interstate Health Systems	2023	Challenger	8.00
 InterWell Health	2023	Challenger	18.33
-Intracare Health Services	2023	Challenger	10.50
 Isaac Health	2023	Challenger	5.70
 Janus Health	2023	Enabler	45.10
 Javara	2023	Challenger	9.43
@@ -3535,7 +3150,6 @@ Klaim	2023	Enabler	30.00
 Klarity (Clinics/Outpatient Services)	2023	Challenger	9.20
 knownwell	2023	Challenger	20.00
 Koios Medical	2023	Enabler	8.00
-Korio	2023	Enabler	3.50
 KOS (Decision/Risk Analysis)	2023	Enabler	50.00
 Kyros (Healthcare Technology Systems)	2023	Enabler	10.50
 Kythera	2023	Enabler	20.00
@@ -3573,7 +3187,6 @@ MedScout	2023	Enabler	5.00
 MedTel	2023	Enabler	6.40
 Melonfrost	2023	Enabler	7.00
 Memora Health	2023	Enabler	30.00
-Metrodora Institute	2023	Challenger	35.00
 Midi Health	2023	Challenger	25.00
 Midstream Health	2023	Enabler	6.68
 Mingle Health	2023	Enabler	7.28
@@ -3587,17 +3200,14 @@ MyWoundDoctor	2023	Challenger	11.85
 Nest Genomics	2023	Enabler	8.50
 Nest Health	2023	Challenger	14.62
 Neura Health	2023	Challenger	8.00
-Neurogram	2023	Enabler	8.00
 NOCD	2023	Challenger	30.45
 Nomi Health	2023	Enabler	118.24
-NorthStar Care	2023	Challenger	6.00
 Nourish	2023	Challenger	35.00
 Nourish	2023	Challenger	8.00
 Nymbl (Healthcare Technology Systems)	2023	Enabler	11.25
 Octave	2023	Challenger	52.51
 Octave (Decision/Risk Analysis)	2023	Enabler	
 Octave (Decision/Risk Analysis)	2023	Enabler	62.00
-Omeza	2023	Challenger	6.50
 Onc AI	2023	Enabler	25.00
 OnMed	2023	Enabler	6.10
 OpenEvidence	2023	Enabler	25.00
@@ -3666,7 +3276,6 @@ Sheer Health	2023	Enabler	13.00
 ShiftMed	2023	Enabler	200.00
 Sift Healthcare	2023	Enabler	6.75
 Smarter Technologies	2023	Enabler	15.00
-SOL Mental Health	2023	Challenger	11.00
 Solace (Clinics/Outpatient Services)	2023	Challenger	6.53
 Sollis Health	2023	Challenger	15.00
 Sovato	2023	Enabler	13.00
@@ -3698,7 +3307,6 @@ Thyme Care	2023	Challenger	60.00
 Tia	2023	Challenger	20.73
 Topography Health	2023	Enabler	27.50
 Trayt	2023	Enabler	5.80
-Treehouse Eyes	2023	Challenger	8.00
 Triomics	2023	Enabler	13.75
 Triplebar	2023	Enabler	21.00
 Truepill	2023	Enabler	66.18
@@ -3754,7 +3362,6 @@ Advantia Health	2024	Challenger	85.72
 AiCure	2024	Enabler	4.00
 Aizon	2024	Enabler	20.00
 Alchemy (Healthcare Services)	2024	Enabler	
-Aletheia BioTherapeutics	2024	Challenger	5.14
 Alto Pharmacy	2024	Challenger	120.00
 Amae Health	2024	Challenger	16.00
 Amino Health	2024	Enabler	90.00
@@ -3777,7 +3384,6 @@ Ascertain	2024	Enabler	7.38
 Ash	2024	Challenger	10.00
 Atropos Health	2024	Enabler	33.00
 Auxa Health	2024	Enabler	5.20
-Avava	2024	Challenger	32.20
 Ayble Health	2024	Enabler	6.65
 Backpack	2024	Challenger	14.00
 Bamf Health	2024	Challenger	
@@ -3853,7 +3459,6 @@ Dasi Simulations	2024	Enabler	5.00
 DaylightRx	2024	Enabler	5.80
 Decisio Health	2024	Enabler	
 Devoted	2024	Challenger	287.00
-Diceros Therapeutics	2024	Challenger	12.61
 DigitalOwl	2024	Enabler	12.00
 Dina	2024	Enabler	7.00
 Diverge Health	2024	Challenger	52.40
@@ -3942,11 +3547,9 @@ iVEAcare	2024	Enabler	27.50
 Janus Health	2024	Enabler	10.00
 Jimini Health	2024	Challenger	8.00
 Journey Clinical	2024	Challenger	15.00
-Joya Health (Healthcare Services)	2024	Challenger	5.00
 Joyful Health	2024	Enabler	5.10
 K Health	2024	Enabler	88.36
 Kins (Clinics/Outpatient Services)	2024	Challenger	7.00
-Korio	2024	Enabler	5.50
 Kythera	2024	Enabler	
 LainaHealth	2024	Enabler	5.00
 Lark	2024	Challenger	16.30
@@ -4015,7 +3618,6 @@ OneStep	2024	Challenger	40.50
 Onto Health	2024	Challenger	5.20
 Opmed.ai	2024	Enabler	15.00
 Opyn	2024	Enabler	
-OrthoLazer	2024	Challenger	7.00
 Oshi Health	2024	Challenger	60.00
 Osigu	2024	Enabler	25.00
 Oula	2024	Challenger	28.00
@@ -4054,12 +3656,10 @@ Predict Health	2024	Challenger	5.51
 PreemptiveAI	2024	Enabler	6.40
 Prompt (Enterprise Systems (Healthcare))	2024	Enabler	206.00
 Proscia	2024	Enabler	9.00
-Prudentia Sciences	2024	Enabler	7.00
 Qualified Health	2024	Enabler	30.00
 Quantile Health	2024	Enabler	7.70
 Qurate Health	2024	Enabler	7.48
 Qventus	2024	Enabler	85.00
-RaaS 99	2024	Challenger	5.00
 Rad AI	2024	Enabler	50.99
 Radial Health (Clinics/Outpatient Services)	2024	Challenger	7.80
 RadiantGraph	2024	Enabler	14.06
@@ -4099,10 +3699,7 @@ SlicedHealth	2024	Enabler	5.00
 Slingshot AI	2024	Challenger	30.00
 Slope (Healthcare Technology Systems)	2024	Enabler	14.00
 Smarter Technologies	2024	Enabler	50.00
-SmartLabs	2024	Challenger	48.00
 SmithRx	2024	Enabler	60.00
-SOAAK Technologies	2024	Enabler	23.00
-Soar Autism Center	2024	Challenger	19.34
 Soda Health	2024	Enabler	54.18
 Soda Health	2024	Enabler	9.00
 Solace (Clinics/Outpatient Services)	2024	Challenger	14.00
@@ -4137,7 +3734,6 @@ ThoroughCare	2024	Enabler	5.00
 Thoughtful.ai	2024	Enabler	12.50
 Thrive AI Health	2024	Challenger	8.05
 Thyme Care	2024	Challenger	55.00
-Trace Neuroscience	2024	Challenger	101.00
 Transcarent	2024	Enabler	126.00
 Triomics	2024	Enabler	15.00
 Trovo Health	2024	Enabler	15.00
