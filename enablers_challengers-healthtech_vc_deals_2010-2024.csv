@@ -1,0 +1,3779 @@
+company,deal_year,company_type,amt_raised_millions
+Accolade (Managed Care),2010,Enabler,16.94
+AirStrip Technologies,2010,Enabler,30.0
+AltheaDx,2010,Enabler,6.0
+Ambra Health,2010,Enabler,11.88
+CardioDx,2010,Challenger,35.0
+CareCloud Health,2010,Enabler,5.0
+Essence Healthcare,2010,Challenger,31.73
+InstaMed (Financial Software),2010,Enabler,6.0
+InTouch Health,2010,Challenger,10.0
+Lineagen,2010,Enabler,6.11
+Notal Vision,2010,Enabler,12.9
+One Medical (Clinics/Outpatient Services),2010,Challenger,15.0
+PatientsLikeMe,2010,Enabler,8.62
+Phreesia (NYS: PHR),2010,Enabler,19.78
+Rheonix,2010,Challenger,12.6
+Verge Health,2010,Enabler,10.1
+Zocdoc,2010,Enabler,15.0
+23andMe (PINX: MEHCQ),2011,Enabler,31.0
+Ambra Health,2011,Enabler,7.5
+Analyte Health,2011,Challenger,10.82
+Aventura (Automation/Workflow Software),2011,Enabler,10.6
+CardioDx,2011,Challenger,60.0
+CareCloud Health,2011,Enabler,20.11
+Cleveland HeartLab,2011,Challenger,18.35
+Essence Healthcare,2011,Challenger,70.0
+Glytec,2011,Enabler,8.27
+goBalto,2011,Enabler,5.7
+Health Catalyst (NAS: HCAT),2011,Enabler,14.35
+Healthmine,2011,Enabler,40.0
+HealthTap,2011,Challenger,10.4
+HeartFlow,2011,Enabler,20.42
+Hicuity Health,2011,Challenger,8.0
+iLLUME Ai,2011,Enabler,6.4
+InstaMed (Financial Software),2011,Enabler,5.5
+Iora Health,2011,Challenger,6.25
+Kyruus,2011,Enabler,5.5
+Life Image,2011,Enabler,19.85
+Lineagen,2011,Enabler,5.0
+One Medical (Clinics/Outpatient Services),2011,Challenger,20.0
+OneMedNet (NAS: ONMD),2011,Enabler,8.0
+Perminova,2011,Enabler,3.0
+Practice Fusion,2011,Enabler,23.82
+Prognos Health,2011,Enabler,7.73
+RedBrick Health,2011,Enabler,10.0
+Sapphire Digital,2011,Enabler,16.31
+Sapphire Digital,2011,Enabler,9.0
+Sapphire Digital,2011,Enabler,12.0
+Sharecare,2011,Enabler,14.0
+Strava,2011,Enabler,12.6
+Tebra Technologies,2011,Enabler,10.0
+Wellfount,2011,Enabler,6.0
+Zocdoc,2011,Enabler,75.0
+23andMe (PINX: MEHCQ),2012,Enabler,57.95
+ABOUT Healthcare,2012,Enabler,8.03
+Accolade (Managed Care),2012,Enabler,7.0
+AirStrip Technologies,2012,Enabler,24.9
+AirStrip Technologies,2012,Enabler,10.0
+Akili Interactive,2012,Challenger,8.5
+Ambra Health,2012,Enabler,5.5
+Analyte Health,2012,Challenger,8.0
+Annai Systems,2012,Enabler,6.86
+Apixio,2012,Enabler,5.79
+CardioDx,2012,Challenger,88.0
+Carena,2012,Enabler,14.0
+CareZone,2012,Enabler,12.97
+Cleveland HeartLab,2012,Challenger,14.7
+ContinuumRX,2012,Enabler,7.0
+Evariant,2012,Enabler,7.94
+Experity,2012,Enabler,12.0
+Ginger,2012,Challenger,6.5
+goBalto,2012,Enabler,12.0
+InstaMed (Financial Software),2012,Enabler,14.0
+MDLive,2012,Challenger,10.29
+Modernizing Medicine,2012,Enabler,6.6
+PerfectServe,2012,Enabler,11.0
+Practice Fusion,2012,Enabler,34.0
+Progyny (NAS: PGNY),2012,Enabler,20.0
+Radiology Partners,2012,Challenger,60.0
+Rheonix,2012,Challenger,6.0
+Sharecare,2012,Enabler,68.0
+Simplee (Financial Software),2012,Enabler,7.73
+TigerConnect,2012,Enabler,10.0
+Truveris,2012,Enabler,10.0
+Voalte,2012,Enabler,6.0
+Accolade (Managed Care),2013,Enabler,30.0
+AltheaDx,2013,Enabler,7.25
+Atentiv Health,2013,Enabler,8.06
+Aventura (Automation/Workflow Software),2013,Enabler,6.8
+Bluesight,2013,Enabler,5.37
+CareCloud Health,2013,Enabler,30.0
+CellTrak,2013,Enabler,12.0
+ClearDATA,2013,Enabler,14.0
+Comprehend,2013,Enabler,8.5
+ConcertoHealth,2013,Challenger,20.5
+Conversio Health,2013,Enabler,14.83
+Crossover Health,2013,Challenger,6.49
+Cureatr,2013,Enabler,5.78
+eHealth Technologies,2013,Enabler,6.0
+Elucid,2013,Enabler,6.0
+Emids Technologies,2013,Enabler,13.3
+Experity,2013,Enabler,11.9
+Fabric Genomics,2013,Enabler,6.8
+Flatiron,2013,Enabler,8.0
+Glooko,2013,Enabler,3.75
+Health Catalyst (NAS: HCAT),2013,Enabler,41.0
+Healthmine,2013,Enabler,15.0
+HealthSpot,2013,Enabler,10.9
+HealthTap,2013,Challenger,24.0
+HNI Healthcare,2013,Enabler,9.8
+Included Health,2013,Enabler,10.0
+Independa,2013,Enabler,4.56
+InformedDNA,2013,Enabler,7.72
+InTouch Health,2013,Challenger,8.9
+Iora Health,2013,Challenger,14.03
+Kyruus,2013,Enabler,11.0
+Life Image,2013,Enabler,36.58
+Lineagen,2013,Enabler,16.26
+Lineagen,2013,Enabler,3.88
+Maxwell Health,2013,Enabler,6.0
+MedCPU,2013,Enabler,8.18
+Modernizing Medicine,2013,Enabler,14.0
+Olive (Enterprise Systems),2013,Enabler,5.0
+One Medical (Clinics/Outpatient Services),2013,Challenger,30.0
+Oscar Health (NYS: OSCR),2013,Challenger,51.5
+PatientsLikeMe,2013,Enabler,12.0
+Phreesia (NYS: PHR),2013,Enabler,10.0
+Prognos Health,2013,Enabler,15.0
+RedBrick Health,2013,Enabler,14.0
+Rheonix,2013,Challenger,12.0
+Sapphire Digital,2013,Enabler,22.0
+Simplee (Financial Software),2013,Enabler,10.0
+Strava,2013,Enabler,19.7
+US HealthVest,2013,Challenger,36.0
+Welltok,2013,Enabler,18.71
+AbleTo,2014,Challenger,6.0
+AirStrip Technologies,2014,Enabler,25.0
+American Well (NYS: AMWL),2014,Enabler,81.19
+Amino Health,2014,Enabler,7.0
+Apixio,2014,Enabler,13.5
+ArborMetrix,2014,Enabler,7.77
+Aspire Health,2014,Challenger,5.5
+Atentiv Health,2014,Enabler,8.2
+Augmedix,2014,Enabler,7.36
+BetterDoctor,2014,Enabler,10.0
+Binary Fountain,2014,Enabler,5.7
+CardioDx,2014,Challenger,35.0
+CareGuardian,2014,Challenger,5.06
+CareZone,2014,Enabler,30.0
+ClearCare,2014,Enabler,11.0
+Cleveland HeartLab,2014,Challenger,6.5
+Clinicient,2014,Enabler,15.0
+Comprehend,2014,Enabler,21.02
+Doctor On Demand,2014,Challenger,21.0
+Enlace Health,2014,Enabler,8.5
+Evariant,2014,Enabler,18.3
+Fabric Genomics,2014,Enabler,
+Flatiron,2014,Enabler,130.0
+Foodsmart,2014,Enabler,8.5
+GeneSight,2014,Challenger,12.5
+Ginger,2014,Challenger,20.0
+Glooko,2014,Enabler,7.0
+goBalto,2014,Enabler,5.0
+Health Catalyst (NAS: HCAT),2014,Enabler,41.0
+HealthCare.com,2014,Challenger,9.27
+HealthSpot,2014,Enabler,18.32
+HeartFlow,2014,Enabler,104.7
+Included Health,2014,Enabler,40.0
+InstaMed (Financial Software),2014,Enabler,16.8
+Lumeris,2014,Enabler,71.03
+Lumiata,2014,Enabler,6.0
+Mango Health (Application Software),2014,Enabler,5.25
+Maxwell Health,2014,Enabler,26.37
+MD Revolution,2014,Enabler,9.0
+MDLive,2014,Challenger,23.6
+MedCPU,2014,Enabler,9.3
+Newtopia (TSX: NEWU),2014,Enabler,5.0
+Noom,2014,Challenger,7.0
+Nuna,2014,Enabler,30.0
+Omada (NAS: OMDA),2014,Challenger,23.0
+OmeCare,2014,Challenger,36.0
+OmeCare,2014,Challenger,35.0
+One Medical (Clinics/Outpatient Services),2014,Challenger,40.5
+OneStudyTeam,2014,Enabler,7.4
+OnShift,2014,Enabler,7.1
+Oscar Health (NYS: OSCR),2014,Challenger,30.0
+Oscar Health (NYS: OSCR),2014,Challenger,80.0
+Phreesia (NYS: PHR),2014,Enabler,30.0
+PillPack,2014,Challenger,8.75
+PipelineRx,2014,Enabler,5.0
+Practice Fusion,2014,Enabler,87.95
+RedBrick Health,2014,Enabler,7.5
+Reflexion Health,2014,Enabler,7.5
+Remedy Partners,2014,Enabler,35.2
+Sharecare,2014,Enabler,42.28
+SHYFT Analytics,2014,Enabler,19.0
+Strava,2014,Enabler,18.5
+Syapse,2014,Enabler,10.0
+Tebra Technologies,2014,Enabler,27.0
+TigerConnect,2014,Enabler,21.0
+TriNetX,2014,Enabler,13.01
+Truveris,2014,Enabler,12.75
+Validic,2014,Enabler,5.03
+Vertava Health,2014,Challenger,6.0
+Vida,2014,Challenger,5.0
+Viewics,2014,Enabler,8.0
+VisitPay,2014,Enabler,5.0
+Voalte,2014,Enabler,36.0
+Welldoc,2014,Challenger,20.0
+Wellfount,2014,Enabler,30.0
+Wellframe,2014,Enabler,8.5
+Welltok,2014,Enabler,22.09
+Zephyr Health,2014,Enabler,15.0
+23andMe (PINX: MEHCQ),2015,Enabler,115.0
+AbleTo,2015,Challenger,12.0
+Accolade (Managed Care),2015,Enabler,22.5
+Activate Care,2015,Enabler,8.4
+AiCure,2015,Enabler,12.25
+Aledade,2015,Enabler,30.0
+AltheaDx,2015,Enabler,30.0
+Ambra Health,2015,Enabler,6.31
+American Well (NYS: AMWL),2015,Enabler,5.0
+Amino Health,2015,Enabler,12.92
+Angioinsight,2015,Challenger,
+Annai Systems,2015,Enabler,19.0
+Antidote,2015,Enabler,6.8
+Apervita,2015,Enabler,17.92
+Arivale,2015,Enabler,36.0
+Aspire Health,2015,Challenger,15.0
+Augmedix,2015,Enabler,16.53
+Aventura (Automation/Workflow Software),2015,Enabler,14.0
+Benchling,2015,Enabler,5.0
+Better Therapeutics,2015,Enabler,6.58
+Bluesight,2015,Enabler,12.0
+CareCloud Health,2015,Enabler,16.87
+Careforth,2015,Challenger,20.0
+CareLinx,2015,Challenger,5.24
+Carena,2015,Enabler,13.3
+CareSync,2015,Enabler,18.0
+Castle Biosciences (NAS: CSTL),2015,Challenger,17.0
+Catapult Health,2015,Challenger,8.5
+Ceresti Health,2015,Challenger,7.0
+Claritas Genomics,2015,Challenger,14.98
+ClearDATA,2015,Enabler,25.0
+Clinical Ink,2015,Enabler,11.25
+CloudMedx,2015,Enabler,6.6
+CloudMine,2015,Enabler,7.22
+Clover Health Investments (NAS: CLOV),2015,Challenger,35.0
+Clover Health Investments (NAS: CLOV),2015,Challenger,13.0
+Collaborative Medical Technology,2015,Challenger,5.0
+ConcertoHealth,2015,Challenger,15.25
+ContinuumRX,2015,Enabler,13.5
+Crisis Text Line,2015,Challenger,7.0
+Crossover Health,2015,Challenger,15.0
+Cureatr,2015,Enabler,13.0
+Decisio Health,2015,Enabler,4.0
+DiaCarta,2015,Challenger,8.0
+Discovery Health Partners,2015,Enabler,22.56
+Doctor On Demand,2015,Challenger,64.32
+Eligible,2015,Enabler,22.7
+Enlace Health,2015,Enabler,13.6
+Enlitic (ASX: ENL),2015,Enabler,13.0
+Epion Health,2015,Enabler,6.81
+Evidation Health,2015,Enabler,6.17
+Experity,2015,Enabler,6.0
+Fathom (Healthcare Technology Systems),2015,Enabler,5.0
+Forward Health Group,2015,Enabler,5.7
+GeneSight,2015,Challenger,52.39
+Glytec,2015,Enabler,5.1
+goBalto,2015,Enabler,12.11
+GoCheck Kids,2015,Enabler,8.15
+Greatist,2015,Challenger,5.54
+HBI Solutions,2015,Enabler,12.6
+hc1 Insights,2015,Enabler,8.2
+HCIactive,2015,Enabler,10.66
+Headspace,2015,Challenger,30.0
+Heal,2015,Challenger,13.1
+Health Catalyst (NAS: HCAT),2015,Enabler,70.0
+Health Fidelity,2015,Enabler,19.26
+HealthExpense,2015,Enabler,6.3
+HealthFinch,2015,Enabler,7.5
+HealthLoop,2015,Enabler,13.15
+HealthSpot,2015,Enabler,11.56
+HeartFlow,2015,Enabler,35.88
+Helix (Laboratory Services (Healthcare)),2015,Challenger,185.0
+Hicuity Health,2015,Challenger,7.32
+HNI Healthcare,2015,Enabler,8.4
+HomeHero (Elder and Disabled Care),2015,Challenger,20.0
+Honor,2015,Challenger,20.0
+Hospital IQ,2015,Enabler,7.0
+iFrame,2015,Enabler,5.4
+Imagine Health,2015,Enabler,21.0
+IMAT Solutions,2015,Enabler,6.2
+Included Health,2015,Enabler,55.0
+Independa,2015,Enabler,6.0
+INTERlink AI,2015,Enabler,5.36
+Iora Health,2015,Challenger,8.04
+Iora Health,2015,Challenger,28.0
+Ivenix,2015,Enabler,27.5
+Joyable,2015,Challenger,8.0
+Kindara,2015,Enabler,5.3
+Kyruus,2015,Enabler,37.0
+Lemonaid Health,2015,Challenger,1.87
+Life Image,2015,Enabler,22.7
+Lineagen,2015,Enabler,12.17
+Lua (Communication Software),2015,Enabler,7.0
+Lumeon,2015,Enabler,6.19
+Lyra Health,2015,Challenger,35.0
+MD Insider,2015,Enabler,12.0
+MD Insider,2015,Enabler,9.5
+MD Revolution,2015,Enabler,23.49
+MDLive,2015,Challenger,50.0
+MDsave,2015,Enabler,14.14
+MedCPU,2015,Enabler,5.0
+Medisafe,2015,Enabler,6.0
+Metabiota,2015,Enabler,31.2
+Modernizing Medicine,2015,Enabler,48.0
+Modernizing Medicine,2015,Enabler,20.0
+MyHealthTeam,2015,Enabler,5.03
+NantHealth (PINX: NHIQ),2015,Enabler,200.0
+NantHealth (PINX: NHIQ),2015,Enabler,160.0
+NantOmics,2015,Challenger,250.91
+NantOmics,2015,Challenger,10.0
+Narus Health,2015,Challenger,27.0
+Navigating Cancer,2015,Enabler,5.25
+Nimble (Medical Records Systems),2015,Enabler,12.0
+Noom,2015,Challenger,16.15
+NovuHealth,2015,Enabler,20.0
+Olive (Enterprise Systems),2015,Enabler,15.0
+Omada (NAS: OMDA),2015,Challenger,48.66
+One Medical (Clinics/Outpatient Services),2015,Challenger,65.0
+OrganizedWisdom,2015,Challenger,5.0
+Oscar Health (NYS: OSCR),2015,Challenger,167.42
+Pager,2015,Challenger,14.0
+Pager,2015,Challenger,5.9
+Par8o,2015,Enabler,10.5
+PatientPop,2015,Enabler,10.0
+Pear Therapeutics,2015,Challenger,5.0
+PerfectServe,2015,Enabler,10.46
+Persivia,2015,Enabler,6.3
+PierianDx,2015,Enabler,14.2
+PillPack,2015,Challenger,51.5
+PipelineRx,2015,Enabler,9.2
+PokitDok,2015,Enabler,38.1
+Pulsara,2015,Enabler,5.96
+QualMetrix,2015,Enabler,5.0
+Quartet Health,2015,Enabler,7.0
+RedBrick Health,2015,Enabler,30.0
+Remedy Partners,2015,Enabler,60.0
+Rheonix,2015,Challenger,28.6
+RiverMend Health,2015,Challenger,60.0
+Roam Analytics,2015,Enabler,9.6
+Saama Analytics,2015,Enabler,35.75
+Sanguine,2015,Enabler,5.53
+Sapphire Digital,2015,Enabler,41.84
+Science 37 Holdings,2015,Enabler,6.5
+Sentieon,2015,Enabler,20.0
+Sentrian,2015,Enabler,8.0
+Sharecare,2015,Enabler,33.12
+Sherpaa,2015,Challenger,6.17
+sikka.ai,2015,Enabler,10.5
+sikka.ai,2015,Enabler,5.5
+SleepMed,2015,Challenger,7.01
+Spiras Health,2015,Challenger,6.7
+Spruce Health,2015,Enabler,15.0
+Statera Spine,2015,Enabler,9.6
+Surgical Theater,2015,Enabler,9.45
+SwipeSense,2015,Enabler,9.7
+Talkspace (NAS: TALK),2015,Challenger,9.56
+Tebra Technologies,2015,Enabler,55.0
+TigerConnect,2015,Enabler,33.41
+Totali,2015,Enabler,5.0
+Tree Street Management,2015,Enabler,8.8
+Twill,2015,Challenger,5.0
+Twine Health,2015,Enabler,7.28
+US HealthVest,2015,Challenger,10.0
+USRetina,2015,Enabler,5.02
+Validic,2015,Enabler,12.5
+Vecna Technologies,2015,Enabler,
+Verana Health,2015,Enabler,7.8
+Verato,2015,Enabler,12.5
+Verisma Systems,2015,Enabler,14.55
+Veritas (Laboratory Services),2015,Challenger,10.0
+Vida,2015,Challenger,5.0
+VillageMD,2015,Challenger,36.0
+VitalWare,2015,Enabler,5.5
+Voalte,2015,Enabler,17.0
+Wayspring,2015,Challenger,8.0
+Wellfount,2015,Enabler,1.5
+Welltok,2015,Enabler,38.05
+Welltok,2015,Enabler,45.0
+Welltok,2015,Enabler,21.34
+Welltok,2015,Enabler,37.0
+Wildflower Health,2015,Enabler,5.0
+Yaro (Lenexa),2015,Enabler,6.0
+ZappRx,2015,Enabler,14.51
+Zephyr Health,2015,Enabler,17.48
+Zocdoc,2015,Enabler,130.0
+4G Clinical,2016,Enabler,5.0
+Aaptiv,2016,Challenger,14.0
+ABOUT Healthcare,2016,Enabler,5.89
+Accolade (Managed Care),2016,Enabler,71.1
+Accuity Delivery Systems,2016,Enabler,14.46
+Advantia Health,2016,Challenger,12.0
+Akili Interactive,2016,Challenger,42.5
+Aldera,2016,Enabler,5.13
+Aligned TeleHealth,2016,Enabler,12.0
+Alto Pharmacy,2016,Challenger,6.0
+AmberGen,2016,Enabler,
+Ambra Health,2016,Enabler,6.0
+Ampersand Health (Other Healthcare Services),2016,Challenger,5.15
+Analyte Health,2016,Challenger,6.5
+Antidote,2016,Enabler,6.41
+Applied Pathways,2016,Enabler,6.0
+AristaMD,2016,Enabler,9.67
+Arterys,2016,Enabler,12.0
+Aspire Health,2016,Challenger,31.35
+Augmedix,2016,Enabler,40.45
+Avizia,2016,Enabler,17.0
+Azalea Health,2016,Enabler,10.61
+Babylon Health,2016,Challenger,25.0
+Benchling,2016,Enabler,7.0
+Best Doctors,2016,Challenger,10.0
+Big Health,2016,Enabler,11.22
+BioIQ,2016,Challenger,7.0
+BioIQ,2016,Challenger,10.0
+Biotheranostics,2016,Challenger,32.0
+Blink Health,2016,Enabler,75.0
+Bluesight,2016,Enabler,15.0
+Call9,2016,Challenger,9.48
+Caption Care,2016,Enabler,5.7
+CardioDx,2016,Challenger,6.65
+CareCloud Health,2016,Enabler,31.5
+CareGuardian,2016,Challenger,32.76
+Caremerge,2016,Enabler,11.86
+CareZone,2016,Enabler,62.0
+Catapult Health,2016,Challenger,10.1
+CellMax Life,2016,Challenger,9.0
+Chiron Health,2016,Enabler,7.09
+Chronix Biomedical,2016,Challenger,5.01
+Clarify( Enterprise Systems (Healthcare)),2016,Enabler,5.96
+CleanSlate (Clinics/Outpatient Services),2016,Challenger,9.52
+ClearCare,2016,Enabler,60.0
+Cleveland HeartLab,2016,Challenger,7.0
+Clinicient,2016,Enabler,5.4
+Cloud 9 Software,2016,Enabler,
+Clover Health Investments (NAS: CLOV),2016,Challenger,160.0
+ConcertoHealth,2016,Challenger,7.5
+Contessa,2016,Challenger,7.0
+Convergence CT,2016,Enabler,6.0
+Crisis Text Line,2016,Challenger,23.8
+Crossover Health,2016,Challenger,92.0
+Curology,2016,Challenger,15.0
+Datica,2016,Enabler,6.5
+DayTwo,2016,Enabler,5.0
+Digital Pharmacist,2016,Enabler,6.5
+Docent Health,2016,Enabler,17.1
+Edaris Health,2016,Enabler,5.32
+Edgewood Healthcare,2016,Challenger,5.98
+Elation Health,2016,Enabler,15.0
+Electronic Caregiver,2016,Enabler,
+Ella Health,2016,Challenger,6.94
+Employers Health Network,2016,Challenger,6.25
+Enspire DBS Therapy,2016,Challenger,5.15
+ePatientFinder,2016,Enabler,8.2
+Epoch Health,2016,Challenger,5.0
+ESO Solutions,2016,Enabler,42.91
+Evidation Health,2016,Enabler,15.0
+eVisit,2016,Enabler,5.42
+Exagen (NAS: XGN),2016,Challenger,19.82
+Fabric Genomics,2016,Enabler,23.0
+Farcast Biosciences,2016,Enabler,27.4
+Finrise,2016,Enabler,3.83
+Fivos,2016,Enabler,14.7
+Flatiron,2016,Enabler,190.0
+Foodsmart,2016,Enabler,18.0
+Forward (Clinics/Outpatient Services),2016,Challenger,29.5
+Freenome,2016,Enabler,5.55
+Glooko,2016,Enabler,24.5
+Glytec,2016,Enabler,5.0
+GoCheck Kids,2016,Enabler,10.6
+Headspace,2016,Challenger,35.0
+Heal,2016,Challenger,52.68
+Health Catalyst (NAS: HCAT),2016,Enabler,70.0
+Healthcare TTU,2016,Enabler,5.0
+HealthFleet,2016,Enabler,28.14
+HealthVerity,2016,Enabler,7.13
+HeartFlow,2016,Enabler,99.93
+Higi (Decision/Risk Analysis),2016,Enabler,40.0
+HNI Healthcare,2016,Enabler,0.7
+Honor,2016,Challenger,42.0
+Hospital IQ,2016,Enabler,6.25
+i2i Population Health,2016,Enabler,5.6
+iLLUME Ai,2016,Enabler,15.3
+Imagen (Healthcare Technology Systems),2016,Enabler,5.0
+InformedDNA,2016,Enabler,6.5
+Innovaccer,2016,Enabler,15.6
+InstaMed (Financial Software),2016,Enabler,25.0
+INTERlink AI,2016,Enabler,7.0
+InTouch Health,2016,Challenger,15.0
+Invicro,2016,Enabler,45.84
+Iora Health,2016,Challenger,75.0
+Jet Health Solutions,2016,Enabler,16.7
+K4Connect,2016,Enabler,8.0
+Kannact,2016,Challenger,5.97
+Komodo Health,2016,Enabler,7.0
+L7 Informatics,2016,Enabler,6.5
+Landmark Health,2016,Challenger,60.75
+Lantern (Application Software),2016,Enabler,17.0
+Lark,2016,Challenger,21.0
+Lexent Bio,2016,Enabler,10.22
+LifeOmic Holdings,2016,Enabler,20.0
+Lumere,2016,Enabler,10.0
+Lumiata,2016,Enabler,10.0
+Mana Health,2016,Enabler,8.49
+Mango Health (Application Software),2016,Enabler,6.5
+Maxwell Health,2016,Enabler,22.0
+MD Revolution,2016,Enabler,9.74
+MDsave,2016,Enabler,5.0
+MEDArchon,2016,Enabler,5.0
+MedCPU,2016,Enabler,35.0
+Medici,2016,Challenger,24.17
+Medici,2016,Challenger,8.0
+Medisas,2016,Enabler,10.59
+MedNet (Healthcare Technology Systems),2016,Enabler,16.5
+Medsphere Systems,2016,Enabler,15.3
+Moxe,2016,Enabler,5.5
+mPulse.,2016,Enabler,13.0
+NantHealth (PINX: NHIQ),2016,Enabler,52.5
+Narus Health,2016,Challenger,5.25
+Navvis Health Care,2016,Enabler,14.5
+NeueHealth (NYS: NEUE),2016,Challenger,81.72
+NeuroVision,2016,Enabler,6.5
+Newtopia (TSX: NEWU),2016,Enabler,10.0
+NextHealth Technologies,2016,Enabler,9.5
+nirvanaHealth,2016,Enabler,12.0
+Noom,2016,Challenger,29.0
+Nuna,2016,Enabler,60.0
+Nurx,2016,Challenger,5.3
+Olive (Enterprise Systems),2016,Enabler,15.45
+OmeCare,2016,Challenger,40.0
+OncoHealth (Atlanta),2016,Enabler,7.5
+One Drop,2016,Enabler,8.0
+OnShift,2016,Enabler,18.0
+Oscar Health (NYS: OSCR),2016,Challenger,400.0
+Ovia Health,2016,Enabler,10.0
+Pager,2016,Challenger,5.21
+Parasail,2016,Enabler,7.0
+PatientPop,2016,Enabler,7.5
+Pear Therapeutics,2016,Challenger,20.0
+Perminova,2016,Enabler,11.5
+Perthera,2016,Enabler,9.17
+Phil,2016,Challenger,7.5
+Phosphorus (Decision/Risk Analysis),2016,Enabler,10.0
+Picwell,2016,Enabler,7.05
+Pieces (Decision/Risk Analysis),2016,Enabler,22.3
+Pillar Biosciences,2016,Enabler,18.0
+PillPack,2016,Challenger,55.5
+Pivot (Healthcare Technology Systems),2016,Enabler,7.35
+PlushCare,2016,Challenger,8.0
+Practice Fusion,2016,Enabler,50.0
+Quartet Health,2016,Enabler,40.0
+Qventus,2016,Enabler,13.0
+Recovery Centers of America,2016,Challenger,331.5
+RedBrick Health,2016,Enabler,5.0
+Reflexion Health,2016,Enabler,18.0
+Rested,2016,Enabler,5.6
+RetraceHealth,2016,Challenger,6.53
+Reveleer,2016,Enabler,9.13
+Roam Analytics,2016,Enabler,10.52
+SchoolCare,2016,Enabler,7.73
+Science 37 Holdings,2016,Enabler,31.0
+Seven Bridges Genomics,2016,Enabler,45.0
+Sharecare,2016,Enabler,33.0
+SilverCloud Health,2016,Enabler,7.87
+SilverVue,2016,Enabler,17.85
+Simplee (Financial Software),2016,Enabler,20.0
+Skedulo,2016,Enabler,9.2
+SmartLink Health,2016,Enabler,
+SnapMD,2016,Enabler,5.3
+Somnoware,2016,Enabler,9.0
+Stanson Health,2016,Enabler,9.2
+Swoop (Media and Information Services),2016,Enabler,8.6
+Syapse,2016,Enabler,25.0
+Talix,2016,Enabler,14.0
+Talkspace (NAS: TALK),2016,Challenger,15.0
+Therapydia,2016,Challenger,8.18
+Tonic Health,2016,Enabler,6.41
+TouchCare,2016,Enabler,11.1
+TriNetX,2016,Enabler,37.2
+Twill,2016,Challenger,5.0
+uBiome,2016,Challenger,17.17
+Urgent Team,2016,Challenger,22.95
+Veritas (Laboratory Services),2016,Challenger,30.0
+Vida,2016,Challenger,18.0
+Viewics,2016,Enabler,8.4
+Vim,2016,Enabler,11.06
+Virta Health,2016,Challenger,28.78
+Vivify Health,2016,Enabler,17.0
+Wayspring,2016,Challenger,17.04
+Welldoc,2016,Challenger,29.5
+Welltok,2016,Enabler,33.7
+Workpath,2016,Enabler,10.0
+YouScript,2016,Enabler,5.1
+Zipari,2016,Enabler,7.0
+Zipnosis,2016,Challenger,17.0
+23andMe (PINX: MEHCQ),2017,Enabler,250.0
+8fit,2017,Enabler,7.0
+98point6,2017,Challenger,29.08
+Aaptiv,2017,Challenger,38.0
+AbleTo,2017,Challenger,36.65
+Accuity Delivery Systems,2017,Enabler,25.5
+Actify Neurotherapies,2017,Challenger,5.0
+ActX,2017,Challenger,5.61
+Advantia Health,2017,Challenger,12.39
+Aetion,2017,Enabler,11.2
+AiCure,2017,Enabler,15.0
+Aledade,2017,Enabler,40.25
+AllClear ID,2017,Enabler,6.5
+AllerGenis,2017,Challenger,15.0
+AltheaDx,2017,Enabler,27.0
+Alto Pharmacy,2017,Challenger,17.15
+Ambient Clinical Analytics,2017,Enabler,5.39
+Ambra Health,2017,Enabler,7.4
+Amino Health,2017,Enabler,25.0
+Antidote,2017,Enabler,10.9
+Apervita,2017,Enabler,16.5
+Arivale,2017,Enabler,13.6
+Arrive Health,2017,Enabler,5.28
+Artemis Health,2017,Enabler,22.7
+Artemis Health,2017,Enabler,9.82
+Arterys,2017,Enabler,30.06
+Asensei,2017,Enabler,6.05
+Avalon Healthcare Solutions,2017,Enabler,29.27
+Avizia,2017,Enabler,23.0
+Babylon Health,2017,Challenger,60.0
+Bardavon,2017,Enabler,5.0
+BaseHealth,2017,Enabler,8.5
+Better Therapeutics,2017,Enabler,21.8
+BetterDoctor,2017,Enabler,11.0
+Binary Fountain,2017,Enabler,19.92
+BioFluidica,2017,Enabler,5.0
+Biofourmis,2017,Enabler,5.0
+Blink Health,2017,Enabler,90.0
+Bright.md,2017,Enabler,8.8
+Buoy Health,2017,Challenger,6.7
+Call9,2017,Challenger,18.5
+Carbon Health,2017,Challenger,6.5
+CardioDx,2017,Challenger,18.13
+Care Innovations,2017,Enabler,18.0
+Carena,2017,Enabler,
+Carevive,2017,Enabler,7.25
+Carrum Health,2017,Enabler,6.5
+Cedar (Enterprise Systems (Healthcare)),2017,Enabler,12.81
+CellTrak,2017,Enabler,
+ChartSpan,2017,Enabler,10.93
+Cipherome,2017,Enabler,9.0
+CirrusMD,2017,Challenger,7.5
+ClearDATA,2017,Enabler,12.0
+CloudMine,2017,Enabler,7.3
+Cogitativo,2017,Enabler,5.0
+Cognoa,2017,Enabler,11.6
+Collective Medical,2017,Enabler,47.5
+Commure,2017,Enabler,10.0
+Conversa,2017,Enabler,9.0
+DayTwo,2017,Enabler,12.0
+Deep 6 AI,2017,Enabler,5.0
+Devoted,2017,Challenger,62.0
+Devoted,2017,Challenger,5.46
+Digital Pharmacist,2017,Enabler,6.5
+DispatchHealth,2017,Challenger,32.0
+DocASAP,2017,Enabler,8.58
+Doctor.com,2017,Enabler,7.0
+DrChrono,2017,Enabler,12.0
+Eagledream Health,2017,Enabler,6.46
+EchoPixel,2017,Enabler,8.5
+Edico Genome,2017,Enabler,22.0
+Elligo Health Research,2017,Enabler,5.0
+Emids Technologies,2017,Enabler,5.0
+Essence Healthcare,2017,Challenger,100.0
+Evariant,2017,Enabler,63.53
+Evidation Health,2017,Enabler,10.0
+Exagen (NAS: XGN),2017,Challenger,9.85
+Exagen (NAS: XGN),2017,Challenger,42.9
+FetchMD,2017,Challenger,10.0
+FIGmd,2017,Enabler,13.5
+FitOn Health,2017,Enabler,10.32
+Forward (Clinics/Outpatient Services),2017,Challenger,52.0
+Freenome,2017,Enabler,72.0
+Fruit Street,2017,Challenger,7.25
+Gemini Health,2017,Enabler,
+Genome Medical,2017,Challenger,11.0
+Genome Medical,2017,Challenger,10.0
+Genoox,2017,Enabler,6.0
+Glooko,2017,Enabler,35.0
+Groups Recover Together,2017,Challenger,11.0
+Groups Recover Together,2017,Challenger,13.0
+Halo Health,2017,Enabler,11.0
+Hawthorne Health,2017,Enabler,13.0
+Hazel Health,2017,Challenger,8.3
+Headspace,2017,Challenger,37.32
+Healthcare TTU,2017,Enabler,6.0
+Healthify,2017,Enabler,6.5
+HealthLoop,2017,Enabler,8.4
+Healthmap Solutions,2017,Challenger,5.6
+HealthMyne,2017,Enabler,11.0
+HealthRhythms,2017,Enabler,
+HealthSherpa,2017,Challenger,6.6
+HealthTap,2017,Challenger,50.0
+HealthVerity,2017,Enabler,10.13
+Helio Genomics,2017,Challenger,30.0
+Hinge Health (NYS: HNGE),2017,Challenger,8.4
+I V Y Labs,2017,Enabler,6.66
+Imagen (Healthcare Technology Systems),2017,Enabler,14.32
+Insight Timer,2017,Challenger,5.5
+Intiva Health,2017,Enabler,9.1
+Ivenix,2017,Enabler,50.0
+IVXpress,2017,Challenger,11.16
+JourneyPure,2017,Challenger,7.53
+Joyable,2017,Challenger,5.0
+Kali (Enterprise Systems (Healthcare)),2017,Enabler,5.0
+KenSci,2017,Enabler,8.46
+Kindara,2017,Enabler,5.0
+Knowledge to Practice,2017,Enabler,6.5
+Kyruus,2017,Enabler,10.0
+LabConnect,2017,Challenger,24.5
+LeanTaaS,2017,Enabler,25.63
+Lemonaid Health,2017,Challenger,12.0
+Level Ex,2017,Enabler,11.0
+Levitate Technologies,2017,Enabler,5.16
+LifeDojo,2017,Enabler,5.1
+Lineagen,2017,Enabler,6.46
+LogicStream Health,2017,Enabler,6.0
+Madaket,2017,Enabler,5.0
+Mango Health (Application Software),2017,Enabler,9.3
+Maven,2017,Challenger,10.18
+Medely,2017,Enabler,5.0
+Medical Brain,2017,Enabler,20.45
+Medicom (Medical Records Systems),2017,Enabler,5.23
+Medigate,2017,Enabler,5.35
+Medisafe,2017,Enabler,14.5
+Medrio,2017,Enabler,30.0
+Medsphere Systems,2017,Enabler,4.0
+Mellitus Health,2017,Enabler,7.0
+Metabiota,2017,Enabler,16.0
+MindCare,2017,Challenger,23.01
+Mindful Health Solutions,2017,Challenger,5.42
+Mindstrong,2017,Challenger,14.35
+Miro Health,2017,Enabler,5.2
+MORE Health,2017,Challenger,36.3
+MyHealthTeam,2017,Enabler,7.3
+myStrength,2017,Enabler,5.87
+Navican Genomics,2017,Enabler,15.0
+NeueHealth (NYS: NEUE),2017,Challenger,160.0
+Neurotrack,2017,Enabler,9.86
+Nimble (Medical Records Systems),2017,Enabler,28.0
+Noom,2017,Challenger,
+Nurx,2017,Challenger,36.25
+OM1,2017,Enabler,15.0
+Omada (NAS: OMDA),2017,Challenger,50.0
+One Drop,2017,Enabler,6.11
+OpenEvidence,2017,Enabler,5.0
+OurHealth,2017,Challenger,
+Outcome Health,2017,Enabler,487.5
+PatientPay,2017,Enabler,6.03
+PatientPop,2017,Enabler,15.0
+PatientsLikeMe,2017,Enabler,100.0
+Pear Therapeutics,2017,Challenger,50.0
+Phil,2017,Challenger,10.0
+Phreesia (NYS: PHR),2017,Enabler,34.0
+PillPack,2017,Challenger,24.03
+PipelineRx,2017,Enabler,15.37
+Pivot (Healthcare Technology Systems),2017,Enabler,10.0
+Prealize Health,2017,Enabler,5.1
+Precision Health Intelligence,2017,Enabler,20.0
+Predicine,2017,Enabler,10.0
+Prognos Health,2017,Enabler,20.5
+Progyny (NAS: PGNY),2017,Enabler,73.3
+Protenus,2017,Enabler,7.0
+Pulsara,2017,Enabler,12.24
+Radiology Partners,2017,Challenger,200.02
+Redox,2017,Enabler,10.0
+Regroup,2017,Enabler,6.1
+Salucro,2017,Enabler,6.33
+Sansoro Health,2017,Enabler,5.25
+SchoolCare,2017,Enabler,16.0
+SchoolCare,2017,Enabler,6.4
+Science 37 Holdings,2017,Enabler,29.0
+Sensely,2017,Enabler,8.0
+SHYFT Analytics,2017,Enabler,20.0
+SignalPath,2017,Enabler,5.0
+Silversheet,2017,Enabler,5.04
+SimpleHealth,2017,Challenger,9.97
+Solera (Other Healthcare Services),2017,Enabler,18.33
+Solera (Other Healthcare Services),2017,Enabler,9.0
+Solv.,2017,Challenger,6.25
+Somatus,2017,Challenger,5.0
+Statera Spine,2017,Enabler,20.72
+Statera Spine,2017,Enabler,18.5
+Strava,2017,Enabler,15.0
+Suki,2017,Enabler,4.5
+Supurb,2017,Enabler,7.5
+Surgical Theater,2017,Enabler,7.51
+Syapse,2017,Enabler,30.0
+Sync Project,2017,Enabler,5.0
+Talkspace (NAS: TALK),2017,Challenger,31.0
+The Mighty,2017,Enabler,7.5
+Thirty Madison,2017,Challenger,5.0
+Thrive Global,2017,Enabler,7.0
+Truveris,2017,Enabler,24.68
+Twill,2017,Challenger,9.0
+uMethod,2017,Enabler,5.9
+Unite Us,2017,Enabler,7.32
+Upfront (Enterprise Systems),2017,Enabler,5.61
+Upward Health,2017,Challenger,8.67
+UpWell (Information Services (B2C)),2017,Challenger,20.15
+Verato,2017,Enabler,12.5
+Verinovum,2017,Enabler,6.0
+Vertava Health,2017,Challenger,11.7
+Vineti,2017,Enabler,13.81
+Viocare,2017,Enabler,
+VirtualHealth,2017,Enabler,7.0
+Vital Interaction,2017,Enabler,10.0
+Viz.ai,2017,Enabler,7.34
+VIZI Healthcare,2017,Enabler,5.0
+Voi (Decision/Risk Analysis),2017,Enabler,18.0
+WelbeHealth,2017,Challenger,15.0
+Welkin Health,2017,Enabler,8.0
+Wellfount,2017,Enabler,11.92
+Wellframe,2017,Enabler,15.0
+WellSmith,2017,Enabler,12.0
+Xealth,2017,Enabler,8.63
+ZappRx,2017,Enabler,22.9
+180 Health Partners,2018,Challenger,8.0
+20/20 Onsite,2018,Challenger,7.0
+23andMe (PINX: MEHCQ),2018,Enabler,300.0
+98point6,2018,Challenger,50.0
+Aaptiv,2018,Challenger,23.0
+Abacus Insights,2018,Enabler,5.9
+AbleTo,2018,Challenger,8.5
+ABOUT Healthcare,2018,Enabler,5.75
+Accolade (Managed Care),2018,Enabler,50.0
+AdviNOW,2018,Enabler,7.0
+Aetion,2018,Enabler,36.4
+AKASA,2018,Enabler,5.0
+Akido Labs,2018,Enabler,6.2
+Akili Interactive,2018,Challenger,68.0
+Akiri,2018,Enabler,10.0
+All.Health,2018,Enabler,90.0
+Alto Pharmacy,2018,Challenger,50.44
+American Well (NYS: AMWL),2018,Enabler,290.61
+Andros (Healthcare Technology Systems),2018,Enabler,8.22
+Apixio,2018,Enabler,5.0
+Apostrophe (Life and Health Insurance),2018,Challenger,5.25
+Artera,2018,Enabler,10.32
+Aspen RxHealth,2018,Challenger,9.0
+Assured Allies,2018,Challenger,5.0
+AssuriCare,2018,Enabler,13.5
+Atentiv Health,2018,Enabler,11.0
+Augmedix,2018,Enabler,21.89
+Avalon Healthcare Solutions,2018,Enabler,16.5
+b.well Connected Health,2018,Enabler,8.19
+Bardavon,2018,Enabler,16.88
+Bayesian Health,2018,Enabler,15.0
+Beddr,2018,Challenger,5.6
+Benchling,2018,Enabler,14.5
+Bexa,2018,Enabler,6.0
+BioIQ,2018,Challenger,26.5
+Blue Note Therapeutics,2018,Challenger,10.0
+Bridge Connector,2018,Enabler,5.5
+Cadence Health,2018,Enabler,8.4
+Calm,2018,Challenger,10.49
+CancerIQ,2018,Enabler,5.5
+Caption Care,2018,Enabler,9.25
+Carbon Health,2018,Challenger,12.0
+Care Innovations,2018,Enabler,11.6
+Carepoynt,2018,Enabler,5.0
+Caresyntax,2018,Enabler,20.0
+Carevive,2018,Enabler,
+CareZone,2018,Enabler,50.0
+Carie,2018,Enabler,7.0
+Casetabs,2018,Enabler,8.27
+Castle Biosciences (NAS: CSTL),2018,Challenger,10.06
+Cedar (Enterprise Systems (Healthcare)),2018,Enabler,36.0
+Centivo,2018,Challenger,33.55
+Change Healthcare,2018,Enabler,
+CircleLink Health,2018,Challenger,5.04
+Cityblock,2018,Challenger,20.8
+Clarify( Enterprise Systems (Healthcare)),2018,Enabler,57.0
+CleanSlate (Clinics/Outpatient Services),2018,Challenger,25.0
+CleanSlate (Clinics/Outpatient Services),2018,Challenger,25.0
+ClearDATA,2018,Enabler,26.0
+Clearsense,2018,Enabler,20.5
+Cleo (Commercial Services),2018,Enabler,10.5
+Click Therapeutics,2018,Challenger,17.26
+Commure,2018,Enabler,24.84
+Comprehend,2018,Enabler,26.1
+Contessa,2018,Challenger,12.0
+Cosán,2018,Challenger,5.0
+Cricket Health,2018,Challenger,24.22
+Curai Health,2018,Challenger,10.7
+CureMetrix,2018,Enabler,28.0
+Curology,2018,Challenger,10.7
+Cynerio,2018,Enabler,6.6
+Datavant,2018,Enabler,40.5
+Decent (Healthcare Services),2018,Challenger,6.0
+Devoted,2018,Challenger,300.0
+DiaCarta,2018,Challenger,45.0
+DiaCarta,2018,Challenger,
+Doc.ai,2018,Enabler,5.0
+DocMatter,2018,Enabler,8.54
+Doctor On Demand,2018,Challenger,74.0
+Drumroll AI,2018,Enabler,5.0
+Edda Technology,2018,Enabler,28.5
+Eden Health,2018,Challenger,9.62
+Electronic Caregiver,2018,Enabler,15.75
+Elligo Health Research,2018,Enabler,16.01
+Endotronix,2018,Enabler,43.46
+ESO Solutions,2018,Enabler,16.36
+Everly Health,2018,Challenger,10.6
+Evidation Health,2018,Enabler,30.0
+EyeQue,2018,Challenger,11.2
+Farcast Biosciences,2018,Enabler,40.0
+Fellow (Other Healthcare Technology Systems),2018,Enabler,6.7
+FitOn Health,2018,Enabler,8.25
+FitOn Health,2018,Enabler,8.0
+Foodsmart,2018,Enabler,18.0
+Force Therapeutics,2018,Enabler,21.0
+GB HealthWatch,2018,Enabler,5.18
+Genoox,2018,Enabler,6.0
+Genoplan,2018,Challenger,13.0
+GoodNight Medical,2018,Challenger,6.67
+Grouper,2018,Enabler,5.0
+hc1 Insights,2018,Enabler,10.0
+Heal,2018,Challenger,20.0
+Health Catalyst (NAS: HCAT),2018,Enabler,55.0
+Health Gorilla,2018,Enabler,8.2
+HealthFinch,2018,Enabler,6.0
+HealthiPASS,2018,Enabler,8.68
+HealthMyne,2018,Enabler,15.0
+HeartFlow,2018,Enabler,240.0
+Helix (Laboratory Services (Healthcare)),2018,Challenger,200.0
+HelloMD,2018,Challenger,9.56
+Hero (Healthcare Technology Systems),2018,Enabler,12.0
+Higi (Decision/Risk Analysis),2018,Enabler,23.82
+Hinge Health (NYS: HNGE),2018,Challenger,26.0
+Hint Health,2018,Enabler,10.37
+HNI Healthcare,2018,Enabler,65.0
+HNI Healthcare,2018,Enabler,32.64
+Holmusk (He serves),2018,Enabler,5.57
+Honor,2018,Challenger,50.0
+Hospital IQ,2018,Enabler,10.0
+i2i Population Health,2018,Enabler,5.0
+Imagen (Healthcare Technology Systems),2018,Enabler,41.0
+Independa,2018,Enabler,5.61
+Inspire ( Healthcare Services),2018,Enabler,10.63
+IntelyCare,2018,Enabler,10.8
+InterVenn,2018,Enabler,9.4
+InTouch Health,2018,Challenger,21.0
+InTouch Health,2018,Challenger,8.62
+Iora Health,2018,Challenger,25.0
+Iora Health,2018,Challenger,99.73
+Jump Technologies,2018,Enabler,5.5
+K Health,2018,Enabler,25.0
+K Health,2018,Enabler,5.12
+K4Connect,2018,Enabler,12.75
+Kindly Care,2018,Challenger,5.41
+Klara (Enterprise Systems),2018,Enabler,11.5
+Komodo Health,2018,Enabler,12.5
+LeanTaaS,2018,Enabler,15.0
+Learn To Live,2018,Enabler,9.06
+Life Image,2018,Enabler,6.5
+Loyale,2018,Enabler,6.0
+Luma Health,2018,Enabler,6.3
+Lumeon,2018,Enabler,27.68
+Lumeris,2018,Enabler,266.25
+Lumiata,2018,Enabler,11.0
+Lyra Health,2018,Challenger,48.94
+Madaket,2018,Enabler,10.0
+Mammoth Biosciences,2018,Enabler,18.0
+Maven,2018,Challenger,27.0
+MDLive,2018,Challenger,50.0
+Medable,2018,Enabler,18.5
+Medically Home,2018,Challenger,14.04
+Medici,2018,Challenger,22.0
+Medrhythms,2018,Challenger,5.0
+Metabiota,2018,Enabler,
+Metabiota,2018,Enabler,7.5
+Mindoula,2018,Enabler,6.0
+Mindstrong,2018,Challenger,45.0
+mPulse.,2018,Enabler,11.95
+Murj,2018,Enabler,8.5
+Myia,2018,Enabler,6.75
+MyLaurel,2018,Challenger,5.54
+MyMeds,2018,Enabler,5.0
+NeueHealth (NYS: NEUE),2018,Challenger,200.0
+Neurotrack,2018,Enabler,13.7
+NeuroVision,2018,Enabler,15.0
+Nimble (Medical Records Systems),2018,Enabler,20.0
+nirvanaHealth,2018,Enabler,50.0
+Nomad Health,2018,Enabler,12.0
+Noom,2018,Challenger,16.0
+Notable,2018,Enabler,13.5
+Nucleai,2018,Enabler,5.0
+Nursegrid,2018,Enabler,5.7
+ObvioHealth,2018,Enabler,6.0
+Octave (Decision/Risk Analysis),2018,Enabler,12.15
+Olive (Enterprise Systems),2018,Enabler,32.8
+OM1,2018,Enabler,21.0
+OMNY Health,2018,Enabler,5.0
+OncoHealth (Atlanta),2018,Enabler,21.0
+One Drop,2018,Enabler,
+One Medical (Clinics/Outpatient Services),2018,Challenger,250.0
+OneMedNet (NAS: ONMD),2018,Enabler,6.5
+OnShift,2018,Enabler,29.11
+OODA Health,2018,Enabler,40.5
+Opyn,2018,Enabler,6.06
+Orbita,2018,Enabler,5.75
+Oscar Health (NYS: OSCR),2018,Challenger,375.0
+Oscar Health (NYS: OSCR),2018,Challenger,165.0
+Owkin,2018,Enabler,16.0
+Paige,2018,Enabler,25.0
+Parachute Health,2018,Enabler,9.5
+Parachute Health,2018,Enabler,5.5
+Parsley Health,2018,Challenger,12.81
+PatientPop,2018,Enabler,10.0
+PhyzData,2018,Enabler,5.0
+PicnicHealth,2018,Enabler,10.0
+Pieces (Decision/Risk Analysis),2018,Enabler,10.93
+Pill Club,2018,Challenger,5.56
+Pill Club,2018,Challenger,8.28
+Pillar Biosciences,2018,Enabler,15.9
+Pivot (Healthcare Technology Systems),2018,Enabler,25.0
+PokitDok,2018,Enabler,
+Predicine,2018,Enabler,14.59
+PrismHealthDX,2018,Challenger,5.6
+Proscia,2018,Enabler,8.34
+Protenus,2018,Enabler,11.0
+Quartet Health,2018,Enabler,45.0
+Qventus,2018,Enabler,30.0
+Radiology Partners,2018,Challenger,233.92
+RealSelf,2018,Enabler,55.0
+RecoveryPlus.health,2018,Challenger,5.88
+Regroup,2018,Enabler,5.5
+Reveleer,2018,Enabler,5.0
+Rhyme (Healthcare Technology Systems),2018,Enabler,10.5
+Rimidi,2018,Enabler,8.2
+Rise (Monitoring Equipment),2018,Challenger,5.5
+Ro,2018,Challenger,64.0
+Robin Healthcare,2018,Enabler,11.5
+Ronin,2018,Enabler,10.0
+RubiconMD,2018,Enabler,13.8
+SafeinHome,2018,Challenger,
+SageMedic,2018,Enabler,6.0
+SameSky Health,2018,Challenger,9.0
+Sansoro Health,2018,Enabler,8.0
+Saykara,2018,Enabler,5.0
+Seer (Decision/Risk Analysis) (NAS: SEER),2018,Enabler,30.0
+Seer (Decision/Risk Analysis) (NAS: SEER),2018,Enabler,6.0
+Sempre Health,2018,Enabler,8.0
+SentryHealth,2018,Enabler,9.5
+Seven Bridges Genomics,2018,Enabler,40.0
+ShiftMed,2018,Enabler,11.0
+Shine (Application Software),2018,Enabler,5.0
+SignalPath,2018,Enabler,8.0
+SimpleHealth,2018,Challenger,16.0
+Simplifeye,2018,Enabler,11.0
+Singularity.AI,2018,Enabler,5.0
+SleepMed,2018,Challenger,3.32
+SmithRx,2018,Enabler,5.5
+SmithRx,2018,Enabler,9.0
+Solv.,2018,Challenger,16.8
+SonarMD,2018,Enabler,10.0
+Sparta Science,2018,Enabler,7.0
+Spring Health,2018,Challenger,8.13
+Springbuk,2018,Enabler,20.0
+Suki,2018,Enabler,15.0
+SwiftShift,2018,Challenger,5.7
+SwipeSense,2018,Enabler,10.61
+Syllable,2018,Enabler,13.21
+SystemOne,2018,Enabler,5.0
+Tagnos,2018,Enabler,5.82
+Tebra Technologies,2018,Enabler,9.9
+Thirty Madison,2018,Challenger,15.25
+Thrive Global,2018,Enabler,30.2
+TigerConnect,2018,Enabler,12.93
+Tissue Analytics,2018,Enabler,7.68
+Tissue Differentiation Intelligence,2018,Enabler,6.0
+Tridiuum,2018,Enabler,
+Tridiuum,2018,Enabler,7.43
+uBiome,2018,Challenger,83.0
+Unite Genomics,2018,Enabler,5.78
+Univfy,2018,Enabler,11.52
+Upperline Health,2018,Challenger,29.75
+Urgent Team,2018,Challenger,7.38
+Verana Health,2018,Enabler,30.0
+Verge Health,2018,Enabler,7.0
+Vi Labs,2018,Enabler,26.63
+VillageMD,2018,Challenger,80.0
+Vineti,2018,Enabler,33.5
+Virta Health,2018,Challenger,45.0
+VisitPay,2018,Enabler,15.0
+Vitality Health Plan,2018,Challenger,5.9
+Vivante Health (Merger),2018,Challenger,5.0
+Viz.ai,2018,Enabler,20.8
+WEconnect Health Management,2018,Challenger,6.05
+WelbeHealth,2018,Challenger,18.0
+Wellist,2018,Enabler,10.0
+Wellth (California),2018,Enabler,5.1
+Welltok,2018,Enabler,13.29
+Welltok,2018,Enabler,75.0
+Whiterabbit.ai,2018,Enabler,38.23
+Whiterabbit.ai,2018,Enabler,9.27
+Wildflower Health,2018,Enabler,8.0
+Wisdo Health,2018,Challenger,11.0
+Woebot Health,2018,Challenger,8.0
+4G Clinical,2019,Enabler,7.16
+4G Clinical,2019,Enabler,
+Abacus Insights,2019,Enabler,12.7
+Abridge,2019,Enabler,5.0
+Access Physicians,2019,Challenger,9.3
+Accolade (Managed Care),2019,Enabler,20.0
+Actify Neurotherapies,2019,Challenger,
+Actium Health,2019,Enabler,10.0
+Activ Surgical,2019,Enabler,10.82
+AcuamarkDx,2019,Enabler,5.3
+AdviNOW,2019,Enabler,6.0
+Aetion,2019,Enabler,27.0
+AiCure,2019,Enabler,24.5
+AiCure,2019,Enabler,16.78
+AirStrip Technologies,2019,Enabler,21.46
+Aizon,2019,Enabler,8.28
+AKASA,2019,Enabler,20.0
+Aledade,2019,Enabler,56.15
+Alma (Clinics/Outpatient Services),2019,Challenger,8.0
+Alpha,2019,Challenger,10.0
+Alto Pharmacy,2019,Challenger,30.0
+Altoida,2019,Enabler,6.3
+Amplion (Bend),2019,Enabler,7.0
+Apervita,2019,Enabler,15.96
+Apostrophe,2019,Enabler,6.0
+ARIEL Precision Medicine,2019,Enabler,5.27
+Arrive Health,2019,Enabler,15.9
+Artemis Health,2019,Enabler,25.0
+Artera,2019,Enabler,12.0
+Ascend Medical,2019,Challenger,8.5
+Astarte Medical,2019,Enabler,5.0
+Augmedix,2019,Enabler,19.0
+Aural Analytics,2019,Enabler,5.3
+Availity Clinical Solutions,2019,Enabler,9.6
+Avenda Health,2019,Enabler,8.38
+Babylon Health,2019,Challenger,450.0
+Backpack Health,2019,Enabler,8.43
+Belong.Life,2019,Enabler,14.0
+Benchling,2019,Enabler,34.5
+Bend (Managed Care),2019,Enabler,9.95
+BetterHealthcare,2019,Enabler,5.0
+BetterNight,2019,Challenger,6.5
+Biofourmis,2019,Enabler,35.0
+BioIQ,2019,Challenger,16.8
+Biotheranostics,2019,Challenger,
+Blink Health,2019,Enabler,81.7
+Bolster,2019,Enabler,10.0
+Boulder Care,2019,Challenger,11.0
+BrainCheck,2019,Enabler,7.49
+Brave Care,2019,Challenger,6.6
+Bridge Connector,2019,Enabler,10.0
+Brightline (Clinics/Outpatient Services),2019,Challenger,5.0
+BurstIQ,2019,Enabler,5.5
+Cadence Health,2019,Enabler,13.6
+Canvas Medical,2019,Enabler,6.0
+Capital Rx,2019,Enabler,16.0
+Carbon Health,2019,Challenger,30.0
+Care.Life,2019,Enabler,5.0
+CareBridge,2019,Challenger,5.6
+CareCloud Health,2019,Enabler,33.16
+CareConnectMD,2019,Challenger,5.0
+CareHive,2019,Challenger,10.0
+Caremerge,2019,Enabler,5.19
+Caresyntax,2019,Enabler,23.95
+Carrot Fertility,2019,Challenger,11.5
+Cass (Clinics/Outpatient Services),2019,Challenger,6.5
+Castle Biosciences (NAS: CSTL),2019,Challenger,13.03
+Censinet,2019,Enabler,7.8
+ChartSpan,2019,Enabler,14.75
+CirrusMD,2019,Challenger,15.0
+Citizen Health,2019,Enabler,17.0
+Cityblock,2019,Challenger,57.5
+Clarify( Enterprise Systems (Healthcare)),2019,Enabler,25.0
+CleanSlate (Clinics/Outpatient Services),2019,Challenger,10.0
+Clever Care Health Plan,2019,Challenger,6.0
+Click Therapeutics,2019,Challenger,30.0
+Clinicient,2019,Enabler,17.25
+Clinigence Health,2019,Enabler,18.81
+Clover Health Investments (NAS: CLOV),2019,Challenger,311.87
+Cogitativo,2019,Enabler,18.0
+Commure,2019,Enabler,27.0
+Complion,2019,Enabler,7.0
+Comprehend,2019,Enabler,5.0
+Comprehensive Health Services,2019,Enabler,
+Contessa,2019,Challenger,32.5
+Cortex (Healthcare Technology Systems),2019,Enabler,23.5
+Covera Health,2019,Enabler,8.5
+Cradle Genomics,2019,Enabler,17.1
+Curology,2019,Challenger,31.8
+DARI Motion,2019,Enabler,6.0
+DayTwo,2019,Enabler,48.0
+Deep 6 AI,2019,Enabler,17.0
+Deep Lens,2019,Enabler,13.7
+DispatchHealth,2019,Challenger,33.0
+Doc.ai,2019,Enabler,25.0
+eHealth Technologies,2019,Enabler,42.9
+Eleanor Health,2019,Challenger,12.0
+Elligo Health Research,2019,Enabler,20.0
+Emerging Therapy Solutions,2019,Enabler,6.3
+Endotronix,2019,Enabler,45.0
+Enlitic (ASX: ENL),2019,Enabler,25.0
+Enlitic (ASX: ENL),2019,Enabler,15.0
+Episode Solutions,2019,Enabler,5.75
+Ever/Body,2019,Challenger,14.0
+Everly Health,2019,Challenger,30.0
+EvidenceCare,2019,Enabler,7.3
+eVisit,2019,Enabler,9.7
+Exagen (NAS: XGN),2019,Challenger,22.6
+ExplORer Surgical,2019,Enabler,5.0
+Fabric Genomics,2019,Enabler,5.78
+Fathom (Healthcare Technology Systems),2019,Enabler,9.0
+Ferrologix,2019,Enabler,
+FetchMD,2019,Challenger,7.58
+Fifth Eye,2019,Enabler,11.5
+First Stop Health,2019,Challenger,6.5
+FitOn Health,2019,Enabler,20.28
+Fivos,2019,Enabler,22.63
+Florence (Healthcare Technology Systems),2019,Enabler,7.1
+Forefront TeleCare,2019,Challenger,15.3
+ForeSee Medical,2019,Enabler,10.0
+Forward (Clinics/Outpatient Services),2019,Challenger,97.5
+Freenome,2019,Enabler,160.0
+FULLFILL,2019,Challenger,5.0
+Fullpower-AI,2019,Enabler,10.0
+Future,2019,Challenger,8.5
+Galileo (Clinics/Outpatient Services),2019,Challenger,14.89
+Ginger,2019,Challenger,29.5
+Ginger,2019,Challenger,23.0
+Glooko,2019,Enabler,13.0
+Glytec,2019,Enabler,12.49
+GoCheck Kids,2019,Enabler,6.0
+Groups Recover Together,2019,Challenger,27.0
+Gyant,2019,Enabler,7.0
+Halo Health,2019,Enabler,5.45
+Hazel Health,2019,Challenger,20.0
+Heal,2019,Challenger,16.0
+Health Catalyst (NAS: HCAT),2019,Enabler,12.19
+Health Data Analytics Institute,2019,Enabler,13.5
+Health Recovery Solutions,2019,Enabler,10.0
+Health[at]Scale Technologies,2019,Enabler,14.0
+HealthCare.com,2019,Challenger,16.0
+HealthEC,2019,Enabler,15.0
+Healthify,2019,Enabler,15.3
+HealthJoy,2019,Enabler,12.5
+HealthReveal,2019,Enabler,26.6
+HealthVerity,2019,Enabler,25.0
+HeartFlow,2019,Enabler,45.65
+HeartFlow,2019,Enabler,65.0
+Helio Genomics,2019,Challenger,43.0
+Higi (Decision/Risk Analysis),2019,Enabler,10.0
+Homethrive,2019,Challenger,6.0
+i2i Population Health,2019,Enabler,30.0
+Included Health,2019,Enabler,50.0
+InformedDNA,2019,Enabler,
+InFuse Holdings,2019,Challenger,8.1
+InHealth Lifestyle Therapeutics,2019,Challenger,2.12
+Innovaccer,2019,Enabler,35.0
+InsightRx,2019,Enabler,9.8
+InterWell Health,2019,Challenger,20.0
+IVXpress,2019,Challenger,22.51
+January,2019,Challenger,19.5
+JourneyPure,2019,Challenger,20.0
+JRNYS,2019,Enabler,10.88
+K Health,2019,Enabler,12.0
+Kaia Health,2019,Enabler,8.16
+Kaia Health,2019,Enabler,10.05
+Kalderos,2019,Enabler,7.0
+Kaliber AI,2019,Enabler,
+KenSci,2019,Enabler,22.0
+Kindbody,2019,Challenger,22.47
+Kiyatec,2019,Enabler,5.33
+Koios Medical,2019,Enabler,18.86
+Komodo Health,2019,Enabler,50.0
+Kyruus,2019,Enabler,16.99
+Laudio,2019,Enabler,7.3
+Lazarus 3D,2019,Enabler,6.0
+LeanTaaS,2019,Enabler,40.0
+LeanTaaS,2019,Enabler,14.0
+Lirio,2019,Enabler,6.71
+Lirio,2019,Enabler,9.77
+Luma Health,2019,Enabler,16.0
+MAP Health Management,2019,Challenger,25.0
+MedAnswers,2019,Enabler,5.0
+Medcrypt,2019,Enabler,5.46
+Medely,2019,Enabler,11.0
+Medically Home,2019,Challenger,22.84
+Medigate,2019,Enabler,15.0
+Medinas,2019,Enabler,5.0
+Medly Pharmacy,2019,Challenger,10.0
+MedMinder,2019,Enabler,6.5
+Mednition,2019,Enabler,12.0
+MedTrainer,2019,Enabler,11.02
+Metabiota,2019,Enabler,
+Modern Health,2019,Challenger,11.67
+Monogram Health,2019,Challenger,5.0
+Moxe,2019,Enabler,15.5
+Mvmnt (Application Software),2019,Enabler,5.2
+MyHealthTeam,2019,Enabler,9.44
+Myia,2019,Enabler,10.0
+MyLaurel,2019,Challenger,48.42
+Mytonomy,2019,Enabler,9.31
+Navigating Cancer,2019,Enabler,26.0
+NeueHealth (NYS: NEUE),2019,Challenger,635.0
+Neurotrack,2019,Enabler,21.0
+NexHealth,2019,Enabler,5.1
+NextHealth Technologies,2019,Enabler,18.83
+Nomad Health,2019,Enabler,20.3
+Noom,2019,Challenger,54.5
+Notal Vision,2019,Enabler,25.0
+Nurx,2019,Challenger,36.7
+Nym (Enterprise Systems (Healthcare)),2019,Enabler,5.95
+ObjectiveHealth,2019,Enabler,6.62
+ObservSMART,2019,Enabler,9.99
+Octave,2019,Challenger,11.0
+OM1,2019,Enabler,50.0
+OncoHost,2019,Enabler,4.34
+One Drop,2019,Enabler,40.0
+OODA Health,2019,Enabler,14.5
+Optios,2019,Enabler,6.49
+Orb Health,2019,Enabler,1.0
+Ostro,2019,Enabler,8.75
+Owkin,2019,Enabler,13.0
+Papa,2019,Challenger,10.0
+Parsley Health,2019,Challenger,24.32
+Pear Therapeutics,2019,Challenger,64.0
+PeerWell,2019,Enabler,6.5
+Persivia,2019,Enabler,15.0
+Persivia,2019,Enabler,2.42
+Perthera,2019,Enabler,9.66
+Petabyte Technology,2019,Enabler,8.0
+Phil,2019,Challenger,19.5
+Phosphorus (Decision/Risk Analysis),2019,Enabler,10.09
+Phynd Technologies,2019,Enabler,8.17
+Physera,2019,Challenger,8.0
+Pieces (Decision/Risk Analysis),2019,Enabler,25.71
+PierianDx,2019,Enabler,27.0
+Pill Club,2019,Challenger,7.0
+Pill Club,2019,Challenger,51.0
+Pillo Health,2019,Enabler,11.0
+Prealize Health,2019,Enabler,22.0
+Prescryptive,2019,Enabler,8.0
+Protenus,2019,Enabler,17.0
+Quartet Health,2019,Enabler,67.5
+Radiology Partners,2019,Challenger,47.67
+RADLogics,2019,Enabler,5.0
+Real Time Medical Systems,2019,Enabler,10.0
+RecoveryOne,2019,Challenger,12.0
+Redox,2019,Enabler,36.1
+Reveleer,2019,Enabler,5.55
+Rhyme (Healthcare Technology Systems),2019,Enabler,6.22
+Ride Health,2019,Enabler,5.97
+Rightway,2019,Enabler,20.0
+Rightway,2019,Enabler,8.0
+Risalto,2019,Enabler,7.0
+Riverain Technologies,2019,Enabler,15.0
+Ro,2019,Challenger,85.0
+Ronin,2019,Enabler,25.0
+Rula,2019,Challenger,5.35
+RxAnte,2019,Enabler,7.5
+Saama Analytics,2019,Enabler,40.0
+SafelyYou,2019,Enabler,4.82
+SafeRide Health,2019,Enabler,11.6
+Savonix,2019,Enabler,14.7
+SchoolCare,2019,Enabler,24.34
+Science 37 Holdings,2019,Enabler,35.0
+Seer (Decision/Risk Analysis) (NAS: SEER),2019,Enabler,17.5
+Sensely,2019,Enabler,15.0
+Senseye,2019,Enabler,5.0
+Sesame (Managed Care),2019,Enabler,23.65
+ShiftMed,2019,Enabler,6.24
+Sickbay,2019,Enabler,11.9
+SignalPath,2019,Enabler,18.0
+Skedulo,2019,Enabler,27.01
+Sleep Reset,2019,Enabler,12.88
+Solera (Other Healthcare Services),2019,Enabler,42.0
+Somatus,2019,Challenger,10.44
+Somatus,2019,Challenger,12.58
+Sonde,2019,Enabler,15.8
+SpectraWAVE,2019,Enabler,16.4
+Spring Hills,2019,Challenger,23.45
+Springbuk,2019,Enabler,17.0
+Stratasan,2019,Enabler,26.0
+Strive Health,2019,Challenger,80.0
+SubjectWell,2019,Enabler,10.0
+Subtle Medical,2019,Enabler,
+Sunwave,2019,Enabler,6.0
+Surglogs,2019,Enabler,5.0
+Syapse,2019,Enabler,20.1
+TailorMed,2019,Enabler,8.0
+Talkiatry,2019,Challenger,17.0
+Talkspace (NAS: TALK),2019,Challenger,50.0
+Tandem (Information Services),2019,Challenger,5.0
+TaqTik Health,2019,Enabler,5.5
+Tausight,2019,Enabler,5.0
+Tellus (Deerfield Beach),2019,Enabler,
+Tempest,2019,Challenger,10.25
+The Mighty,2019,Enabler,12.0
+The Well,2019,Challenger,14.0
+Therapydia,2019,Challenger,10.5
+Third Eye Health,2019,Enabler,8.66
+Thrive Global,2019,Enabler,25.0
+TransformativeMed,2019,Enabler,5.75
+TriNetX,2019,Enabler,40.0
+Truepill,2019,Enabler,13.4
+Twill,2019,Challenger,20.21
+Twistle,2019,Enabler,16.0
+Two Chairs,2019,Challenger,22.45
+Two Chairs,2019,Challenger,7.0
+Undivided,2019,Challenger,5.94
+Unite Us,2019,Enabler,45.71
+Updox,2019,Enabler,12.7
+Upward Health,2019,Challenger,7.21
+Veda,2019,Enabler,7.82
+Verata Health,2019,Enabler,10.06
+Verato,2019,Enabler,10.0
+Verinovum,2019,Enabler,6.0
+Vesta Healthcare,2019,Challenger,30.0
+Vida,2019,Challenger,30.0
+VillageMD,2019,Challenger,175.0
+Vim,2019,Enabler,26.7
+Virta Health,2019,Challenger,93.1
+VirtualHealth,2019,Enabler,14.0
+VisitPay,2019,Enabler,8.15
+Vital (Enterprise Systems),2019,Enabler,5.2
+VitalTech,2019,Challenger,8.0
+Viz.ai,2019,Enabler,50.0
+Vynca,2019,Enabler,10.3
+WelbeHealth,2019,Challenger,33.65
+Welkin Health,2019,Enabler,17.5
+Well,2019,Enabler,25.0
+Wellframe,2019,Enabler,20.0
+Wellthy (Clinics/Outpatient Services),2019,Challenger,5.18
+WithMe Health,2019,Enabler,20.0
+Woebot Health,2019,Challenger,11.5
+Workit Health,2019,Challenger,7.9
+Xealth,2019,Enabler,14.0
+Yes Health,2019,Enabler,9.55
+ZERO.health,2019,Challenger,7.15
+Zipari,2019,Enabler,22.5
+Zipdrug,2019,Enabler,10.8
+1upHealth,2020,Enabler,8.0
+23andMe (PINX: MEHCQ),2020,Enabler,82.5
+98point6,2020,Challenger,118.69
+98point6,2020,Challenger,43.0
+Abacus Insights,2020,Enabler,25.0
+Abridge,2020,Enabler,10.0
+Activ Surgical,2020,Enabler,15.0
+Advantia Health,2020,Challenger,80.53
+Aetion,2020,Enabler,19.0
+Ahead (Clinics/Outpatient Services),2020,Challenger,9.0
+Aizon,2020,Enabler,15.0
+Akido Labs,2020,Enabler,11.2
+Aledade,2020,Enabler,64.0
+All.Health,2020,Enabler,19.47
+AllStripes,2020,Enabler,8.0
+Alto Pharmacy,2020,Challenger,250.0
+Ambience Healthcare,2020,Enabler,6.2
+American Well (NYS: AMWL),2020,Enabler,194.0
+Amino Health,2020,Enabler,18.11
+Andros (Healthcare Technology Systems),2020,Enabler,25.0
+AngelMD,2020,Enabler,
+Angle Health,2020,Challenger,5.0
+Annexus Health,2020,Enabler,10.0
+Anomaly (Healthcare Technology Systems),2020,Enabler,5.0
+Apostrophe (Life and Health Insurance),2020,Challenger,9.58
+ArborMetrix,2020,Enabler,12.74
+AristaMD,2020,Enabler,24.0
+Artera,2020,Enabler,45.0
+Arterys,2020,Enabler,28.0
+Artisight,2020,Enabler,9.29
+Ascellus,2020,Challenger,8.0
+Ascend Medical,2020,Challenger,8.0
+Aspen RxHealth,2020,Challenger,27.0
+Assured Allies,2020,Challenger,18.3
+Availity Clinical Solutions,2020,Enabler,18.0
+b.well Connected Health,2020,Enabler,16.1
+Babson Diagnostics,2020,Challenger,13.7
+Babylon Health,2020,Challenger,100.0
+Benchling,2020,Enabler,50.0
+Better Life Partners,2020,Challenger,5.57
+Better Therapeutics,2020,Enabler,10.0
+Bicycle Health,2020,Enabler,5.28
+Big Health,2020,Enabler,39.0
+Biofourmis,2020,Enabler,100.0
+Blink Health,2020,Enabler,200.0
+Braid Health,2020,Enabler,6.0
+Brave Health,2020,Challenger,8.0
+Breezmed,2020,Enabler,
+Bridge Connector,2020,Enabler,25.5
+Bright.md,2020,Enabler,16.7
+BrightInsight,2020,Enabler,34.66
+Brightline (Clinics/Outpatient Services),2020,Challenger,20.0
+Bunkerhill Health,2020,Enabler,10.93
+Buoy Health,2020,Challenger,37.5
+Buoy Health,2020,Challenger,22.68
+C2i Genomics,2020,Enabler,12.0
+Cadence Health,2020,Enabler,16.5
+Calcium (Medical Records Systems),2020,Enabler,5.0
+Calibrate,2020,Challenger,5.1
+Calm,2020,Challenger,40.0
+Calm,2020,Challenger,88.0
+Caption Care,2020,Enabler,53.0
+Caption Care,2020,Enabler,
+Carbon Health,2020,Challenger,100.0
+Carbon Health,2020,Challenger,25.12
+CareBridge,2020,Challenger,36.75
+CareRev,2020,Enabler,6.3
+CareSignal,2020,Enabler,7.0
+Cariloop,2020,Challenger,6.0
+Carrot Fertility,2020,Challenger,24.0
+Cecelia Health,2020,Challenger,10.44
+Cedar (Enterprise Systems (Healthcare)),2020,Enabler,77.0
+Centivo,2020,Challenger,33.5
+Cerebral,2020,Challenger,35.0
+CHESS Health,2020,Enabler,
+Cityblock,2020,Challenger,53.31
+Clara Health,2020,Challenger,11.0
+Clearsense,2020,Enabler,27.5
+Cleerly,2020,Enabler,14.48
+Cleo (Commercial Services),2020,Enabler,31.22
+Clever Care Health Plan,2020,Challenger,19.5
+ClosedLoop,2020,Enabler,8.0
+Codoxo,2020,Enabler,7.0
+Cognoa,2020,Enabler,54.0
+Cohere Health,2020,Enabler,20.0
+Comprehensive Health Services,2020,Enabler,
+ConcertoCare,2020,Challenger,45.0
+Connections Health Solutions,2020,Challenger,32.5
+ConsortiEX,2020,Enabler,7.3
+Cortechs.ai,2020,Enabler,5.88
+Cortex (Healthcare Technology Systems),2020,Enabler,30.0
+Cosán,2020,Challenger,6.74
+Covera Health,2020,Enabler,12.5
+Curai Health,2020,Challenger,27.5
+Curve Health,2020,Challenger,6.0
+Darmiyan,2020,Enabler,6.43
+Dascena,2020,Enabler,50.0
+Datavant,2020,Enabler,40.0
+DawnLight,2020,Enabler,38.0
+Decent (Healthcare Services),2020,Challenger,10.0
+Devoted,2020,Challenger,450.0
+DispatchHealth,2020,Challenger,135.8
+DocASAP,2020,Enabler,18.0
+Doctor On Demand,2020,Challenger,75.0
+Dorsata,2020,Enabler,5.24
+dosist,2020,Challenger,
+Eden Health,2020,Challenger,25.0
+Elation Health,2020,Enabler,40.0
+Elligo Health Research,2020,Enabler,36.9
+Elucid,2020,Enabler,9.5
+Elucid,2020,Enabler,8.0
+Embic,2020,Enabler,5.0
+Embold Health,2020,Enabler,22.46
+Embold Health,2020,Enabler,10.0
+EmpowerHealth,2020,Enabler,8.18
+Engooden Health,2020,Enabler,11.5
+Enlace Health,2020,Enabler,27.0
+EnsoData,2020,Enabler,8.96
+Episode Solutions,2020,Enabler,6.65
+ESO Solutions,2020,Enabler,10.0
+Everly Health,2020,Challenger,258.0
+Everly Health,2020,Challenger,25.0
+Evernow,2020,Challenger,24.0
+Evidation Health,2020,Enabler,
+Evidation Health,2020,Enabler,45.0
+eVisit,2020,Enabler,14.0
+Ferrum Health,2020,Enabler,9.0
+Fibronostics,2020,Enabler,8.3
+Firefly Health,2020,Challenger,10.2
+First Dollar,2020,Enabler,5.0
+FitOn Health,2020,Enabler,9.25
+Foresight (Clinics/Outpatient Services),2020,Challenger,13.4
+Found (Clinics/Outpatient Services),2020,Challenger,8.0
+Freenome,2020,Enabler,270.0
+Fruit Street,2020,Challenger,
+Fruit Street,2020,Challenger,17.0
+Galileo (Clinics/Outpatient Services),2020,Challenger,20.0
+Genome Medical,2020,Challenger,37.0
+Gento,2020,Challenger,5.0
+Ginger,2020,Challenger,50.0
+Glytec,2020,Enabler,6.0
+Guideway Care,2020,Challenger,5.5
+Gyant,2020,Enabler,13.62
+H1 Insights,2020,Enabler,58.0
+H1 Insights,2020,Enabler,12.9
+Hazel Health,2020,Challenger,34.5
+Headspace,2020,Challenger,101.33
+Heal,2020,Challenger,62.43
+Health Data Analytics Institute,2020,Enabler,16.0
+HealthBridge,2020,Enabler,8.0
+HealthCare.com,2020,Challenger,5.0
+HealthJoy,2020,Enabler,30.0
+Healthmine,2020,Enabler,10.5
+HealthVerity,2020,Enabler,
+Heartbeat Health,2020,Challenger,9.34
+Helix (Laboratory Services (Healthcare)),2020,Challenger,
+Hellocare.ai,2020,Enabler,10.0
+Hero (Healthcare Technology Systems),2020,Enabler,15.0
+Higi (Decision/Risk Analysis),2020,Enabler,31.41
+Hinge Health (NYS: HNGE),2020,Challenger,85.9
+Holmusk (He serves),2020,Enabler,25.95
+Homethrive,2020,Challenger,17.75
+Hone Health,2020,Challenger,5.06
+Honeybee Health,2020,Enabler,6.0
+Immertec,2020,Enabler,12.0
+Indy Health,2020,Enabler,15.74
+Innovaccer,2020,Enabler,70.0
+Insight Timer,2020,Challenger,27.41
+IntelyCare,2020,Enabler,36.42
+InterVenn,2020,Enabler,33.69
+Iora Health,2020,Challenger,126.0
+IVXpress,2020,Challenger,30.0
+JRNYS,2020,Enabler,15.59
+K Health,2020,Enabler,37.0
+K Health,2020,Enabler,46.95
+K4Connect,2020,Enabler,7.7
+Kaden Health,2020,Challenger,19.08
+Kaia Health,2020,Enabler,25.85
+Kalderos,2020,Enabler,28.0
+Kiio,2020,Challenger,
+Kindbody,2020,Challenger,30.0
+Klara (Enterprise Systems),2020,Enabler,15.0
+Kyruus,2020,Enabler,72.35
+Laguna Health,2020,Enabler,6.6
+Lark,2020,Challenger,55.0
+LeanTaaS,2020,Enabler,130.0
+Lemonaid Health,2020,Challenger,36.77
+Level Ex,2020,Enabler,8.0
+LifeGuides,2020,Enabler,5.5
+Lifespark,2020,Challenger,16.09
+Lightship,2020,Challenger,19.71
+Limbix,2020,Enabler,8.88
+Lirio,2020,Enabler,5.3
+Loyal (Healthcare Technology Systems),2020,Enabler,12.5
+Lumeon,2020,Enabler,29.71
+Luna (Nashville),2020,Challenger,18.0
+Lyra Health,2020,Challenger,110.0
+Lyra Health,2020,Challenger,75.0
+MacroHealth,2020,Enabler,39.11
+Mahana,2020,Challenger,10.01
+Mammoth Biosciences,2020,Enabler,44.1
+Mammoth Biosciences,2020,Enabler,50.0
+Maven,2020,Challenger,45.0
+MD Revolution,2020,Enabler,12.25
+MDLive,2020,Challenger,50.0
+Medable,2020,Enabler,91.0
+MedArrive,2020,Challenger,6.9
+Medely,2020,Enabler,28.0
+Medically Home,2020,Challenger,40.43
+Medici,2020,Challenger,23.0
+Medigate,2020,Enabler,30.0
+Medivis,2020,Enabler,5.0
+Medly Pharmacy,2020,Challenger,70.03
+Medocity,2020,Enabler,10.84
+Memora Health,2020,Enabler,7.5
+Meru Health,2020,Challenger,8.1
+Mightier,2020,Enabler,7.0
+Mindbloom,2020,Challenger,8.0
+Mindstrong,2020,Challenger,100.0
+Modern Health,2020,Challenger,31.0
+Modern Health,2020,Challenger,51.0
+Moneta,2020,Challenger,13.6
+Monogram Health,2020,Challenger,7.0
+Monument,2020,Challenger,7.5
+mPulse.,2020,Enabler,16.0
+MyLaurel,2020,Challenger,54.0
+Navina,2020,Enabler,5.32
+NeueHealth (NYS: NEUE),2020,Challenger,500.0
+NeuroFlow,2020,Enabler,7.5
+NexHealth,2020,Enabler,15.0
+Nice Healthcare,2020,Challenger,5.0
+NOCD,2020,Challenger,12.0
+Noteworth,2020,Enabler,5.5
+Nucleai,2020,Enabler,8.5
+Nuna,2020,Enabler,26.7
+Nurx,2020,Challenger,22.0
+Nym (Enterprise Systems (Healthcare)),2020,Enabler,16.25
+Nymbl (Healthcare Technology Systems),2020,Enabler,3.5
+Octave,2020,Challenger,20.0
+Olive (Enterprise Systems),2020,Enabler,225.5
+Olive (Enterprise Systems),2020,Enabler,46.36
+Olive (Enterprise Systems),2020,Enabler,52.02
+Omada (NAS: OMDA),2020,Challenger,39.47
+OMNY Health,2020,Enabler,7.0
+Onc AI,2020,Enabler,6.0
+OncoHealth (Atlanta),2020,Enabler,28.0
+OncoHost,2020,Enabler,8.53
+One Drop,2020,Enabler,34.71
+OneStudyTeam,2020,Enabler,30.0
+Opyn,2020,Enabler,11.0
+Orbita,2020,Enabler,9.0
+Oscar Health (NYS: OSCR),2020,Challenger,140.0
+Oscar Health (NYS: OSCR),2020,Challenger,225.0
+Oshi Health,2020,Challenger,6.0
+OutcomeMD,2020,Enabler,9.25
+Ovia Health,2020,Enabler,7.58
+Owkin,2020,Enabler,43.0
+Owl,2020,Enabler,15.48
+Pace,2020,Enabler,5.0
+Paceline,2020,Enabler,5.13
+Pager,2020,Challenger,22.0
+Paige,2020,Enabler,70.0
+Papa,2020,Challenger,18.0
+Parsley Health,2020,Challenger,20.0
+Particle Health,2020,Enabler,12.0
+PathologyWatch,2020,Challenger,5.0
+PatientIQ,2020,Enabler,6.18
+PatientPay,2020,Enabler,6.15
+PatientPop,2020,Enabler,50.0
+PatientsLikeMe,2020,Enabler,20.0
+Pelago,2020,Challenger,12.14
+Perfect Health,2020,Challenger,25.0
+PharmID,2020,Enabler,5.0
+Phosphorus (Decision/Risk Analysis),2020,Enabler,7.99
+PicnicHealth,2020,Enabler,25.0
+PierianDx,2020,Enabler,27.3
+Pillar Biosciences,2020,Enabler,29.7
+Pivot (Healthcare Technology Systems),2020,Enabler,6.7
+Plethy,2020,Challenger,7.0
+PlushCare,2020,Challenger,23.0
+Predicine,2020,Enabler,26.21
+Prescryptive,2020,Enabler,26.0
+Presidium Health,2020,Challenger,5.0
+Progentec,2020,Enabler,5.0
+Proscia,2020,Enabler,22.96
+Qualio,2020,Enabler,11.03
+Quiddity Solutions,2020,Enabler,5.0
+Rapid Surgical,2020,Enabler,5.66
+RapidAI,2020,Enabler,15.68
+ReadySet (Enterprise Systems (Healthcare)),2020,Enabler,6.15
+RealizedCare,2020,Enabler,7.2
+Reimagine Care,2020,Challenger,25.0
+Retrace,2020,Enabler,18.0
+Rhyme (Healthcare Technology Systems),2020,Enabler,10.0
+Rhythmic Health,2020,Challenger,5.0
+Rialtic,2020,Enabler,16.21
+Ribbon (Enterprise Systems (Healthcare)),2020,Enabler,11.82
+Ringmaster,2020,Enabler,5.0
+Ro,2020,Challenger,124.51
+Robin Healthcare,2020,Enabler,10.0
+RubiconMD,2020,Enabler,18.0
+RxAnte,2020,Enabler,8.9
+RxVantage,2020,Enabler,7.0
+RxWare,2020,Enabler,6.0
+Salucro,2020,Enabler,7.35
+SameSky Health,2020,Challenger,17.05
+SchoolCare,2020,Enabler,25.0
+Science 37 Holdings,2020,Enabler,40.0
+Scripta Insights,2020,Enabler,5.0
+ScriptDrop,2020,Enabler,16.65
+Seer (Decision/Risk Analysis) (NAS: SEER),2020,Enabler,55.0
+SilverCloud Health,2020,Enabler,16.0
+Simple App,2020,Challenger,7.99
+Simplify ASC,2020,Enabler,7.0
+Sirona,2020,Enabler,8.81
+Sirona,2020,Enabler,13.5
+SiteRx,2020,Enabler,6.1
+Sitka (Healthcare Technology Systems),2020,Enabler,5.0
+SocialClimb,2020,Enabler,12.0
+Socially Determined,2020,Enabler,11.1
+Solv.,2020,Challenger,27.0
+Somatus,2020,Challenger,64.0
+SonderMind,2020,Challenger,27.0
+Sparta Science,2020,Enabler,16.0
+Spring Health,2020,Challenger,76.0
+Spring Health,2020,Challenger,21.75
+Spring Hills,2020,Challenger,61.94
+Springtide Child Development,2020,Challenger,18.13
+Spruce Health,2020,Enabler,12.0
+SRS Web Solutions,2020,Enabler,8.0
+SteadyMD,2020,Challenger,6.0
+Stellar Health,2020,Enabler,10.15
+Strava,2020,Enabler,110.0
+Subtle Medical,2020,Enabler,12.2
+Suki,2020,Enabler,20.0
+Surgical Theater,2020,Enabler,16.5
+Sword Health,2020,Challenger,25.0
+Sword Health,2020,Challenger,17.0
+Syapse,2020,Enabler,30.0
+Telemynd,2020,Challenger,6.8
+The Helper Bees,2020,Enabler,6.0
+Therapymatch,2020,Challenger,26.0
+Thirty Madison,2020,Challenger,47.0
+Tia,2020,Challenger,24.28
+TigerConnect,2020,Enabler,24.49
+Together Senior Health,2020,Challenger,
+Tomorrow Health,2020,Enabler,7.06
+Topography Health,2020,Enabler,5.85
+Transcarent,2020,Enabler,40.0
+Trellus (Other Healthcare Services) (LON: TRLS),2020,Enabler,5.0
+Truepill,2020,Enabler,25.0
+Truepill,2020,Enabler,75.0
+TwentyEight,2020,Enabler,5.1
+Twistle,2020,Enabler,18.0
+Upfront (Enterprise Systems),2020,Enabler,11.5
+Upperline Health,2020,Challenger,14.03
+Upward Health,2020,Challenger,7.64
+Valisure,2020,Challenger,
+Vativis,2020,Enabler,13.91
+Verana Health,2020,Enabler,100.0
+Vineti,2020,Enabler,78.0
+Virta Health,2020,Challenger,64.88
+Vista.ai,2020,Enabler,8.65
+VisualDx,2020,Enabler,12.8
+VitalTech,2020,Challenger,5.2
+Vivante Health (Merger),2020,Challenger,8.42
+Vytalize,2020,Challenger,5.5
+Walrus Health,2020,Enabler,14.3
+WAYS (Elder and Disabled Care),2020,Challenger,7.5
+Wayspring,2020,Challenger,15.0
+Wellinks,2020,Challenger,14.0
+Wellth (California),2020,Enabler,11.62
+Wellthy (Clinics/Outpatient Services),2020,Challenger,5.62
+Wheel Health,2020,Enabler,13.9
+WithMe Health,2020,Enabler,20.0
+Workit Health,2020,Challenger,12.0
+xCures,2020,Enabler,5.2
+Xealth,2020,Enabler,6.0
+XRHealth USA,2020,Challenger,7.0
+Zeda (Devices and Supplies),2020,Enabler,16.76
+Zeera,2020,Challenger,6.0
+Zero Longevity Science,2020,Challenger,8.0
+Zing Health,2020,Challenger,150.0
+Zipari,2020,Enabler,10.32
+1upHealth,2021,Enabler,25.0
+20/20 Onsite,2021,Challenger,
+Actium Health,2021,Enabler,25.0
+AcuityMD,2021,Enabler,7.0
+AdaptX,2021,Enabler,6.85
+Advise Insurance,2021,Challenger,100.0
+Aetion,2021,Enabler,110.0
+Affect (Clinics/Outpatient Services),2021,Challenger,6.5
+AKASA,2021,Enabler,60.0
+Akili Interactive,2021,Challenger,110.0
+Aledade,2021,Enabler,100.0
+Alife,2021,Enabler,9.5
+AllStripes,2021,Enabler,50.0
+Alma (Clinics/Outpatient Services),2021,Challenger,28.0
+Alma (Clinics/Outpatient Services),2021,Challenger,50.0
+Alpha,2021,Challenger,25.0
+Alterwood Advantage,2021,Enabler,10.45
+AmberGen,2021,Enabler,
+AmplifyMD,2021,Enabler,6.0
+Andros (Healthcare Technology Systems),2021,Enabler,11.93
+Anomaly (Healthcare Technology Systems),2021,Enabler,17.12
+Antidote,2021,Enabler,23.77
+Antidote Health,2021,Challenger,12.0
+Anumana,2021,Enabler,60.0
+Anumana,2021,Enabler,25.7
+Apella,2021,Enabler,21.25
+Aptihealth,2021,Challenger,57.0
+Arine,2021,Enabler,13.6
+Arrive Health,2021,Enabler,8.0
+Arrive Health,2021,Enabler,7.0
+Artera,2021,Enabler,22.1
+Ash,2021,Challenger,3.35
+Asimily,2021,Enabler,9.83
+AssuranceSD,2021,Challenger,31.6
+Astarte Medical,2021,Enabler,7.6
+Aural Analytics,2021,Enabler,15.0
+AvodahMed,2021,Enabler,7.0
+Axuall,2021,Enabler,10.38
+b.well Connected Health,2021,Enabler,32.1
+Babson Diagnostics,2021,Challenger,31.0
+Babylon Health,2021,Challenger,200.0
+Bamf Health,2021,Challenger,5.0
+Banjo Health,2021,Enabler,7.56
+Bardavon,2021,Enabler,106.7
+Belong.Life,2021,Enabler,15.0
+BeMe Health,2021,Enabler,7.24
+Benchling,2021,Enabler,106.0
+Benchling,2021,Enabler,200.0
+Bend (Managed Care),2021,Enabler,7.0
+Better Health,2021,Challenger,13.45
+BetterNight,2021,Challenger,9.0
+Bicycle Health,2021,Enabler,27.0
+BioFluidica,2021,Enabler,5.98
+Blue Note Therapeutics,2021,Challenger,31.25
+BlueJay Mobile Health,2021,Challenger,7.5
+BluPanda,2021,Enabler,8.05
+Bold (Educational and Training Services),2021,Challenger,7.0
+BrainCheck,2021,Enabler,8.87
+BrainTap,2021,Enabler,7.63
+Brave Care,2021,Challenger,25.0
+Brave Care,2021,Challenger,10.0
+Brave Health,2021,Challenger,10.0
+Breathwrk,2021,Challenger,5.2
+BrightInsight,2021,Enabler,101.0
+Brightline (Clinics/Outpatient Services),2021,Challenger,65.75
+Brightside Health,2021,Challenger,50.0
+Brightside Health,2021,Challenger,17.19
+Bttn (Distributors ),2021,Enabler,6.5
+BurnAlong,2021,Challenger,7.0
+C2i Genomics,2021,Enabler,100.0
+Calibrate,2021,Challenger,100.0
+Calibrate,2021,Challenger,20.25
+Calmerry,2021,Challenger,5.0
+Candid Health,2021,Enabler,9.0
+Canvas Medical,2021,Enabler,11.0
+Capital Rx,2021,Enabler,50.0
+Carbon Health,2021,Challenger,350.0
+Care Daily,2021,Enabler,5.35
+CareRev,2021,Enabler,50.0
+careviso,2021,Enabler,7.9
+Carevive,2021,Enabler,18.0
+Cariloop,2021,Challenger,15.0
+Carrot Fertility,2021,Challenger,60.0
+Carrum Health,2021,Enabler,40.0
+Carta Healthcare,2021,Enabler,17.3
+Caspar AI,2021,Enabler,12.0
+Cecelia Health,2021,Challenger,
+Cedar (Enterprise Systems (Healthcare)),2021,Enabler,268.36
+Cedar (Enterprise Systems (Healthcare)),2021,Enabler,200.0
+Ceevra,2021,Enabler,10.0
+CellMax Life,2021,Challenger,5.1
+Centaur Labs,2021,Enabler,15.89
+Cerebral,2021,Challenger,126.4
+Cerebral,2021,Challenger,300.0
+Chapter Medicare,2021,Challenger,17.0
+Chemical.AI,2021,Enabler,15.0
+CHESS Health,2021,Enabler,5.5
+Choosing Therapy,2021,Challenger,5.0
+Cipherome,2021,Enabler,12.0
+Circadia Health,2021,Enabler,14.76
+CircleLink Health,2021,Challenger,3.0
+Circles,2021,Enabler,8.0
+Circuit Clinical,2021,Challenger,7.5
+Circulo,2021,Challenger,50.0
+CirrusMD,2021,Challenger,20.0
+Cityblock,2021,Challenger,400.0
+Cityblock,2021,Challenger,352.0
+Clarify( Enterprise Systems (Healthcare)),2021,Enabler,115.0
+Claritas Rx,2021,Enabler,13.64
+Clarity Technologies,2021,Enabler,20.29
+Clearing.,2021,Challenger,16.0
+Clearsense,2021,Enabler,30.0
+Cleerly,2021,Enabler,34.29
+Cleo (Commercial Services),2021,Enabler,40.0
+Clever Care Health Plan,2021,Challenger,71.0
+Click Therapeutics,2021,Challenger,52.0
+Clinetic,2021,Enabler,6.44
+Clinicom,2021,Challenger,8.8
+Clinii,2021,Enabler,8.9
+Clip Health,2021,Enabler,
+ClosedLoop,2021,Enabler,34.0
+Cognitive Leap,2021,Challenger,
+Commons Clinic,2021,Challenger,5.0
+Commure,2021,Enabler,362.55
+Comprehensive Health Services,2021,Enabler,
+Compwell (Clinics/Outpatient Services),2021,Challenger,5.0
+Concert Health,2021,Enabler,10.31
+ConcertoCare,2021,Challenger,100.0
+Connie Health,2021,Challenger,13.0
+Conversa,2021,Enabler,20.0
+Cortica,2021,Challenger,60.0
+Cosán,2021,Challenger,7.58
+Cricket Health,2021,Challenger,83.5
+Crossover Health,2021,Challenger,168.0
+Cureatr,2021,Enabler,14.5
+Curebase,2021,Challenger,15.0
+Cured,2021,Enabler,10.0
+CureMetrix,2021,Enabler,5.0
+Cylinder,2021,Challenger,16.0
+Cynerio,2021,Enabler,29.81
+Darvis,2021,Enabler,
+Datacubed Health,2021,Enabler,8.84
+DayTwo,2021,Enabler,37.0
+Decent (Healthcare Services),2021,Challenger,25.0
+DeepScribe,2021,Enabler,30.0
+DeepScribe,2021,Enabler,3.0
+Devoted,2021,Challenger,1230.0
+DexCare,2021,Enabler,20.0
+Digbi Health,2021,Challenger,6.4
+DigitalOwl,2021,Enabler,6.0
+DignifiHealth,2021,Enabler,7.0
+Dina,2021,Enabler,7.0
+DispatchHealth,2021,Challenger,200.0
+DrChrono,2021,Enabler,30.0
+Duos,2021,Challenger,6.1
+EasyHealth,2021,Challenger,35.0
+eBlu Solutions,2021,Enabler,11.4
+Edda Technology,2021,Enabler,150.0
+Eden Health,2021,Challenger,60.0
+Edenbridge Health,2021,Challenger,
+Eleanor Health,2021,Challenger,20.0
+Element5,2021,Enabler,15.0
+Elemy,2021,Challenger,219.0
+Elemy,2021,Challenger,63.47
+Eleos Health,2021,Enabler,6.0
+Elligo Health Research,2021,Enabler,135.5
+Ellipsis Health,2021,Enabler,24.86
+Emerging Therapy Solutions,2021,Enabler,6.01
+Enhatch,2021,Enabler,9.0
+Enlace Health,2021,Enabler,58.0
+Equip,2021,Challenger,13.0
+EQUUM Medical,2021,Challenger,20.0
+eternalHealth,2021,Enabler,10.0
+eternalHealth,2021,Enabler,10.0
+Etiometry,2021,Enabler,9.0
+Etiometry,2021,Enabler,5.15
+Ever/Body,2021,Challenger,24.88
+Evidation Health,2021,Enabler,153.0
+EvidenceCare,2021,Enabler,27.0
+eVisit,2021,Enabler,45.0
+Excelicare,2021,Enabler,13.8
+Expressable,2021,Challenger,5.36
+EyeQue,2021,Challenger,40.0
+Faro Health,2021,Enabler,15.0
+FibriCheck,2021,Enabler,10.73
+Firefly Health,2021,Challenger,40.0
+FirstHand Health,2021,Challenger,14.81
+Florence (Healthcare Technology Systems),2021,Enabler,80.0
+Flume Health,2021,Enabler,6.0
+flyte (Clinics/Outpatient Services),2021,Challenger,10.68
+Folia Health,2021,Enabler,6.5
+FOLX,2021,Challenger,25.0
+ForeSee Medical,2021,Enabler,10.3
+Foresight (Clinics/Outpatient Services),2021,Challenger,25.0
+Forward (Clinics/Outpatient Services),2021,Challenger,216.55
+Found (Clinics/Outpatient Services),2021,Challenger,100.0
+Found (Clinics/Outpatient Services),2021,Challenger,24.0
+Fountain Life,2021,Challenger,17.14
+Freenome,2021,Enabler,300.0
+FULLFILL,2021,Challenger,5.0
+Future,2021,Challenger,23.81
+Galileo (Clinics/Outpatient Services),2021,Challenger,50.0
+Garner,2021,Enabler,45.05
+Garner,2021,Enabler,8.9
+GeneMatters,2021,Challenger,10.2
+Genome Medical,2021,Challenger,60.0
+Genomic Life,2021,Challenger,34.4
+Genoox,2021,Enabler,8.0
+Gentem Health,2021,Enabler,10.0
+Getlabs,2021,Challenger,20.0
+GiftHealth,2021,Enabler,5.73
+Ginger,2021,Challenger,100.0
+Glassbeam,2021,Enabler,10.0
+Glidian,2021,Enabler,6.1
+Glooko,2021,Enabler,30.0
+Glytec,2021,Enabler,12.0
+GoCheck Kids,2021,Enabler,10.0
+Groups Recover Together,2021,Challenger,60.0
+Harbinger Health,2021,Enabler,50.0
+Harmonize,2021,Challenger,10.0
+Hawthorne Health,2021,Enabler,22.0
+Hcare,2021,Challenger,
+Health Gorilla,2021,Enabler,15.0
+Health Recovery Solutions,2021,Enabler,70.0
+HealthBridge,2021,Enabler,14.16
+HealthRhythms,2021,Enabler,10.8
+HealthSnap,2021,Enabler,10.2
+HealthTap,2021,Challenger,42.0
+HealthVerity,2021,Enabler,100.0
+Healthy Together,2021,Enabler,40.0
+Heartbeat Health,2021,Challenger,20.0
+Heidi Health,2021,Enabler,5.0
+Helio Genomics,2021,Challenger,35.0
+Helix (Laboratory Services (Healthcare)),2021,Challenger,50.0
+HelloHero,2021,Challenger,6.5
+Helm,2021,Enabler,6.74
+Hero (Healthcare Technology Systems),2021,Enabler,6.0
+Heyday Health,2021,Challenger,5.0
+Hinge Health (NYS: HNGE),2021,Challenger,400.0
+Hinge Health (NYS: HNGE),2021,Challenger,300.0
+Hint Health,2021,Enabler,5.09
+HistoWiz,2021,Enabler,32.0
+Hologram Sciences,2021,Challenger,100.0
+Honor,2021,Challenger,70.0
+Honor,2021,Challenger,140.0
+Hopewell Health,2021,Challenger,6.4
+Hopscotch Primary Care,2021,Challenger,15.0
+Hospital IQ,2021,Enabler,25.0
+Huckleberry (Information Services (B2C)),2021,Challenger,12.5
+Huddle Up,2021,Challenger,13.0
+Hurdle,2021,Challenger,5.7
+ilumed,2021,Enabler,16.5
+Ilumivu,2021,Enabler,10.56
+Imagen (Healthcare Technology Systems),2021,Enabler,50.0
+Inbox Health,2021,Enabler,12.0
+Infinitus Systems,2021,Enabler,30.0
+Infinitus Systems,2021,Enabler,17.0
+Infinx,2021,Enabler,44.43
+Innovaccer,2021,Enabler,150.0
+Innovaccer,2021,Enabler,75.0
+Insightin Health,2021,Enabler,12.37
+Inspire ( Healthcare Services),2021,Enabler,18.25
+InterVenn,2021,Enabler,201.0
+InterWell Health,2021,Challenger,46.11
+Iterative Health,2021,Enabler,32.07
+Iterative Health,2021,Enabler,14.05
+IVXpress,2021,Challenger,100.0
+ixLayer,2021,Enabler,75.0
+Janus Health,2021,Enabler,8.87
+Jasper,2021,Challenger,6.75
+Jaspr Health,2021,Enabler,
+Javara,2021,Challenger,5.29
+Juno (Clinics/Outpatient Services),2021,Challenger,5.39
+K Health,2021,Enabler,132.0
+K2Bio,2021,Challenger,5.5
+Kaia Health,2021,Enabler,75.0
+KARE (Healthcare Services),2021,Challenger,7.85
+Kevala (Enterprise Systems (Healthcare)),2021,Enabler,12.1
+Kindbody,2021,Challenger,62.0
+Kinetik (Enterprise Systems (Healthcare)),2021,Enabler,5.0
+Kintsugi (Healthcare Technology Systems),2021,Enabler,8.0
+Kno2,2021,Enabler,15.0
+Komodo Health,2021,Enabler,120.0
+Komodo Health,2021,Enabler,44.0
+L7 Informatics,2021,Enabler,13.0
+Lane Health,2021,Enabler,8.1
+Lark,2021,Challenger,100.0
+Latica,2021,Enabler,12.0
+Leal Health,2021,Enabler,5.0
+LifeLink Systems,2021,Enabler,5.5
+Lifespark,2021,Challenger,20.0
+Lifeview (Laboratory Services),2021,Challenger,12.0
+Lightship,2021,Challenger,50.0
+Limbix,2021,Enabler,15.0
+Livara Health,2021,Challenger,12.0
+Lucem Health,2021,Enabler,6.0
+Luma Health,2021,Enabler,130.0
+Lumiata,2021,Enabler,14.0
+Lyn Health,2021,Challenger,10.0
+Lyra Health,2021,Challenger,200.0
+Lyra Health,2021,Challenger,186.69
+Mahana,2021,Challenger,61.0
+Main Street Health,2021,Challenger,27.0
+Mammoth Biosciences,2021,Enabler,150.0
+Marley Medical,2021,Challenger,9.0
+Maven,2021,Challenger,110.0
+Med Claims Compliance,2021,Enabler,5.7
+Medable,2021,Enabler,304.0
+Medable,2021,Enabler,151.56
+Medallion,2021,Enabler,30.0
+Medallion,2021,Enabler,16.61
+MedArrive,2021,Challenger,32.84
+MedCare Partners,2021,Challenger,7.17
+Medchart,2021,Enabler,17.0
+Medically Home,2021,Challenger,100.0
+Medici,2021,Challenger,28.5
+Medicom (Medical Records Systems),2021,Enabler,21.84
+Medisafe,2021,Enabler,30.0
+Medly Pharmacy,2021,Challenger,225.0
+MedMinder,2021,Enabler,30.0
+Medmo,2021,Enabler,6.7
+Medrhythms,2021,Challenger,25.0
+Medxoom,2021,Enabler,8.08
+medZERO,2021,Enabler,8.73
+Mendel,2021,Enabler,29.94
+Meru Health,2021,Challenger,30.54
+Metabiota,2021,Enabler,
+Mightier,2021,Enabler,17.0
+MIND 24-7,2021,Challenger,20.0
+Mindbloom,2021,Challenger,35.0
+MindCare,2021,Challenger,28.01
+Mindera Health,2021,Enabler,12.6
+MiSalud Health,2021,Challenger,5.0
+Mission Autism Clinics,2021,Challenger,7.27
+Modern Age,2021,Challenger,27.0
+Modern Age,2021,Challenger,6.0
+Modern Health,2021,Challenger,74.0
+Mon Ami,2021,Enabler,4.9
+Monogram Health,2021,Challenger,160.0
+Monument,2021,Challenger,10.3
+MORE Health,2021,Challenger,21.8
+Mymee,2021,Enabler,25.0
+Mytonomy,2021,Enabler,25.0
+Navina,2021,Enabler,15.0
+Navvis Health Care,2021,Enabler,105.0
+NeuCures,2021,Enabler,7.3
+NeuroFlow,2021,Enabler,20.0
+NexHealth,2021,Enabler,31.0
+Nirvana Health,2021,Enabler,10.5
+NOCD,2021,Challenger,33.0
+Nomad Health,2021,Enabler,38.0
+Nomi Health,2021,Enabler,72.69
+Noom,2021,Challenger,540.0
+Notable,2021,Enabler,100.0
+Notable,2021,Enabler,10.0
+Notal Vision,2021,Enabler,60.0
+NourishedRx,2021,Challenger,6.0
+Novocardia,2021,Challenger,53.7
+Nym (Enterprise Systems (Healthcare)),2021,Enabler,23.09
+ObjectiveHealth,2021,Enabler,7.12
+ObvioHealth,2021,Enabler,17.0
+Olive (Enterprise Systems),2021,Enabler,400.0
+OM1,2021,Enabler,85.0
+OncoLens,2021,Enabler,7.21
+OneStudyTeam,2021,Enabler,220.0
+Opala,2021,Enabler,7.6
+Ophelia,2021,Challenger,50.0
+Ophelia,2021,Challenger,15.0
+Optimize Health,2021,Enabler,15.57
+Opya,2021,Challenger,15.4
+Opyn,2021,Enabler,30.0
+Orbit (Clinics/Outpatient Services),2021,Challenger,8.09
+ORtelligence,2021,Enabler,6.0
+Oshi Health,2021,Challenger,23.0
+Osigu,2021,Enabler,7.5
+Osmind,2021,Enabler,15.0
+Ostro,2021,Enabler,23.1
+Oui Therapeutics,2021,Challenger,7.0
+Outbound AI,2021,Enabler,6.75
+Outcomes4Me,2021,Enabler,12.0
+Owkin,2021,Enabler,155.04
+Pace,2021,Enabler,18.0
+Paceline,2021,Enabler,29.57
+PaceMate,2021,Enabler,8.0
+Pager,2021,Challenger,50.0
+Paige,2021,Enabler,125.0
+Panda Health,2021,Enabler,8.0
+Papa,2021,Challenger,150.0
+Papa,2021,Challenger,60.0
+Parachute (Healthcare Services),2021,Enabler,11.77
+Parsley Health,2021,Challenger,43.26
+PathologyWatch,2021,Challenger,25.0
+Pathware,2021,Enabler,8.1
+PatientBond,2021,Enabler,8.19
+PatientPay,2021,Enabler,12.17
+Patina Health,2021,Challenger,50.0
+Paytient,2021,Enabler,17.0
+Pear Therapeutics,2021,Challenger,132.0
+Pearl Health,2021,Enabler,18.0
+Pebble (Healthcare Services),2021,Challenger,5.3
+Pelago,2021,Challenger,49.5
+PeopleOne Health,2021,Challenger,10.08
+Petabyte Technology,2021,Enabler,15.0
+PHC Global,2021,Enabler,8.0
+PHC Global,2021,Enabler,5.0
+Phil,2021,Challenger,56.0
+Phil,2021,Challenger,23.0
+PierianDx,2021,Enabler,
+Pill Club,2021,Challenger,41.9
+Pillar Biosciences,2021,Enabler,20.0
+Pivot (Healthcare Technology Systems),2021,Enabler,9.64
+Pivotal Analytics,2021,Enabler,10.2
+Plume (Clinics/Virtual care),2021,Challenger,14.0
+Pomelo Care,2021,Challenger,7.96
+Post Acute Analytics,2021,Enabler,13.5
+PrimaHealth Credit,2021,Enabler,26.2
+Protenus,2021,Enabler,21.0
+Psych Hub,2021,Enabler,8.0
+Pulsara,2021,Enabler,21.62
+PulseData AI,2021,Enabler,16.55
+PursueCare,2021,Challenger,7.0
+Pyx Health,2021,Enabler,12.01
+Qualio,2021,Enabler,50.0
+Quartet Health,2021,Enabler,81.0
+Quilted Health,2021,Challenger,7.5
+Qure4u,2021,Enabler,25.0
+Rad AI,2021,Enabler,25.0
+RazorMetrics,2021,Enabler,6.0
+Real Time Medical Systems,2021,Enabler,
+RecoveryOne,2021,Challenger,33.0
+RecoveryPlus.health,2021,Challenger,15.42
+Recuro Health,2021,Challenger,16.98
+Recuro Health,2021,Challenger,3.0
+Redox,2021,Enabler,45.0
+Reema Health,2021,Enabler,8.0
+Regard,2021,Enabler,5.0
+Reimagine Care,2021,Challenger,6.25
+Remote Care Partners,2021,Enabler,6.6
+Reperio,2021,Enabler,6.02
+Reside Health,2021,Challenger,7.2
+Resilienci,2021,Enabler,5.0
+Reveleer,2021,Enabler,46.0
+Rhino (Medical Records Systems),2021,Enabler,5.0
+Ribbon (Enterprise Systems (Healthcare)),2021,Enabler,43.5
+Ride Health,2021,Enabler,6.0
+Rightway,2021,Enabler,100.0
+Rimsys,2021,Enabler,14.37
+Ringmaster,2021,Enabler,5.0
+Rise (Monitoring Equipment),2021,Challenger,12.0
+Riva Health,2021,Enabler,15.5
+Ro,2021,Challenger,500.0
+Robin Healthcare,2021,Enabler,49.3
+Rula,2021,Challenger,11.3
+Rx Redefined,2021,Enabler,6.16
+RxVantage,2021,Enabler,72.8
+Saama Analytics,2021,Enabler,215.0
+Safe Health,2021,Enabler,15.0
+SafeinHome,2021,Challenger,17.8
+SafelyYou,2021,Enabler,30.0
+SafelyYou,2021,Enabler,19.5
+SafeRide Health,2021,Enabler,28.8
+Salucro,2021,Enabler,21.06
+Salvo Health,2021,Challenger,10.5
+Scene Health,2021,Challenger,6.22
+ScienceIO,2021,Enabler,7.5
+Scitara,2021,Enabler,15.0
+Scitara,2021,Enabler,5.0
+Second Wave Delivery Systems,2021,Enabler,22.0
+Sempre Health,2021,Enabler,15.0
+Seniorly,2021,Challenger,4.0
+Sensi.AI,2021,Enabler,13.73
+Seqster,2021,Enabler,11.03
+Seven Bridges Genomics,2021,Enabler,15.0
+ShiftMed,2021,Enabler,28.45
+SimBioSys,2021,Enabler,15.0
+SimpleHealth,2021,Challenger,
+SimpleHealth,2021,Challenger,27.0
+Simplifeye,2021,Enabler,16.0
+Sirona,2021,Enabler,40.0
+Sitka (Healthcare Technology Systems),2021,Enabler,14.25
+Skedulo,2021,Enabler,75.0
+Skyler Health,2021,Challenger,16.0
+Slope (Healthcare Technology Systems),2021,Enabler,20.0
+SmartScripts,2021,Enabler,21.26
+Soda Health,2021,Enabler,6.0
+Sollis Health,2021,Challenger,35.1
+Solv.,2021,Challenger,45.0
+SOLVD Health,2021,Enabler,120.0
+Somatus,2021,Challenger,60.12
+SonderMind,2021,Challenger,241.55
+Songbird,2021,Challenger,10.0
+SpectraWAVE,2021,Enabler,13.2
+Spiras Health,2021,Challenger,8.69
+Spring Health,2021,Challenger,150.0
+Spring Hills,2021,Challenger,7.63
+Sprinter Health,2021,Challenger,33.0
+SteadyMD,2021,Challenger,28.0
+Stellar Health,2021,Enabler,60.6
+Stork Club,2021,Challenger,29.25
+Strive Health,2021,Challenger,140.0
+Suki,2021,Enabler,55.0
+Summus,2021,Challenger,21.0
+SurgiQuality,2021,Enabler,5.0
+Surglogs,2021,Enabler,10.5
+Sword Health,2021,Challenger,189.0
+Sword Health,2021,Challenger,85.0
+Syapse,2021,Enabler,74.0
+Syllable,2021,Enabler,28.0
+Sync.MD,2021,Enabler,10.0
+TailorMed,2021,Enabler,25.0
+Talkspace (NAS: TALK),2021,Challenger,
+TaskHuman,2021,Enabler,14.29
+Tausight,2021,Enabler,20.0
+Tava Health,2021,Challenger,10.0
+Tendo ( Enterprise Systems),2021,Enabler,49.35
+Tendo ( Enterprise Systems),2021,Enabler,14.9
+Tenure Health,2021,Challenger,7.05
+The Helper Bees,2021,Enabler,12.81
+The Well,2021,Challenger,15.0
+Theator,2021,Enabler,15.5
+Therapymatch,2021,Challenger,70.0
+Thirty Madison,2021,Challenger,140.0
+Thoughtful.ai,2021,Enabler,5.0
+ThoughtSphere,2021,Enabler,5.0
+Thrive Global,2021,Enabler,80.0
+Thyme Care,2021,Challenger,18.0
+Thyme Care,2021,Challenger,6.6
+Tia,2021,Challenger,100.0
+Tomorrow Health,2021,Enabler,25.0
+Top Doctors,2021,Challenger,13.05
+Transcarent,2021,Enabler,58.0
+Tridiuum,2021,Enabler,6.0
+Tripp,2021,Enabler,11.0
+Truepill,2021,Enabler,142.0
+Truveta,2021,Enabler,85.0
+Truveta,2021,Enabler,10.0
+Tula Health,2021,Enabler,37.71
+Tula Health,2021,Enabler,24.1
+Turquoise Health,2021,Enabler,5.18
+Twill,2021,Challenger,73.0
+Udo,2021,Enabler,20.0
+Uniper,2021,Enabler,14.5
+Unite Us,2021,Enabler,185.0
+Univfy,2021,Enabler,6.0
+Uno Health,2021,Enabler,20.4
+UpLift (Clinics/Outpatient Services),2021,Challenger,8.0
+Upperline Health,2021,Challenger,7.79
+UpStream (Practice Management (Healthcare)),2021,Enabler,45.0
+Valera Health,2021,Challenger,15.0
+Vativis,2021,Enabler,12.53
+Vector (Enterprise Systems (Healthcare)),2021,Enabler,12.5
+Veda,2021,Enabler,45.0
+Venteur,2021,Challenger,6.0
+Verifiable,2021,Enabler,17.0
+Verse Medical,2021,Challenger,13.0
+Vesta Healthcare,2021,Challenger,65.0
+Vheda Health,2021,Enabler,7.0
+Vida,2021,Challenger,137.0
+VieCure,2021,Enabler,25.0
+ViewFi,2021,Enabler,6.0
+VillageMD,2021,Challenger,30.0
+VillageMD,2021,Challenger,1025.0
+Vim,2021,Enabler,24.7
+Virta Health,2021,Challenger,132.84
+Vitable Health,2021,Challenger,7.2
+Vital (Enterprise Systems),2021,Enabler,15.0
+VitalTech,2021,Challenger,11.76
+Vivante Health (Merger),2021,Challenger,13.54
+Vivoo,2021,Challenger,6.38
+Viz.ai,2021,Enabler,71.0
+Vodori,2021,Enabler,7.5
+Vori Health,2021,Challenger,52.75
+Vynca,2021,Enabler,29.9
+Vytalize,2021,Challenger,14.26
+WAYS (Elder and Disabled Care),2021,Challenger,7.5
+Wayspring,2021,Challenger,75.0
+WEconnect Health Management,2021,Challenger,12.02
+Well,2021,Enabler,71.9
+Well,2021,Enabler,50.0
+WellBeam,2021,Enabler,7.67
+Wellinks,2021,Challenger,25.0
+Wellthy (Clinics/Outpatient Services),2021,Challenger,35.0
+Welltok,2021,Enabler,27.82
+Wellvana,2021,Enabler,25.0
+Wheel Health,2021,Enabler,35.0
+Whiterabbit.ai,2021,Enabler,25.5
+Wider Circle,2021,Enabler,38.0
+Woebot Health,2021,Challenger,90.0
+Woebot Health,2021,Challenger,10.4
+WorkEQ,2021,Enabler,7.95
+Workit Health,2021,Challenger,88.0
+Woven Science,2021,Enabler,8.5
+xCures,2021,Enabler,12.69
+Xealth,2021,Enabler,25.0
+XRHealth USA,2021,Challenger,9.0
+Yuvo Health,2021,Challenger,7.3
+Zeera,2021,Challenger,10.0
+Zing Health,2021,Challenger,25.0
+Zocdoc,2021,Enabler,150.0
+Zus Health,2021,Enabler,33.59
+98point6,2022,Challenger,20.0
+9am.Health,2022,Challenger,15.12
+Aaniie,2022,Enabler,5.0
+Abett,2022,Enabler,6.5
+Abridge,2022,Enabler,12.5
+Acclivity Health,2022,Challenger,6.25
+Accompany Health,2022,Challenger,7.2
+Activ Surgical,2022,Enabler,14.57
+Activ Surgical,2022,Enabler,45.0
+ActX,2022,Challenger,5.42
+AcuamarkDx,2022,Enabler,11.62
+AcuityMD,2022,Enabler,31.0
+Aidaly,2022,Enabler,8.5
+AKASA,2022,Enabler,120.0
+Aledade,2022,Enabler,123.0
+Alife,2022,Enabler,22.0
+Alleva,2022,Enabler,12.0
+Alma (Clinics/Outpatient Services),2022,Challenger,130.0
+Almond,2022,Challenger,7.2
+Alongside (Application Software),2022,Enabler,5.5
+Alto Pharmacy,2022,Challenger,190.45
+Altoida,2022,Enabler,14.0
+AmberGen,2022,Enabler,
+AmberGen,2022,Enabler,5.0
+Ambience Healthcare,2022,Enabler,25.0
+AmplifyMD,2022,Enabler,17.6
+AndHealth (Clinics/Outpatient Services),2022,Challenger,57.0
+AngelEye Health,2022,Enabler,5.5
+Angle Health,2022,Challenger,58.0
+Annexus Health,2022,Enabler,36.0
+Antidote Health,2022,Challenger,22.0
+ArborMetrix,2022,Enabler,6.3
+Arine,2022,Enabler,20.0
+Array Insights,2022,Enabler,7.91
+Array Insights,2022,Enabler,5.78
+Asimily,2022,Enabler,5.8
+Assure Health,2022,Challenger,9.0
+Assured Allies,2022,Challenger,40.0
+Atlas Health,2022,Enabler,41.5
+Atropos Health,2022,Enabler,14.0
+August Health,2022,Enabler,15.0
+Avaneer Health,2022,Challenger,50.0
+Avant-garde Health,2022,Enabler,12.0
+Avenda Health,2022,Enabler,16.41
+Balanced (Educational and Training Services),2022,Challenger,
+Bamf Health,2022,Challenger,30.0
+Barti,2022,Enabler,5.0
+Bearn,2022,Enabler,20.0
+Belle.ai,2022,Enabler,7.5
+BeMe Health,2022,Enabler,6.2
+Bevel (),2022,Enabler,5.0
+Bexa,2022,Enabler,12.0
+Bicycle Health,2022,Enabler,55.0
+Big Health,2022,Enabler,68.36
+Bindle,2022,Enabler,5.0
+BioFluidica,2022,Enabler,10.0
+Biofourmis,2022,Enabler,320.0
+Biotia,2022,Enabler,7.96
+Bloom (Clinics/Outpatient Services),2022,Challenger,8.0
+Blueberry Pediatrics,2022,Challenger,9.3
+Bolster,2022,Enabler,15.0
+Boncura Health Solutions,2022,Enabler,23.66
+BoomerangFX,2022,Enabler,20.0
+BostonGene,2022,Enabler,150.0
+Boulder Care,2022,Challenger,36.0
+Brave Health,2022,Challenger,38.57
+Brightline (Clinics/Outpatient Services),2022,Challenger,105.2
+Briya,2022,Enabler,5.5
+Bttn (Distributors ),2022,Enabler,20.0
+Calibrate,2022,Challenger,
+Camber (Healthcare Technology Systems),2022,Enabler,10.0
+CancerIQ,2022,Enabler,14.0
+Canopy (Outcome Management (Healthcare)),2022,Enabler,13.0
+Canvas Medical,2022,Enabler,24.0
+Capable Health,2022,Enabler,6.0
+Capital Rx,2022,Enabler,106.0
+Capitol AI,2022,Enabler,10.0
+Carallel,2022,Enabler,8.2
+Caraway (Clinics/Outpatient Services),2022,Challenger,10.18
+CardioOne,2022,Enabler,7.75
+Care Continuity,2022,Enabler,5.15
+Care.ai,2022,Enabler,27.0
+CareBridge,2022,Challenger,141.0
+CareConnectMD,2022,Challenger,25.0
+CareHarmony,2022,Enabler,15.0
+CareRev,2022,Enabler,50.0
+careviso,2022,Enabler,14.41
+Carevive,2022,Enabler,5.0
+Cascade Technology Systems,2022,Enabler,4.33
+Casechek,2022,Enabler,6.09
+Cayaba Care,2022,Challenger,12.0
+Censinet,2022,Enabler,12.0
+Centivo,2022,Challenger,81.0
+Certify,2022,Enabler,14.5
+Chapter Medicare,2022,Challenger,42.0
+Chemical.AI,2022,Enabler,14.04
+Child Health Imprints,2022,Enabler,6.8
+ChiroHD,2022,Enabler,6.0
+CircleEngage,2022,Enabler,6.0
+Circles,2022,Enabler,16.5
+Circuit Clinical,2022,Challenger,29.0
+Clairity,2022,Enabler,6.67
+Clarify( Enterprise Systems (Healthcare)),2022,Enabler,150.0
+Clearsense,2022,Enabler,8.22
+Cleerly,2022,Enabler,230.0
+Cleerly,2022,Enabler,16.8
+Codoxo,2022,Enabler,21.0
+Cofertility,2022,Challenger,5.0
+Cognoa,2022,Enabler,12.0
+Cohere Health,2022,Enabler,36.1
+Cometa (Software Development Applications),2022,Enabler,5.2
+Commure,2022,Enabler,153.75
+Compass Surgical Partners,2022,Challenger,10.0
+Concert Health,2022,Enabler,42.0
+Condor Software,2022,Enabler,6.0
+COPE Health Solutions,2022,Challenger,8.5
+Cordata,2022,Enabler,5.4
+Cornerstone AI,2022,Enabler,5.7
+Cosán,2022,Challenger,6.4
+Craniometrix,2022,Challenger,6.0
+Creda,2022,Enabler,4.65
+Crio (Boston),2022,Enabler,9.0
+CuraPatient,2022,Challenger,8.21
+Curebase,2022,Challenger,40.0
+Curve Health,2022,Challenger,12.0
+Datacubed Health,2022,Enabler,7.46
+Daybreak Health,2022,Challenger,10.0
+Decisio Health,2022,Enabler,13.0
+DecisionRx,2022,Enabler,10.0
+DeepTek,2022,Enabler,10.0
+Delfina,2022,Enabler,6.14
+DexCare,2022,Enabler,50.0
+Diadia Health,2022,Enabler,10.0
+Diana Health,2022,Challenger,10.67
+DigitalOwl,2022,Enabler,20.0
+DispatchHealth,2022,Challenger,
+Diverge Health,2022,Challenger,15.77
+Doceree,2022,Enabler,10.79
+DocSpera,2022,Enabler,9.61
+Dr. B,2022,Challenger,8.0
+Duos,2022,Challenger,21.16
+Dyania Health,2022,Enabler,5.3
+DynamiCare Health,2022,Enabler,12.0
+Eden Health,2022,Challenger,45.0
+Elation Health,2022,Enabler,50.0
+Eleanor Health,2022,Challenger,78.58
+Electronic Caregiver,2022,Enabler,34.0
+Elemeno Health,2022,Enabler,7.0
+Element5,2022,Enabler,30.0
+Eleos Health,2022,Enabler,20.0
+Embold Health,2022,Enabler,23.0
+Empassion,2022,Challenger,6.93
+EmpowerHealth,2022,Enabler,7.31
+Emvenio Research,2022,Challenger,9.17
+Enara Health,2022,Enabler,5.65
+EngagedMD,2022,Enabler,11.0
+EnsoData,2022,Enabler,20.0
+Enumera Molecular,2022,Enabler,18.72
+Eon (Healthcare Technology Systems),2022,Enabler,16.0
+Equilibrio,2022,Enabler,15.0
+Equip,2022,Challenger,58.03
+eternalHealth,2022,Enabler,10.0
+Ever/Body,2022,Challenger,40.0
+Everly Health,2022,Challenger,173.0
+Evernow,2022,Challenger,28.5
+Evidium,2022,Enabler,7.22
+evolvedMD,2022,Challenger,5.4
+Exer,2022,Challenger,6.5
+Expressable,2022,Challenger,15.0
+Eye C Better,2022,Enabler,20.0
+Faliam,2022,Enabler,5.0
+Fathom (Healthcare Technology Systems),2022,Enabler,46.0
+Fibronostics,2022,Enabler,6.5
+Fifth Eye,2022,Enabler,5.4
+First Dollar,2022,Enabler,13.96
+FitLab,2022,Challenger,7.5
+Fivos,2022,Enabler,23.9
+Flexpa,2022,Enabler,8.0
+Flexpa,2022,Enabler,8.5
+Florence (Healthcare Technology Systems),2022,Enabler,27.0
+Flourish Labs,2022,Challenger,6.37
+Flume Health,2022,Enabler,30.0
+flyte (Clinics/Outpatient Services),2022,Challenger,8.5
+FoldHealth,2022,Enabler,6.0
+FOLX,2022,Challenger,29.7
+Foresight (Clinics/Outpatient Services),2022,Challenger,56.0
+Forge Health,2022,Challenger,14.55
+Forge Health,2022,Challenger,6.95
+Fort Health,2022,Challenger,8.75
+Forta,2022,Challenger,24.4
+Fountain Life,2022,Challenger,15.0
+Free Market Health,2022,Enabler,13.5
+Freenome,2022,Enabler,290.0
+Future,2022,Challenger,75.0
+Gale Healthcare,2022,Enabler,60.0
+Galileo (Clinics/Outpatient Services),2022,Challenger,60.0
+Gallus Medical Detox Centers,2022,Challenger,7.48
+GiftHealth,2022,Enabler,5.0
+Global Premier Fertility,2022,Enabler,11.0
+Greater Good Health,2022,Challenger,10.97
+Grouper,2022,Enabler,6.0
+Guaranteed(Clinics/Outpatient Services),2022,Challenger,6.5
+H1 Insights,2022,Enabler,123.0
+Harbor Health,2022,Challenger,9.51
+Hatch (Healthcare Technology Systems),2022,Challenger,10.15
+Hazel Health,2022,Challenger,51.5
+Heading,2022,Challenger,5.38
+Headlight (Clinics/Outpatient Services),2022,Challenger,5.3
+Heads Up,2022,Enabler,5.17
+Health Gorilla,2022,Enabler,50.0
+Health Note,2022,Enabler,17.0
+Health Outlook,2022,Enabler,5.57
+HealthBridge,2022,Enabler,6.0
+HealthCare.com,2022,Challenger,81.5
+Healthee,2022,Enabler,26.0
+Healthie,2022,Enabler,15.0
+HealthJoy,2022,Enabler,35.0
+HealthMyne,2022,Enabler,5.24
+HeyJane,2022,Challenger,6.1
+Hint Health,2022,Enabler,44.99
+HomeFirst Home Healthcare,2022,Challenger,11.0
+Homethrive,2022,Challenger,20.0
+Homeward (Clinics/Outpatient Services),2022,Challenger,50.0
+Homeward (Clinics/Outpatient Services),2022,Challenger,18.0
+Hopscotch (Healthcare Services),2022,Challenger,8.0
+Hopscotch Primary Care,2022,Challenger,28.75
+House Rx (Other Healthcare Services),2022,Enabler,25.0
+Howso,2022,Enabler,23.74
+Huma.AI,2022,Enabler,9.57
+ianacare,2022,Enabler,12.13
+Imagine Pediatrics,2022,Challenger,5.0
+Immertec,2022,Enabler,20.68
+Inbound Health,2022,Enabler,18.0
+InHome Therapy,2022,Challenger,22.0
+InStride Health,2022,Challenger,25.96
+Intelligent Locations,2022,Enabler,6.25
+IntelyCare,2022,Enabler,115.0
+Intiva Health,2022,Enabler,9.5
+Intus Care,2022,Enabler,14.1
+iScribeHealth,2022,Enabler,5.5
+Iterative Health,2022,Enabler,150.0
+January,2022,Challenger,
+Jasper,2022,Challenger,25.0
+Javara,2022,Challenger,30.0
+Juno (Clinics/Outpatient Services),2022,Challenger,12.0
+K4Connect,2022,Enabler,12.0
+Kaizen Health,2022,Challenger,5.0
+Kalderos,2022,Enabler,20.0
+Kandu Health,2022,Challenger,43.0
+KeyCare (Clinics/Outpatient Services),2022,Challenger,28.0
+Kindbody,2022,Challenger,30.0
+Kinetik (Enterprise Systems (Healthcare)),2022,Enabler,11.97
+Kins (Clinics/Outpatient Services),2022,Challenger,7.2
+Kintsugi (Healthcare Technology Systems),2022,Enabler,24.98
+Klinic,2022,Challenger,
+Kogniz,2022,Enabler,7.53
+Komodo Health,2022,Enabler,200.0
+Kyruus,2022,Enabler,35.1
+Latitude Food Allergy Care,2022,Challenger,21.88
+Lazarus 3D,2022,Enabler,6.02
+Leal Health,2022,Enabler,20.0
+Lifeforce,2022,Challenger,6.0
+LifeLink Systems,2022,Enabler,5.73
+LifeVoxel,2022,Enabler,5.59
+Lin Health,2022,Enabler,6.0
+Lirio,2022,Enabler,14.39
+Little Otter,2022,Challenger,22.0
+Lokavant,2022,Challenger,21.0
+Lumata Health,2022,Challenger,6.92
+Lumeon,2022,Enabler,
+Lyra Health,2022,Challenger,235.0
+Madaket,2022,Enabler,6.0
+Mahmee,2022,Enabler,9.2
+Mantra Health,2022,Challenger,22.0
+MARABio,2022,Challenger,6.0
+Maribel Health,2022,Challenger,25.3
+Marigold Health,2022,Challenger,3.53
+Matter Health,2022,Challenger,35.0
+Maven,2022,Challenger,90.0
+MayaMD,2022,Challenger,8.6
+MDalgorithms,2022,Challenger,6.0
+MDisrupt,2022,Enabler,6.0
+Medallion,2022,Enabler,35.0
+Medcase,2022,Enabler,10.91
+Medely,2022,Enabler,90.0
+Medically Home,2022,Challenger,110.0
+Medici,2022,Challenger,30.0
+MediGO (Healthcare Technology Systems),2022,Enabler,5.1
+MedMinder,2022,Enabler,10.0
+Medsien,2022,Enabler,5.08
+MedTrainer,2022,Enabler,43.0
+Medvanta,2022,Enabler,9.55
+MedZed,2022,Challenger,5.98
+Memora Health,2022,Enabler,40.0
+Mendel,2022,Enabler,40.0
+Micronoma,2022,Enabler,
+Midi Health,2022,Challenger,9.0
+Mighty Health,2022,Challenger,7.6
+Minded,2022,Challenger,25.0
+Mindera Health,2022,Enabler,20.3
+Mindful Care,2022,Challenger,7.0
+Monument,2022,Challenger,5.81
+Mora Medical,2022,Challenger,6.0
+Most Days,2022,Challenger,7.1
+Motivo (Healthcare Technology Systems),2022,Enabler,14.0
+Movn Health,2022,Challenger,19.72
+Moxe,2022,Enabler,30.0
+Mural Health,2022,Enabler,7.5
+Naborforce,2022,Challenger,9.0
+Navina,2022,Enabler,23.0
+Ness Well,2022,Enabler,14.93
+Neurotrack,2022,Enabler,10.0
+Neurotrack,2022,Enabler,10.0
+NexHealth,2022,Enabler,125.0
+Nice Healthcare,2022,Challenger,30.0
+Nimble (Medical Records Systems),2022,Enabler,14.75
+nirvanaHealth,2022,Enabler,60.0
+Nomad Health,2022,Enabler,
+Nucleai,2022,Enabler,33.0
+Nudj Health,2022,Challenger,10.0
+Nue Life,2022,Challenger,15.0
+Numo Health,2022,Enabler,7.6
+NuvoAir Medical,2022,Challenger,25.0
+Oath Care,2022,Enabler,6.0
+ObjectiveHealth,2022,Enabler,7.54
+Octagos,2022,Enabler,8.89
+Olio (Business/Productivity Software),2022,Enabler,13.2
+Omada (NAS: OMDA),2022,Challenger,192.0
+Omada (NAS: OMDA),2022,Challenger,73.0
+OMNY Health,2022,Enabler,17.0
+On Belay Health Solutions,2022,Enabler,6.54
+OncoHost,2022,Enabler,35.0
+OneStep,2022,Challenger,9.0
+OneStudyTeam,2022,Enabler,220.0
+OpenEvidence,2022,Enabler,23.82
+OpenLoop Health,2022,Enabler,8.0
+Osmind,2022,Enabler,40.0
+Ostro,2022,Enabler,28.0
+Oui Therapeutics,2022,Challenger,26.0
+Overalls,2022,Challenger,4.6
+Owkin,2022,Enabler,50.0
+Pager,2022,Challenger,22.0
+Parachute (Healthcare Services),2022,Enabler,5.0
+Particle Health,2022,Enabler,25.0
+Pasadena Private Lending,2022,Enabler,20.0
+Pathware,2022,Enabler,7.0
+PatientIQ,2022,Enabler,17.5
+PatientsLikeMe,2022,Enabler,26.0
+PaxeraHealth,2022,Enabler,5.5
+Pebble (Healthcare Services),2022,Challenger,12.0
+Pelago,2022,Challenger,15.3
+Penrod,2022,Enabler,
+People Science,2022,Enabler,5.0
+Perry Health,2022,Challenger,23.46
+Perx Health,2022,Challenger,5.0
+Pery,2022,Challenger,5.78
+PHC Global,2022,Enabler,35.0
+Photon (New York),2022,Enabler,6.4
+PicnicHealth,2022,Enabler,60.0
+Pine Park Health,2022,Challenger,43.3
+Plume (Clinics/Virtual care),2022,Challenger,24.0
+Policybot,2022,Enabler,
+Porter (Enterprise Systems),2022,Enabler,5.54
+Positive Development,2022,Challenger,37.26
+Posterity Health,2022,Challenger,9.68
+Power,2022,Enabler,6.95
+Pramana,2022,Challenger,30.0
+Prealize Health,2022,Enabler,7.34
+Preveta,2022,Enabler,6.25
+Primum,2022,Enabler,7.75
+Probari,2022,Challenger,
+Profi,2022,Enabler,6.0
+ProofPilot,2022,Enabler,12.8
+Proscia,2022,Enabler,36.62
+Psych Hub,2022,Enabler,16.0
+Pure Global,2022,Enabler,14.84
+Pure Global,2022,Enabler,9.43
+PurpleLab,2022,Enabler,40.0
+QbDVision,2022,Enabler,15.0
+QurHealth,2022,Enabler,14.0
+Qventus,2022,Enabler,50.0
+Radicle Science,2022,Enabler,6.0
+RAIsonance,2022,Enabler,6.17
+RealizedCare,2022,Enabler,12.12
+ReferWell,2022,Enabler,5.45
+Reframe (Other Healthcare Services),2022,Enabler,17.45
+Regard,2022,Enabler,15.3
+Renee,2022,Enabler,8.2
+Reverence,2022,Enabler,9.26
+Revero,2022,Challenger,5.0
+Rhino (Medical Records Systems),2022,Enabler,6.7
+Rhyme (Healthcare Technology Systems),2022,Enabler,25.0
+Ria Health,2022,Challenger,18.0
+Rippl Care,2022,Challenger,32.0
+Ritten,2022,Enabler,6.0
+Riva Health,2022,Enabler,7.25
+Ro,2022,Challenger,100.0
+RockStep,2022,Enabler,5.29
+Roon,2022,Challenger,7.5
+Rose Health,2022,Enabler,7.5
+RTHM,2022,Challenger,6.1
+Rula,2022,Challenger,56.0
+Rupa Health,2022,Enabler,18.51
+Rupa Health,2022,Enabler,19.88
+RxLive (Clinics/Outpatient Services),2022,Challenger,5.2
+SafeinHome,2022,Challenger,13.8
+Sage (Healthcare Technology Systems),2022,Enabler,8.87
+SamaCare,2022,Enabler,12.0
+SaVia Health,2022,Enabler,9.0
+Scope (Network Management Software),2022,Enabler,20.0
+Scripta Insights,2022,Enabler,15.5
+ScriptDrop,2022,Enabler,7.49
+Season Health,2022,Challenger,34.0
+Segmed,2022,Enabler,5.2
+Sensi.AI,2022,Enabler,7.0
+Sesame (Managed Care),2022,Enabler,50.76
+Seventy Three Ventures,2022,Enabler,6.4
+Shadowbox,2022,Enabler,8.0
+ShiftMed,2022,Enabler,86.62
+Sibly,2022,Challenger,10.1
+Sickbay,2022,Enabler,17.0
+SimX (Healthcare Devices and Supplies),2022,Enabler,
+Slingshot AI,2022,Challenger,6.16
+Smarter Technologies,2022,Enabler,5.97
+SmartStory,2022,Enabler,7.11
+SmithRx,2022,Enabler,27.16
+SocialClimb,2022,Enabler,3.4
+Socially Determined,2022,Enabler,26.0
+Soda Health,2022,Enabler,30.0
+Solera (Other Healthcare Services),2022,Enabler,48.0
+Somatus,2022,Challenger,325.0
+Sonde,2022,Enabler,21.0
+Sparta Science,2022,Enabler,16.27
+SpectrumAi,2022,Enabler,9.0
+Stability Health,2022,Enabler,7.5
+Standard Practice,2022,Enabler,8.5
+SteadyMD,2022,Challenger,30.0
+Steer Health,2022,Enabler,6.5
+Stellar Health,2022,Enabler,80.5
+Story Health,2022,Enabler,22.63
+SubjectWell,2022,Enabler,35.0
+Subtle Medical,2022,Enabler,25.0
+Summer Health,2022,Challenger,7.5
+Summus,2022,Challenger,15.0
+Sunrise (Healthcare Services),2022,Challenger,30.0
+Syapse,2022,Enabler,35.0
+Syllable,2022,Enabler,40.0
+Synapticure,2022,Challenger,6.0
+Syntegra,2022,Enabler,5.63
+Syntrillo,2022,Enabler,10.0
+Talkiatry,2022,Challenger,57.0
+TapestryHealth,2022,Challenger,11.0
+TaskHuman,2022,Enabler,19.27
+Tegria,2022,Enabler,
+Tembo Health,2022,Challenger,8.91
+TempoPay,2022,Enabler,7.75
+Tesis Biosciences,2022,Challenger,36.0
+Thatch,2022,Enabler,5.6
+Theator,2022,Enabler,24.0
+Thoughtful.ai,2022,Enabler,10.0
+TimeDoc Health,2022,Challenger,48.64
+Together Senior Health,2022,Challenger,7.75
+Tomorrow Health,2022,Enabler,60.0
+Topography Health,2022,Enabler,21.5
+Transcarent,2022,Enabler,200.0
+Translational Imaging Innovations,2022,Enabler,9.25
+Trayt,2022,Enabler,7.46
+Tripp,2022,Enabler,11.2
+Truepill,2022,Enabler,50.0
+TSOLife,2022,Enabler,8.75
+Tula Health,2022,Enabler,19.38
+Turquoise Health,2022,Enabler,20.0
+Turtle Health,2022,Challenger,5.4
+UberDoc,2022,Challenger,4.1
+Undivided,2022,Challenger,
+Upfront (Enterprise Systems),2022,Enabler,72.02
+Uplift Labs,2022,Enabler,7.76
+Upside (Elder and Disabled Care),2022,Challenger,7.75
+Upswing Health,2022,Enabler,4.91
+Upward Health,2022,Challenger,15.8
+Upwards,2022,Challenger,17.0
+Utila (Outcome Management),2022,Enabler,6.5
+Valera Health,2022,Challenger,44.54
+Validic,2022,Enabler,12.0
+Vanna Health,2022,Challenger,29.0
+Verana Health,2022,Enabler,150.0
+Violet (Healthcare Technology Systems),2022,Enabler,5.29
+Vital (Enterprise Systems),2022,Enabler,24.7
+VitalTech,2022,Challenger,14.31
+Vivo (Healthcare Services),2022,Challenger,
+VivoSense,2022,Enabler,25.0
+Viz.ai,2022,Enabler,100.0
+Vytalize,2022,Challenger,47.21
+Walnut,2022,Enabler,11.75
+Waltz Health,2022,Enabler,35.0
+Warrior Centric Health,2022,Enabler,3.52
+Wave (Clinics/Outpatient Services),2022,Challenger,6.5
+Waymark,2022,Challenger,45.0
+Weekend Health,2022,Challenger,22.8
+WellTheory,2022,Challenger,7.15
+Wellvana,2022,Enabler,19.12
+Wheel Health,2022,Enabler,125.0
+Wildflower Health,2022,Enabler,26.0
+Woebot Health,2022,Challenger,9.5
+Wonder Sciences,2022,Challenger,7.0
+WonderMind,2022,Challenger,5.0
+Wysa,2022,Challenger,10.71
+xCures,2022,Enabler,16.8
+XP Health,2022,Challenger,22.1
+Zaya Care,2022,Enabler,7.6
+Zeera,2022,Challenger,37.0
+Zocalo Health,2022,Challenger,6.93
+1health,2023,Enabler,6.2
+1upHealth,2023,Enabler,40.0
+4D Path,2023,Enabler,12.97
+98point6,2023,Challenger,30.72
+Abridge,2023,Enabler,30.0
+Abridge,2023,Enabler,6.4
+AdaptX,2023,Enabler,10.0
+Advanced Telepsych,2023,Challenger,5.2
+Affect (Clinics/Outpatient Services),2023,Challenger,18.07
+Ahara,2023,Challenger,10.02
+Aiberry,2023,Challenger,8.0
+Aledade,2023,Enabler,260.0
+Allara Health,2023,Challenger,16.29
+Amalgam,2023,Challenger,17.36
+Ambience Healthcare,2023,Enabler,70.0
+Amenities,2023,Enabler,8.81
+Ample (Clinics/Outpatient Services),2023,Challenger,7.75
+AngioWave Imaging,2023,Enabler,7.5
+AnswersNow,2023,Challenger,11.0
+Antidote Health,2023,Challenger,18.2
+Aptihealth,2023,Challenger,10.8
+AristaMD,2023,Enabler,27.32
+Arrive Health,2023,Enabler,6.0
+Artera (Decision/Risk Analysis),2023,Enabler,90.0
+Arya.Fyi,2023,Challenger,6.4
+AtlasXomics,2023,Enabler,10.1
+Atropos Health,2023,Enabler,5.92
+Author Health,2023,Challenger,115.0
+Avo,2023,Enabler,5.0
+Axuall,2023,Enabler,7.0
+Axuall,2023,Enabler,20.0
+Banjo Health,2023,Enabler,13.0
+Batelle,2023,Challenger,11.75
+BeeKeeperAI,2023,Enabler,12.1
+BEKHealth,2023,Enabler,5.47
+Bend Health,2023,Challenger,31.16
+Bento (Social/Platform Software),2023,Enabler,7.17
+Better Life Partners,2023,Challenger,26.53
+BetterNight,2023,Challenger,33.0
+BetterYou,2023,Challenger,6.0
+Biograph,2023,Challenger,29.9
+Blueprint (Outcome Management),2023,Enabler,8.98
+BodySpec,2023,Challenger,8.61
+Bold (Educational and Training Services),2023,Challenger,17.0
+Branch Care,2023,Challenger,5.69
+Brisk Health,2023,Challenger,25.0
+Briya,2023,Enabler,11.5
+Bunkerhill Health,2023,Enabler,18.93
+C2N Diagnostics,2023,Challenger,35.0
+Candid Health,2023,Enabler,24.49
+Capital Rx,2023,Enabler,72.0
+Caraway (Clinics/Outpatient Services),2023,Challenger,16.75
+Carbon Health,2023,Challenger,300.0
+Carbon Health,2023,Challenger,100.0
+CardioOne,2023,Enabler,8.0
+Care Continuity,2023,Enabler,10.0
+Carium,2023,Enabler,6.0
+Carrum Health,2023,Enabler,45.0
+Carta Healthcare,2023,Enabler,25.0
+Cartwheel (Healthcare Services),2023,Challenger,20.0
+CCX,2023,Enabler,5.4
+Certify,2023,Enabler,11.0
+ChartSpan,2023,Enabler,8.8
+Clarity Pediatrics,2023,Challenger,10.0
+Clayful,2023,Challenger,7.0
+Clearsense,2023,Enabler,50.0
+Clever Care Health Plan,2023,Challenger,42.0
+Clinetic,2023,Enabler,5.0
+Clinicom,2023,Challenger,4.85
+Clinii,2023,Enabler,8.0
+ClinTrialConnect,2023,Enabler,13.51
+CodaMetrix,2023,Enabler,57.38
+Cognitive Leap,2023,Challenger,5.1
+Collectly,2023,Enabler,29.0
+Commons Clinic,2023,Challenger,19.5
+Commure,2023,Enabler,1323.13
+Complete Sleep,2023,Challenger,5.0
+Conceivable Life Sciences,2023,Challenger,20.0
+Cortex (Healthcare Technology Systems),2023,Enabler,10.0
+Cortica,2023,Challenger,115.0
+Covera Health,2023,Enabler,50.0
+Coverself,2023,Enabler,5.45
+Cromatic,2023,Enabler,5.3
+Culina Health,2023,Challenger,7.38
+CuraFi,2023,Enabler,7.25
+Cureatr,2023,Enabler,
+CureMetrix,2023,Enabler,6.0
+Cylinder,2023,Challenger,31.0
+Datacubed Health,2023,Enabler,6.11
+Daybreak Health,2023,Challenger,13.0
+Delorean AI,2023,Enabler,7.55
+DexCare,2023,Enabler,75.0
+Diana Health,2023,Challenger,34.0
+Digbi Health,2023,Challenger,5.4
+Doceree,2023,Enabler,22.84
+Dock Health,2023,Enabler,5.0
+DocStation,2023,Enabler,6.5
+Duos,2023,Challenger,10.0
+Elaborate,2023,Enabler,9.88
+Electronic Caregiver,2023,Enabler,95.0
+Elemeno Health,2023,Enabler,6.03
+Eleos Health,2023,Enabler,40.0
+Elucid,2023,Enabler,86.0
+Elucid,2023,Enabler,27.0
+Empassion,2023,Challenger,25.0
+EmpowerHealth,2023,Enabler,6.92
+Endear Health,2023,Enabler,
+EngagedMD,2023,Enabler,5.5
+Enlitic (ASX: ENL),2023,Enabler,67.0
+Enspire DBS Therapy,2023,Challenger,17.6
+EO,2023,Enabler,7.0
+Epikast,2023,Enabler,10.0
+Essenvia,2023,Enabler,5.48
+Eureka (Outcome Management (Healthcare)),2023,Challenger,7.0
+evolvedMD,2023,Challenger,14.0
+Fabric (Enterprise Systems),2023,Enabler,20.0
+Family First,2023,Challenger,11.0
+Faro Health,2023,Enabler,20.0
+Fay,2023,Challenger,5.0
+Ferrum Health,2023,Enabler,6.0
+Firefly Health,2023,Challenger,40.0
+FirstHand Health,2023,Challenger,28.08
+FitLab,2023,Challenger,10.0
+Float Health (Healthcare Services),2023,Challenger,9.99
+FoldHealth,2023,Enabler,6.0
+ForeSee Medical,2023,Enabler,13.54
+Form Health,2023,Challenger,22.88
+Forum,2023,Enabler,5.3
+Forward (Clinics/Outpatient Services),2023,Challenger,100.0
+Frame,2023,Challenger,5.33
+Free Market Health,2023,Enabler,20.0
+Frontera,2023,Enabler,22.0
+Fuse Oncology,2023,Enabler,8.86
+FuturHealth,2023,Challenger,5.0
+GenHealth.ai,2023,Enabler,13.0
+Glass Health,2023,Enabler,5.0
+Glooko,2023,Enabler,67.0
+Glytec,2023,Enabler,19.35
+Goodpath,2023,Enabler,
+Grayce,2023,Challenger,11.5
+GrayHawk Health,2023,Challenger,13.25
+Greater Good Health,2023,Challenger,10.25
+Guidelight Health,2023,Challenger,
+Gyant,2023,Enabler,8.61
+HANDLE Global,2023,Enabler,5.7
+Harbinger Health,2023,Enabler,140.0
+HealNow,2023,Enabler,5.5
+Health Data Analytics Institute,2023,Enabler,31.0
+HealthBridge,2023,Enabler,8.37
+HealthEC,2023,Enabler,5.0
+HealtheMed,2023,Enabler,5.7
+HealthŌme,2023,Enabler,7.94
+HealthRhythms,2023,Enabler,22.2
+HealthSnap,2023,Enabler,9.09
+HealthTap,2023,Challenger,
+Healthy Amplified,2023,Enabler,5.0
+Heartbeat Health,2023,Challenger,10.75
+HeartFlow,2023,Enabler,215.0
+HelloHero,2023,Challenger,
+Helpful (Healthcare Services),2023,Enabler,7.75
+Hepta Bio,2023,Enabler,6.5
+Hero Journey Club,2023,Challenger,14.62
+Herself Health,2023,Challenger,26.0
+Herself Health,2023,Challenger,7.0
+Hippocratic AI,2023,Enabler,15.0
+Hippocratic AI,2023,Enabler,50.0
+Holmusk (He serves),2023,Enabler,30.0
+Holmusk (He serves),2023,Enabler,45.75
+Hone Health,2023,Challenger,7.8
+How's Mom,2023,Enabler,6.69
+Huddle Up,2023,Challenger,8.0
+Hummingbird Healthcare,2023,Enabler,5.8
+Ilant Health,2023,Challenger,5.5
+iLLUME Ai,2023,Enabler,
+Impilo (Enterprise Systems (Healthcare)),2023,Enabler,5.7
+Inbound Health,2023,Enabler,30.0
+Inbox Health,2023,Enabler,22.5
+Index Health,2023,Challenger,9.0
+InpharmD,2023,Enabler,6.5
+InsideTracker,2023,Enabler,15.0
+Inspire ( Healthcare Services),2023,Enabler,20.0
+Integral (Business/Productivity Software),2023,Enabler,6.77
+INTERlink AI,2023,Enabler,6.0
+InterWell Health,2023,Challenger,18.33
+Isaac Health,2023,Challenger,5.7
+Janus Health,2023,Enabler,45.1
+Javara,2023,Challenger,9.43
+Joon Care,2023,Challenger,6.0
+Journey Clinical,2023,Challenger,8.5
+K Health,2023,Enabler,59.0
+K4Connect,2023,Enabler,8.98
+KAID Health,2023,Enabler,9.0
+KangarooHealth,2023,Challenger,8.0
+Keona Health,2023,Enabler,5.2
+Kindbody,2023,Challenger,191.2
+Kiyatec,2023,Enabler,18.0
+Klaim,2023,Enabler,30.0
+Klarity (Clinics/Outpatient Services),2023,Challenger,9.2
+knownwell,2023,Challenger,20.0
+Koios Medical,2023,Enabler,8.0
+KOS (Decision/Risk Analysis),2023,Enabler,50.0
+Kyros (Healthcare Technology Systems),2023,Enabler,10.5
+Kythera,2023,Enabler,20.0
+Laguna Health,2023,Enabler,15.0
+LainaHealth,2023,Enabler,11.0
+Lane Health,2023,Enabler,9.95
+Laudio,2023,Enabler,13.0
+Lavita (Healthcare Technology Systems),2023,Enabler,5.0
+Lifeforce,2023,Challenger,12.0
+Lifeguard (Elder and Disabled Care),2023,Challenger,5.49
+Lifespark,2023,Challenger,50.0
+Lirio,2023,Enabler,14.61
+Local Infusion,2023,Challenger,10.0
+Longevo,2023,Challenger,5.5
+Loyal (Healthcare Technology Systems),2023,Enabler,7.7
+Lucem Health,2023,Enabler,7.7
+Luna (Nashville),2023,Challenger,36.0
+Macro Trials,2023,Enabler,6.0
+Mae,2023,Challenger,5.98
+Main Street Health,2023,Challenger,315.0
+Mantra Health,2023,Challenger,5.0
+Marker (Educational Software),2023,Challenger,15.0
+Mate Fertility,2023,Challenger,5.2
+MD Revolution,2023,Enabler,5.0
+MedArrive,2023,Challenger,
+Medcrypt,2023,Enabler,27.19
+Medeloop,2023,Enabler,9.0
+Medical Brain,2023,Enabler,5.43
+MediView,2023,Enabler,25.44
+Medivis,2023,Enabler,22.01
+Medix Infusion,2023,Challenger,25.5
+Medmo,2023,Enabler,
+Medrhythms,2023,Challenger,5.82
+MedScout,2023,Enabler,5.0
+MedTel,2023,Enabler,6.4
+Melonfrost,2023,Enabler,7.0
+Memora Health,2023,Enabler,30.0
+Midi Health,2023,Challenger,25.0
+Midstream Health,2023,Enabler,6.68
+Mingle Health,2023,Enabler,7.28
+Modern Pediatrics,2023,Challenger,9.0
+Mon Ami,2023,Enabler,8.0
+Monogram Health,2023,Challenger,375.0
+MPAC Healthcare,2023,Challenger,
+Myavana,2023,Enabler,5.9
+MyMeds,2023,Enabler,6.0
+MyWoundDoctor,2023,Challenger,11.85
+Nest Genomics,2023,Enabler,8.5
+Nest Health,2023,Challenger,14.62
+Neura Health,2023,Challenger,8.0
+NOCD,2023,Challenger,30.45
+Nomi Health,2023,Enabler,118.24
+Nourish,2023,Challenger,35.0
+Nourish,2023,Challenger,8.0
+Nymbl (Healthcare Technology Systems),2023,Enabler,11.25
+Octave,2023,Challenger,52.51
+Octave (Decision/Risk Analysis),2023,Enabler,
+Octave (Decision/Risk Analysis),2023,Enabler,62.0
+Onc AI,2023,Enabler,25.0
+OnMed,2023,Enabler,6.1
+OpenEvidence,2023,Enabler,25.0
+OpenLoop Health,2023,Enabler,21.0
+Opt Health,2023,Challenger,6.88
+Optimize Health,2023,Enabler,18.0
+Orbita,2023,Enabler,24.0
+Orchid,2023,Enabler,12.0
+Oshi Health,2023,Challenger,30.0
+Ospitek,2023,Enabler,5.42
+Oula,2023,Challenger,19.1
+Ounce,2023,Challenger,5.2
+Outbound AI,2023,Enabler,8.9
+Paceline,2023,Enabler,20.31
+Paige,2023,Enabler,19.5
+Pair Team,2023,Challenger,19.68
+Papa,2023,Challenger,60.0
+Paradigm Health (Healthcare Technology Systems),2023,Challenger,203.0
+PathologyWatch,2023,Challenger,22.34
+PathWell Health,2023,Challenger,
+PayGround,2023,Enabler,14.86
+Paytient,2023,Enabler,33.0
+Pearl Health,2023,Enabler,75.0
+PhaseV (Healthcare Technology Systems),2023,Enabler,9.0
+Playback Health,2023,Enabler,8.3
+Plenful,2023,Enabler,9.0
+Pomelo Care,2023,Challenger,25.0
+Power,2023,Enabler,11.93
+Prealize Health,2023,Enabler,7.0
+Prevounce,2023,Enabler,7.0
+Probably Genetic,2023,Enabler,10.72
+Profi,2023,Enabler,8.0
+Prognos Health,2023,Enabler,23.29
+Prompt (Enterprise Systems (Healthcare)),2023,Enabler,6.04
+Prospyr,2023,Enabler,5.0
+Pulsara,2023,Enabler,6.75
+PursueCare,2023,Challenger,20.0
+Quilted Health,2023,Challenger,25.0
+Quinsite,2023,Enabler,5.9
+RAIsonance,2023,Enabler,7.2
+RapidAI,2023,Enabler,75.0
+Recuro Health,2023,Challenger,47.0
+Reema Health,2023,Enabler,10.0
+Rejoy Health,2023,Challenger,5.4
+Reveleer,2023,Enabler,14.4
+Rheonix,2023,Challenger,183.0
+RhythmScience,2023,Enabler,6.0
+Rialtic,2023,Enabler,36.71
+Rialtic,2023,Enabler,28.1
+RightMove Health,2023,Challenger,21.0
+Rimidi,2023,Enabler,5.68
+Rx Redefined,2023,Enabler,8.0
+RxLightning,2023,Enabler,17.5
+Rymedi,2023,Enabler,9.0
+Ryse Health,2023,Challenger,9.79
+SafeinHome,2023,Challenger,7.4
+SafeRide Health,2023,Enabler,36.0
+Sage (Healthcare Technology Systems),2023,Enabler,14.17
+Sanguine,2023,Enabler,10.0
+Scene Health,2023,Challenger,12.99
+Season Health,2023,Challenger,
+Seek Labs,2023,Challenger,13.64
+Sempre Health,2023,Enabler,15.75
+Sevaro,2023,Challenger,12.0
+Sheer Health,2023,Enabler,13.0
+ShiftMed,2023,Enabler,200.0
+Sift Healthcare,2023,Enabler,6.75
+Smarter Technologies,2023,Enabler,15.0
+Solace (Clinics/Outpatient Services),2023,Challenger,6.53
+Sollis Health,2023,Challenger,15.0
+Sovato,2023,Enabler,13.0
+Spark Advisors,2023,Challenger,10.05
+Sparta Science,2023,Enabler,5.0
+Sparta Science,2023,Enabler,34.0
+SpectrumAi,2023,Enabler,20.0
+Spring Health,2023,Challenger,63.5
+Stella,2023,Challenger,7.0
+Strive Health,2023,Challenger,166.0
+Summus,2023,Challenger,19.5
+Sunrise (Healthcare Services),2023,Challenger,42.0
+Surgical Safety Technologies,2023,Enabler,15.0
+SurgNet Health Partners,2023,Challenger,50.0
+Surgo Health,2023,Enabler,5.0
+Synapse Health,2023,Enabler,25.0
+Synapse Health,2023,Enabler,15.0
+Syntax Health,2023,Enabler,7.5
+TailorCare,2023,Challenger,60.0
+Taro Health,2023,Challenger,13.59
+Tausight,2023,Enabler,6.0
+The Helper Bees,2023,Enabler,7.0
+Therapymatch,2023,Challenger,125.0
+Third Eye Health,2023,Enabler,19.77
+Thrivable,2023,Enabler,6.3
+Thrive Health Tech,2023,Enabler,8.0
+Thrive365,2023,Enabler,
+Thyme Care,2023,Challenger,60.0
+Tia,2023,Challenger,20.73
+Topography Health,2023,Enabler,27.5
+Trayt,2023,Enabler,5.8
+Triomics,2023,Enabler,13.75
+Triplebar,2023,Enabler,21.0
+Truepill,2023,Enabler,66.18
+TruLite Health,2023,Enabler,8.15
+TuumIO,2023,Enabler,30.2
+Twenty30 Health,2023,Challenger,6.52
+Twill,2023,Challenger,36.03
+UpLift (Clinics/Outpatient Services),2023,Challenger,10.7
+Uptiv Health,2023,Challenger,7.75
+Uwill,2023,Challenger,30.0
+Vale Health,2023,Enabler,13.0
+Vativis,2023,Enabler,20.0
+Venteur,2023,Challenger,7.6
+Ventricle Health,2023,Challenger,8.0
+Verana Health,2023,Enabler,78.74
+Verifiable,2023,Enabler,27.0
+Viomerse,2023,Enabler,4.9
+Visana Health,2023,Challenger,13.36
+Vita Health,2023,Challenger,3.4
+Vital Interaction,2023,Enabler,6.0
+ViuHealth,2023,Challenger,5.77
+Vivid Health (Elder and Disabled Care),2023,Challenger,7.5
+Viz.ai,2023,Enabler,40.0
+Vybe Urgent Care,2023,Challenger,8.94
+Vytalize,2023,Challenger,45.0
+Watershed Health,2023,Enabler,9.82
+Wave (Clinics/Outpatient Services),2023,Challenger,5.95
+Waymark,2023,Challenger,22.0
+Wellth (California),2023,Enabler,20.0
+Wellthy (Clinics/Outpatient Services),2023,Challenger,25.5
+Wellvana,2023,Enabler,122.03
+Wisdo Health,2023,Challenger,5.0
+Xerataus IQX,2023,Enabler,25.0
+Xerataus IQX,2023,Enabler,25.0
+Youtopia,2023,Enabler,
+Yuvo Health,2023,Challenger,20.0
+Zeda (Devices and Supplies),2023,Enabler,
+ZERO.health,2023,Challenger,6.28
+Zorro,2023,Enabler,11.5
+Zus Health,2023,Enabler,40.0
+32Health,2024,Enabler,18.2
+9am.Health,2024,Challenger,9.57
+Abacus Insights,2024,Enabler,6.31
+Abacus Insights,2024,Enabler,40.92
+Abett,2024,Enabler,11.6
+Abridge,2024,Enabler,150.0
+AccessHope,2024,Enabler,33.0
+Acclinate,2024,Enabler,7.0
+Accompany Health,2024,Challenger,56.0
+AcuityMD,2024,Enabler,45.0
+Adoreal,2024,Enabler,5.87
+Advantia Health,2024,Challenger,85.72
+AiCure,2024,Enabler,4.0
+Aizon,2024,Enabler,20.0
+Alchemy (Healthcare Services),2024,Enabler,
+Alto Pharmacy,2024,Challenger,120.0
+Amae Health,2024,Challenger,16.0
+Amino Health,2024,Enabler,90.0
+AminoChain,2024,Enabler,7.07
+Amplifyer Bio,2024,Enabler,7.08
+Anatomy Financial,2024,Enabler,19.0
+Anatomy Financial,2024,Enabler,7.6
+AngelEye Health,2024,Enabler,11.17
+Anna Health,2024,Challenger,9.41
+Anomaly (Healthcare Technology Systems),2024,Enabler,13.07
+Anterior,2024,Enabler,20.0
+Arbital Health,2024,Enabler,15.23
+Arise (Clinics/Outpatient Services),2024,Challenger,6.48
+Artera (Decision/Risk Analysis),2024,Enabler,20.0
+Artisight,2024,Enabler,38.46
+Arya.Fyi,2024,Challenger,8.5
+Arya.Fyi,2024,Challenger,7.5
+Ascellus,2024,Challenger,13.98
+Ascertain,2024,Enabler,7.38
+Ash,2024,Challenger,10.0
+Atropos Health,2024,Enabler,33.0
+Auxa Health,2024,Enabler,5.2
+Ayble Health,2024,Enabler,6.65
+Backpack,2024,Challenger,14.0
+Bamf Health,2024,Challenger,
+Bardavon,2024,Enabler,5.22
+Bayesian Health,2024,Enabler,25.0
+Being Health,2024,Challenger,5.4
+BeMe Health,2024,Enabler,8.45
+Berry Street,2024,Challenger,9.24
+Better Health,2024,Challenger,14.0
+Betteromics,2024,Enabler,16.6
+Bexa,2024,Enabler,16.0
+Blackbird Health,2024,Challenger,22.77
+Blink Health,2024,Enabler,128.0
+blockit (Enterprise Systems (Healthcare)),2024,Enabler,10.65
+Bluespine,2024,Enabler,7.2
+Bolster,2024,Enabler,14.0
+Bolt (Healthcare Technology Systems),2024,Enabler,6.93
+Boost,2024,Enabler,
+BostonGene,2024,Enabler,120.0
+Boulder Care,2024,Challenger,35.01
+BrainCheck,2024,Enabler,15.37
+Brave Care,2024,Challenger,9.35
+BridgepointMD,2024,Challenger,
+Brightside Health,2024,Challenger,33.0
+Brisk Health,2024,Challenger,100.0
+C2N Diagnostics,2024,Challenger,40.0
+CalmWave,2024,Enabler,5.25
+Camber (Healthcare Technology Systems),2024,Enabler,30.0
+Canary Speech,2024,Enabler,13.03
+Canid,2024,Enabler,10.5
+Canvas Medical,2024,Enabler,21.0
+CapExpert,2024,Enabler,5.0
+Capital Rx,2024,Enabler,115.0
+Caresyntax,2024,Enabler,210.0
+Cariloop,2024,Challenger,20.0
+CARPL,2024,Enabler,6.0
+Cayaba Care,2024,Challenger,5.0
+Cecelia Health,2024,Challenger,6.48
+Centaur Labs,2024,Enabler,16.0
+Centivo,2024,Challenger,49.14
+Cercle (Healthcare Services),2024,Challenger,6.0
+Chamber Cardio,2024,Challenger,8.0
+Chapter Medicare,2024,Challenger,50.0
+Ciba Health,2024,Challenger,10.3
+Citizen Health,2024,Enabler,14.5
+Clarion (Enterprise Systems (Healthcare)),2024,Enabler,5.3
+Clarium Health,2024,Enabler,12.5
+Clearsense,2024,Enabler,18.74
+Cleerly,2024,Enabler,106.0
+Click Therapeutics,2024,Challenger,11.27
+CodaMetrix,2024,Enabler,40.0
+Codex Health,2024,Enabler,11.0
+Cohere Health,2024,Enabler,52.0
+Conceivable Life Sciences,2024,Challenger,
+Conversio Health,2024,Enabler,15.83
+Coral Care,2024,Challenger,6.5
+Cornerstone AI,2024,Enabler,5.0
+Cortechs.ai,2024,Enabler,14.0
+Cortica,2024,Challenger,81.0
+Counsel Health (Clinics/Outpatient Services),2024,Challenger,11.0
+Counslr,2024,Challenger,5.24
+Courier Health,2024,Enabler,16.5
+Coverself,2024,Enabler,8.18
+CredibleMind,2024,Challenger,7.5
+Credo Health,2024,Enabler,5.25
+CueZen,2024,Enabler,7.0
+Culina Health,2024,Challenger,7.9
+CureMetrix,2024,Enabler,30.0
+Dandelion Health,2024,Enabler,15.89
+Darby,2024,Enabler,
+DashLX,2024,Enabler,5.4
+Dasi Simulations,2024,Enabler,5.0
+DaylightRx,2024,Enabler,5.8
+Decisio Health,2024,Enabler,
+Devoted,2024,Challenger,287.0
+DigitalOwl,2024,Enabler,12.0
+Dina,2024,Enabler,7.0
+Diverge Health,2024,Challenger,52.4
+Doc.com,2024,Challenger,299.29
+Doceree,2024,Enabler,11.71
+Droxi,2024,Enabler,21.0
+Dyania Health,2024,Enabler,10.0
+Elderhood,2024,Challenger,12.0
+Eleanor Health,2024,Challenger,30.0
+Eleanor Health,2024,Challenger,22.24
+Emerging Therapy Solutions,2024,Enabler,5.0
+Equip,2024,Challenger,35.0
+Eternal Life Services,2024,Challenger,
+Etiometry,2024,Enabler,
+Evidation Health,2024,Enabler,105.0
+Evidently,2024,Enabler,15.0
+Evidium,2024,Enabler,6.75
+EXOKĒRYX,2024,Enabler,12.0
+Expressable,2024,Challenger,28.16
+Eyebot,2024,Enabler,8.28
+Fabric (Enterprise Systems),2024,Enabler,60.0
+Faction Imaging,2024,Enabler,10.0
+Fay,2024,Challenger,20.0
+Feeling Great,2024,Enabler,8.0
+Ferrum Health,2024,Enabler,16.0
+Ferry Health,2024,Enabler,6.0
+Fifth Eye,2024,Enabler,2.6
+Fijoya,2024,Enabler,8.3
+Firefly Health,2024,Challenger,18.9
+flyte (Clinics/Outpatient Services),2024,Challenger,24.0
+Foodsmart,2024,Enabler,200.0
+Foodsmart,2024,Enabler,40.0
+Forge Health,2024,Challenger,26.6
+Form Health,2024,Challenger,12.5
+Fort Health,2024,Challenger,5.5
+Forta,2024,Challenger,55.0
+Fountain Life,2024,Challenger,101.63
+Freenome,2024,Enabler,254.0
+Freyja Healthcare,2024,Enabler,8.0
+Freyja Healthcare,2024,Enabler,8.0
+Function Health,2024,Challenger,53.0
+FUTURE Health,2024,Challenger,7.81
+Genomic Life,2024,Challenger,10.0
+Getlabs,2024,Challenger,18.69
+Global Health Opinion,2024,Challenger,10.0
+Glooko,2024,Enabler,100.0
+Granted Health,2024,Enabler,15.0
+Greater Good Health,2024,Challenger,10.0
+GroundGame Health,2024,Enabler,17.0
+Grouper,2024,Enabler,5.0
+GRYT Health,2024,Challenger,5.0
+Guidehealth,2024,Challenger,14.0
+Habitat Health,2024,Challenger,50.0
+HabitNu,2024,Challenger,
+Hamilton Health Box,2024,Challenger,10.0
+Harbor Health,2024,Challenger,95.5
+Headlight (Clinics/Outpatient Services),2024,Challenger,18.0
+HealthBridge,2024,Enabler,6.62
+Healthee,2024,Enabler,32.0
+HealtheMed,2024,Enabler,7.0
+HealthEx,2024,Enabler,14.0
+HealthFleet,2024,Enabler,10.0
+Healthie,2024,Enabler,23.0
+HealthSnap,2024,Enabler,25.0
+Heartbeat Health,2024,Challenger,24.05
+Herself Health,2024,Challenger,37.0
+Heyday Health,2024,Challenger,12.5
+HiLabs,2024,Enabler,39.0
+Hippocratic AI,2024,Enabler,72.0
+Homethrive,2024,Challenger,20.52
+Hope River Ranch,2024,Challenger,16.7
+Hopscotch Primary Care,2024,Challenger,45.0
+Huddle Up,2024,Challenger,8.0
+Humanaut Health,2024,Challenger,8.7
+Humata Health,2024,Enabler,25.0
+Hummingbird Healthcare,2024,Enabler,9.87
+Impilo (Enterprise Systems (Healthcare)),2024,Enabler,11.5
+Infinitus Systems,2024,Enabler,51.5
+Infiuss Health,2024,Enabler,8.0
+Informed Mindset Medical,2024,Enabler,8.0
+InHome Therapy,2024,Challenger,5.06
+InStride Health,2024,Challenger,30.0
+Integral (Business/Productivity Software),2024,Enabler,8.0
+Intus Care,2024,Enabler,11.56
+iVEAcare,2024,Enabler,27.5
+Janus Health,2024,Enabler,10.0
+Jimini Health,2024,Challenger,8.0
+Journey Clinical,2024,Challenger,15.0
+Joyful Health,2024,Enabler,5.1
+K Health,2024,Enabler,88.36
+Kins (Clinics/Outpatient Services),2024,Challenger,7.0
+Kythera,2024,Enabler,
+LainaHealth,2024,Enabler,5.0
+Lark,2024,Challenger,16.3
+Latent,2024,Enabler,13.0
+Leal Health,2024,Enabler,26.0
+Legion Health,2024,Challenger,6.3
+LifeGuides,2024,Enabler,15.04
+Lighten,2024,Enabler,5.5
+Lightship,2024,Challenger,21.51
+Limber Health,2024,Challenger,14.03
+Lin Health,2024,Enabler,5.3
+Lirio,2024,Enabler,
+Livara Health,2024,Challenger,15.0
+Lore (Healthcare Technology Systems),2024,Enabler,80.0
+Lotus Health AI,2024,Enabler,5.0
+LowRetreat,2024,Challenger,5.0
+Loyal (Healthcare Technology Systems),2024,Enabler,33.5
+Lumata Health,2024,Challenger,5.5
+Lumeon,2024,Enabler,7.59
+Lumeris,2024,Enabler,100.0
+Luminate Health,2024,Enabler,6.5
+Lushi,2024,Challenger,5.0
+Mammoth Biosciences,2024,Enabler,106.69
+Manatee (Healthcare Services),2024,Challenger,5.0
+Manifold,2024,Enabler,15.0
+MARABio,2024,Challenger,19.06
+Marble ( Clinics/Outpatient Services),2024,Challenger,5.0
+Marigold Health,2024,Challenger,10.89
+Marvin (Clinics/Outpatient Services),2024,Challenger,20.3
+Maven,2024,Challenger,125.0
+MD Ally,2024,Challenger,23.68
+Medefy,2024,Enabler,15.27
+Medeloop,2024,Enabler,15.5
+Medicom (Medical Records Systems),2024,Enabler,
+Medrhythms,2024,Challenger,19.78
+MedScout,2024,Enabler,10.0
+MedsEngine,2024,Enabler,5.8
+Midi Health,2024,Challenger,63.0
+Mindera Health,2024,Enabler,
+Mindscale AI,2024,Enabler,7.65
+Mindset,2024,Enabler,13.0
+MiSalud Health,2024,Challenger,8.0
+Mural Health,2024,Enabler,12.73
+Nagish,2024,Enabler,15.7
+Nema Health,2024,Challenger,14.5
+Neosoma,2024,Enabler,6.24
+Nest Collaborative,2024,Challenger,6.0
+New Lantern,2024,Enabler,19.0
+NewView,2024,Enabler,10.4
+Nirvana Health,2024,Enabler,24.16
+NOCD,2024,Challenger,5.7
+Nodal,2024,Enabler,8.7
+Nomad Health,2024,Enabler,22.0
+NourishedRx,2024,Challenger,15.0
+Nucleai,2024,Enabler,14.0
+Nurocor,2024,Enabler,4.95
+Nym (Enterprise Systems (Healthcare)),2024,Enabler,46.96
+Nymbl Systems,2024,Enabler,7.5
+Oath Surgical,2024,Challenger,10.13
+ObvioHealth,2024,Enabler,49.4
+Octagos,2024,Enabler,43.0
+Ōmcare,2024,Enabler,8.02
+On Belay Health Solutions,2024,Enabler,9.4
+OncoLens,2024,Enabler,14.96
+OneStep,2024,Challenger,40.5
+Onto Health,2024,Challenger,5.2
+Opmed.ai,2024,Enabler,15.0
+Opyn,2024,Enabler,
+Oshi Health,2024,Challenger,60.0
+Osigu,2024,Enabler,25.0
+Oula,2024,Challenger,28.0
+Overalls,2024,Challenger,
+Overstory Health,2024,Challenger,5.98
+Panda Health,2024,Enabler,18.42
+Parachute (Healthcare Services),2024,Enabler,93.84
+Paradigm Health (Healthcare Technology Systems),2024,Challenger,
+Parsley Health,2024,Challenger,32.0
+Particle Health,2024,Enabler,10.0
+PatchRx,2024,Enabler,8.0
+Patho Care,2024,Enabler,150.15
+PathPresenter,2024,Enabler,7.5
+PatientPartner,2024,Enabler,7.5
+Peerlogic,2024,Enabler,5.65
+Pelago,2024,Challenger,58.0
+PeopleOne Health,2024,Challenger,32.3
+Peregrine Health,2024,Challenger,11.89
+Pharos (Medical Records Systems),2024,Enabler,5.0
+Phenomix Sciences,2024,Enabler,5.5
+Photon (New York),2024,Enabler,9.0
+Pi Health,2024,Enabler,72.68
+PicassoMD,2024,Enabler,9.4
+Pieces (Decision/Risk Analysis),2024,Enabler,25.0
+PinkDx,2024,Enabler,45.0
+Pip Care,2024,Enabler,13.11
+Piramidal,2024,Enabler,6.0
+Playback Health,2024,Enabler,5.0
+Plenful,2024,Enabler,17.0
+Pluto Health,2024,Enabler,8.0
+Pomelo Care,2024,Challenger,46.0
+Populus Health Technologies,2024,Enabler,5.0
+Positive Development,2024,Challenger,11.9
+Praia Health,2024,Enabler,20.0
+Predict Health,2024,Challenger,5.51
+PreemptiveAI,2024,Enabler,6.4
+Prompt (Enterprise Systems (Healthcare)),2024,Enabler,206.0
+Proscia,2024,Enabler,9.0
+Qualified Health,2024,Enabler,30.0
+Quantile Health,2024,Enabler,7.7
+Qurate Health,2024,Enabler,7.48
+Qventus,2024,Enabler,85.0
+Rad AI,2024,Enabler,50.99
+Radial Health (Clinics/Outpatient Services),2024,Challenger,7.8
+RadiantGraph,2024,Enabler,14.06
+Recovery.com,2024,Challenger,5.0
+Redi.Health,2024,Enabler,13.76
+Regard,2024,Enabler,61.0
+Reperio,2024,Enabler,11.0
+Reveleer,2024,Enabler,16.03
+Rezilient,2024,Challenger,9.68
+RFX Solutions,2024,Enabler,9.0
+Ride Health,2024,Enabler,10.88
+Rightway,2024,Enabler,108.75
+Rimsys,2024,Enabler,5.3
+Rippl Care,2024,Challenger,23.0
+Ritten,2024,Enabler,11.5
+Rivia Health,2024,Enabler,9.88
+Roon,2024,Challenger,15.0
+Rula,2024,Challenger,125.0
+Rx Redefined,2024,Enabler,21.49
+RxMapper,2024,Challenger,
+Sage (Healthcare Technology Systems),2024,Enabler,35.0
+Salvo Health,2024,Challenger,5.0
+SamaCare,2024,Enabler,16.7
+Scripta Insights,2024,Enabler,16.75
+Seen Health,2024,Challenger,22.0
+Segmed,2024,Enabler,10.4
+Sensi.AI,2024,Enabler,31.0
+Seven Starling,2024,Challenger,12.63
+ShiftMed,2024,Enabler,47.0
+Sibly,2024,Challenger,15.4
+Sift Healthcare,2024,Enabler,20.0
+Simple App,2024,Challenger,20.75
+Simplify Genomics,2024,Enabler,
+Sirona,2024,Enabler,42.0
+Skilltrade,2024,Enabler,5.05
+SlicedHealth,2024,Enabler,5.0
+Slingshot AI,2024,Challenger,30.0
+Slope (Healthcare Technology Systems),2024,Enabler,14.0
+Smarter Technologies,2024,Enabler,50.0
+SmithRx,2024,Enabler,60.0
+Soda Health,2024,Enabler,54.18
+Soda Health,2024,Enabler,9.0
+Solace (Clinics/Outpatient Services),2024,Challenger,14.0
+Sollis Health,2024,Challenger,33.0
+Sounder Benefits,2024,Enabler,7.5
+Spark Advisors,2024,Challenger,25.0
+SpectraWAVE,2024,Enabler,50.29
+Spring Health,2024,Challenger,100.0
+Sprinter Health,2024,Challenger,35.14
+Stellar Sleep,2024,Challenger,6.0
+Subtle Medical,2024,Enabler,10.0
+Suki,2024,Enabler,64.97
+Sully.ai,2024,Enabler,15.0
+Summer Health,2024,Challenger,11.65
+Sunny Benefits,2024,Enabler,8.15
+Sunstone Therapies,2024,Challenger,8.49
+Sword Health,2024,Challenger,130.0
+Syllable,2024,Enabler,22.0
+Synapticure,2024,Challenger,40.15
+Synthpop,2024,Enabler,13.78
+TailorMed,2024,Enabler,27.5
+Talkiatry,2024,Challenger,80.0
+TARA Mind,2024,Challenger,8.0
+Tava Health,2024,Challenger,20.0
+Taxo,2024,Enabler,5.0
+Tele911,2024,Enabler,6.76
+Tennr,2024,Enabler,35.44
+Tennr,2024,Enabler,18.0
+Thatch,2024,Enabler,38.0
+Therapymatch,2024,Challenger,100.0
+ThoroughCare,2024,Enabler,5.0
+Thoughtful.ai,2024,Enabler,12.5
+Thrive AI Health,2024,Challenger,8.05
+Thyme Care,2024,Challenger,55.0
+Transcarent,2024,Enabler,126.0
+Triomics,2024,Enabler,15.0
+Trovo Health,2024,Enabler,15.0
+TrueMed,2024,Enabler,10.05
+Truveris,2024,Enabler,15.0
+Tuesday Health,2024,Challenger,60.0
+Turquoise Health,2024,Enabler,30.0
+Tuva Health,2024,Enabler,5.0
+TwentyEight,2024,Enabler,18.19
+Two Chairs,2024,Challenger,62.35
+UberDoc,2024,Challenger,11.6
+uMethod,2024,Enabler,
+Upheal,2024,Enabler,10.0
+UptimeHealth,2024,Enabler,12.5
+Upward Health,2024,Challenger,50.0
+Upwards,2024,Challenger,21.0
+Valar Labs,2024,Enabler,22.0
+Valerie Health,2024,Enabler,6.6
+Veritas Labs,2024,Enabler,5.0
+Verse Medical,2024,Challenger,42.0
+Vesta Healthcare,2024,Challenger,65.0
+Vi Labs,2024,Enabler,111.0
+Vida,2024,Challenger,35.0
+Videra Health,2024,Challenger,5.6
+VieCure,2024,Enabler,45.0
+Vita Health,2024,Challenger,22.5
+Vitable Health,2024,Challenger,16.0
+Vital Interaction,2024,Enabler,15.0
+VitalTech,2024,Challenger,8.97
+Vivoo,2024,Challenger,10.0
+Waltz Health,2024,Enabler,17.5
+Watershed Health,2024,Enabler,13.6
+Wayspring,2024,Challenger,45.0
+Weave,2024,Enabler,10.0
+Whiterabbit.ai,2024,Enabler,19.5
+Wildflower Health,2024,Enabler,17.94
+Willow Health,2024,Challenger,13.0
+XP Health,2024,Challenger,33.2
+XRHealth USA,2024,Challenger,6.0
+Yuvo Health,2024,Challenger,8.17
+Zarminali Pediatrics,2024,Challenger,40.0
+Zeda (Devices and Supplies),2024,Enabler,200.0
+Zing Health,2024,Challenger,140.0
